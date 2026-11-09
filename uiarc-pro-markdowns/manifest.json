@@ -1,0 +1,1866 @@
+[
+  {
+    "folder": "blocks",
+    "slug": "account-health",
+    "markdown": "https://uiarc.dev/components/blocks/account-health/markdown",
+    "page": "https://uiarc.dev/components/blocks/account-health",
+    "title": "Account health",
+    "bytes": 11087
+  },
+  {
+    "folder": "blocks",
+    "slug": "activity-feed",
+    "markdown": "https://uiarc.dev/components/blocks/activity-feed/markdown",
+    "page": "https://uiarc.dev/components/blocks/activity-feed",
+    "title": "Activity feed",
+    "bytes": 6529
+  },
+  {
+    "folder": "blocks",
+    "slug": "activity-terrain",
+    "markdown": "https://uiarc.dev/components/blocks/activity-terrain/markdown",
+    "page": "https://uiarc.dev/components/blocks/activity-terrain",
+    "title": "Activity terrain",
+    "bytes": 5062
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-approvals",
+    "markdown": "https://uiarc.dev/components/blocks/agent-approvals/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-approvals",
+    "title": "Agent approvals",
+    "bytes": 14928
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-builder",
+    "markdown": "https://uiarc.dev/components/blocks/agent-builder/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-builder",
+    "title": "Agent builder",
+    "bytes": 13399
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-gallery",
+    "markdown": "https://uiarc.dev/components/blocks/agent-gallery/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-gallery",
+    "title": "Agent gallery",
+    "bytes": 11438
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-memory",
+    "markdown": "https://uiarc.dev/components/blocks/agent-memory/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-memory",
+    "title": "Agent memory",
+    "bytes": 15384
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-orchestrator",
+    "markdown": "https://uiarc.dev/components/blocks/agent-orchestrator/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-orchestrator",
+    "title": "Agent orchestrator",
+    "bytes": 15745
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-routines",
+    "markdown": "https://uiarc.dev/components/blocks/agent-routines/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-routines",
+    "title": "Agent routines",
+    "bytes": 15737
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-run",
+    "markdown": "https://uiarc.dev/components/blocks/agent-run/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-run",
+    "title": "Agent run",
+    "bytes": 12703
+  },
+  {
+    "folder": "blocks",
+    "slug": "agent-tasks",
+    "markdown": "https://uiarc.dev/components/blocks/agent-tasks/markdown",
+    "page": "https://uiarc.dev/components/blocks/agent-tasks",
+    "title": "Agent tasks",
+    "bytes": 14498
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-answer",
+    "markdown": "https://uiarc.dev/components/blocks/ai-answer/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-answer",
+    "title": "AI answer",
+    "bytes": 15758
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-chat",
+    "markdown": "https://uiarc.dev/components/blocks/ai-chat/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-chat",
+    "title": "AI chat",
+    "bytes": 15060
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-composer",
+    "markdown": "https://uiarc.dev/components/blocks/ai-composer/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-composer",
+    "title": "AI composer",
+    "bytes": 13895
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-feature-launch",
+    "markdown": "https://uiarc.dev/components/blocks/ai-feature-launch/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-feature-launch",
+    "title": "AI feature launch",
+    "bytes": 12860
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-inline-edit",
+    "markdown": "https://uiarc.dev/components/blocks/ai-inline-edit/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-inline-edit",
+    "title": "AI inline edit",
+    "bytes": 10543
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-insight-card",
+    "markdown": "https://uiarc.dev/components/blocks/ai-insight-card/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-insight-card",
+    "title": "AI insight card",
+    "bytes": 10072
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-search-bar",
+    "markdown": "https://uiarc.dev/components/blocks/ai-search-bar/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-search-bar",
+    "title": "AI search bar",
+    "bytes": 13090
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-setup-wizard",
+    "markdown": "https://uiarc.dev/components/blocks/ai-setup-wizard/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-setup-wizard",
+    "title": "AI setup wizard",
+    "bytes": 12604
+  },
+  {
+    "folder": "blocks",
+    "slug": "ai-side-panel",
+    "markdown": "https://uiarc.dev/components/blocks/ai-side-panel/markdown",
+    "page": "https://uiarc.dev/components/blocks/ai-side-panel",
+    "title": "AI side panel",
+    "bytes": 11007
+  },
+  {
+    "folder": "blocks",
+    "slug": "api-keys",
+    "markdown": "https://uiarc.dev/components/blocks/api-keys/markdown",
+    "page": "https://uiarc.dev/components/blocks/api-keys",
+    "title": "API keys",
+    "bytes": 4840
+  },
+  {
+    "folder": "blocks",
+    "slug": "availability-picker",
+    "markdown": "https://uiarc.dev/components/blocks/availability-picker/markdown",
+    "page": "https://uiarc.dev/components/blocks/availability-picker",
+    "title": "Availability picker",
+    "bytes": 4452
+  },
+  {
+    "folder": "blocks",
+    "slug": "billing-overview",
+    "markdown": "https://uiarc.dev/components/blocks/billing-overview/markdown",
+    "page": "https://uiarc.dev/components/blocks/billing-overview",
+    "title": "Billing overview",
+    "bytes": 5484
+  },
+  {
+    "folder": "blocks",
+    "slug": "budget-variance",
+    "markdown": "https://uiarc.dev/components/blocks/budget-variance/markdown",
+    "page": "https://uiarc.dev/components/blocks/budget-variance",
+    "title": "Budget variance",
+    "bytes": 9965
+  },
+  {
+    "folder": "blocks",
+    "slug": "call-insights",
+    "markdown": "https://uiarc.dev/components/blocks/call-insights/markdown",
+    "page": "https://uiarc.dev/components/blocks/call-insights",
+    "title": "Call insights",
+    "bytes": 11568
+  },
+  {
+    "folder": "blocks",
+    "slug": "cancel-flow",
+    "markdown": "https://uiarc.dev/components/blocks/cancel-flow/markdown",
+    "page": "https://uiarc.dev/components/blocks/cancel-flow",
+    "title": "Cancel flow",
+    "bytes": 5120
+  },
+  {
+    "folder": "blocks",
+    "slug": "cart-drawer",
+    "markdown": "https://uiarc.dev/components/blocks/cart-drawer/markdown",
+    "page": "https://uiarc.dev/components/blocks/cart-drawer",
+    "title": "Cart drawer",
+    "bytes": 6296
+  },
+  {
+    "folder": "blocks",
+    "slug": "catch-up",
+    "markdown": "https://uiarc.dev/components/blocks/catch-up/markdown",
+    "page": "https://uiarc.dev/components/blocks/catch-up",
+    "title": "Catch up",
+    "bytes": 10978
+  },
+  {
+    "folder": "blocks",
+    "slug": "checkout-live",
+    "markdown": "https://uiarc.dev/components/blocks/checkout-live/markdown",
+    "page": "https://uiarc.dev/components/blocks/checkout-live",
+    "title": "Live checkout",
+    "bytes": 7437
+  },
+  {
+    "folder": "blocks",
+    "slug": "checkout-summary",
+    "markdown": "https://uiarc.dev/components/blocks/checkout-summary/markdown",
+    "page": "https://uiarc.dev/components/blocks/checkout-summary",
+    "title": "Checkout summary",
+    "bytes": 9259
+  },
+  {
+    "folder": "blocks",
+    "slug": "choropleth-explorer",
+    "markdown": "https://uiarc.dev/components/blocks/choropleth-explorer/markdown",
+    "page": "https://uiarc.dev/components/blocks/choropleth-explorer",
+    "title": "Choropleth explorer",
+    "bytes": 10677
+  },
+  {
+    "folder": "blocks",
+    "slug": "cohort-retention",
+    "markdown": "https://uiarc.dev/components/blocks/cohort-retention/markdown",
+    "page": "https://uiarc.dev/components/blocks/cohort-retention",
+    "title": "Cohort retention",
+    "bytes": 5282
+  },
+  {
+    "folder": "blocks",
+    "slug": "connected-scatter",
+    "markdown": "https://uiarc.dev/components/blocks/connected-scatter/markdown",
+    "page": "https://uiarc.dev/components/blocks/connected-scatter",
+    "title": "Connected scatter",
+    "bytes": 10065
+  },
+  {
+    "folder": "blocks",
+    "slug": "credit-topup",
+    "markdown": "https://uiarc.dev/components/blocks/credit-topup/markdown",
+    "page": "https://uiarc.dev/components/blocks/credit-topup",
+    "title": "Credit top-up",
+    "bytes": 11082
+  },
+  {
+    "folder": "blocks",
+    "slug": "customer-galaxy",
+    "markdown": "https://uiarc.dev/components/blocks/customer-galaxy/markdown",
+    "page": "https://uiarc.dev/components/blocks/customer-galaxy",
+    "title": "Customer galaxy",
+    "bytes": 5181
+  },
+  {
+    "folder": "blocks",
+    "slug": "delivery-tracker",
+    "markdown": "https://uiarc.dev/components/blocks/delivery-tracker/markdown",
+    "page": "https://uiarc.dev/components/blocks/delivery-tracker",
+    "title": "Delivery tracker",
+    "bytes": 4118
+  },
+  {
+    "folder": "blocks",
+    "slug": "document-extract",
+    "markdown": "https://uiarc.dev/components/blocks/document-extract/markdown",
+    "page": "https://uiarc.dev/components/blocks/document-extract",
+    "title": "Document extraction",
+    "bytes": 16674
+  },
+  {
+    "folder": "blocks",
+    "slug": "domain-verify",
+    "markdown": "https://uiarc.dev/components/blocks/domain-verify/markdown",
+    "page": "https://uiarc.dev/components/blocks/domain-verify",
+    "title": "Domain verify",
+    "bytes": 10805
+  },
+  {
+    "folder": "blocks",
+    "slug": "env-variables",
+    "markdown": "https://uiarc.dev/components/blocks/env-variables/markdown",
+    "page": "https://uiarc.dev/components/blocks/env-variables",
+    "title": "Environment variables",
+    "bytes": 9167
+  },
+  {
+    "folder": "blocks",
+    "slug": "eval-suite",
+    "markdown": "https://uiarc.dev/components/blocks/eval-suite/markdown",
+    "page": "https://uiarc.dev/components/blocks/eval-suite",
+    "title": "Eval suite",
+    "bytes": 13341
+  },
+  {
+    "folder": "blocks",
+    "slug": "exploded-view",
+    "markdown": "https://uiarc.dev/components/blocks/exploded-view/markdown",
+    "page": "https://uiarc.dev/components/blocks/exploded-view",
+    "title": "Exploded view",
+    "bytes": 9516
+  },
+  {
+    "folder": "blocks",
+    "slug": "feature-bento",
+    "markdown": "https://uiarc.dev/components/blocks/feature-bento/markdown",
+    "page": "https://uiarc.dev/components/blocks/feature-bento",
+    "title": "Feature bento",
+    "bytes": 7388
+  },
+  {
+    "folder": "blocks",
+    "slug": "feature-voting",
+    "markdown": "https://uiarc.dev/components/blocks/feature-voting/markdown",
+    "page": "https://uiarc.dev/components/blocks/feature-voting",
+    "title": "Feature voting",
+    "bytes": 11446
+  },
+  {
+    "folder": "blocks",
+    "slug": "feedback-board",
+    "markdown": "https://uiarc.dev/components/blocks/feedback-board/markdown",
+    "page": "https://uiarc.dev/components/blocks/feedback-board",
+    "title": "Feedback board",
+    "bytes": 7771
+  },
+  {
+    "folder": "blocks",
+    "slug": "gantt-timeline",
+    "markdown": "https://uiarc.dev/components/blocks/gantt-timeline/markdown",
+    "page": "https://uiarc.dev/components/blocks/gantt-timeline",
+    "title": "Gantt timeline",
+    "bytes": 9811
+  },
+  {
+    "folder": "blocks",
+    "slug": "goal-tracker",
+    "markdown": "https://uiarc.dev/components/blocks/goal-tracker/markdown",
+    "page": "https://uiarc.dev/components/blocks/goal-tracker",
+    "title": "Goal tracker",
+    "bytes": 10998
+  },
+  {
+    "folder": "blocks",
+    "slug": "help-center",
+    "markdown": "https://uiarc.dev/components/blocks/help-center/markdown",
+    "page": "https://uiarc.dev/components/blocks/help-center",
+    "title": "Help center",
+    "bytes": 7451
+  },
+  {
+    "folder": "blocks",
+    "slug": "hero-signup",
+    "markdown": "https://uiarc.dev/components/blocks/hero-signup/markdown",
+    "page": "https://uiarc.dev/components/blocks/hero-signup",
+    "title": "Hero signup",
+    "bytes": 8396
+  },
+  {
+    "folder": "blocks",
+    "slug": "horizon-chart",
+    "markdown": "https://uiarc.dev/components/blocks/horizon-chart/markdown",
+    "page": "https://uiarc.dev/components/blocks/horizon-chart",
+    "title": "Horizon chart",
+    "bytes": 10240
+  },
+  {
+    "folder": "blocks",
+    "slug": "inbox-triage",
+    "markdown": "https://uiarc.dev/components/blocks/inbox-triage/markdown",
+    "page": "https://uiarc.dev/components/blocks/inbox-triage",
+    "title": "Inbox triage",
+    "bytes": 5154
+  },
+  {
+    "folder": "blocks",
+    "slug": "integrations",
+    "markdown": "https://uiarc.dev/components/blocks/integrations/markdown",
+    "page": "https://uiarc.dev/components/blocks/integrations",
+    "title": "Integrations",
+    "bytes": 4880
+  },
+  {
+    "folder": "blocks",
+    "slug": "invite-people",
+    "markdown": "https://uiarc.dev/components/blocks/invite-people/markdown",
+    "page": "https://uiarc.dev/components/blocks/invite-people",
+    "title": "Invite people",
+    "bytes": 6636
+  },
+  {
+    "folder": "blocks",
+    "slug": "invoice-studio",
+    "markdown": "https://uiarc.dev/components/blocks/invoice-studio/markdown",
+    "page": "https://uiarc.dev/components/blocks/invoice-studio",
+    "title": "Invoice studio",
+    "bytes": 4793
+  },
+  {
+    "folder": "blocks",
+    "slug": "journey-flow",
+    "markdown": "https://uiarc.dev/components/blocks/journey-flow/markdown",
+    "page": "https://uiarc.dev/components/blocks/journey-flow",
+    "title": "Journey flow",
+    "bytes": 5773
+  },
+  {
+    "folder": "blocks",
+    "slug": "kanban-board",
+    "markdown": "https://uiarc.dev/components/blocks/kanban-board/markdown",
+    "page": "https://uiarc.dev/components/blocks/kanban-board",
+    "title": "Kanban board",
+    "bytes": 6943
+  },
+  {
+    "folder": "blocks",
+    "slug": "knowledge-base",
+    "markdown": "https://uiarc.dev/components/blocks/knowledge-base/markdown",
+    "page": "https://uiarc.dev/components/blocks/knowledge-base",
+    "title": "Knowledge base",
+    "bytes": 14056
+  },
+  {
+    "folder": "blocks",
+    "slug": "kpi-drilldown",
+    "markdown": "https://uiarc.dev/components/blocks/kpi-drilldown/markdown",
+    "page": "https://uiarc.dev/components/blocks/kpi-drilldown",
+    "title": "KPI drilldown",
+    "bytes": 6552
+  },
+  {
+    "folder": "blocks",
+    "slug": "layout-morph",
+    "markdown": "https://uiarc.dev/components/blocks/layout-morph/markdown",
+    "page": "https://uiarc.dev/components/blocks/layout-morph",
+    "title": "Layout morph",
+    "bytes": 4875
+  },
+  {
+    "folder": "blocks",
+    "slug": "lead-scoring",
+    "markdown": "https://uiarc.dev/components/blocks/lead-scoring/markdown",
+    "page": "https://uiarc.dev/components/blocks/lead-scoring",
+    "title": "Lead scoring",
+    "bytes": 10589
+  },
+  {
+    "folder": "blocks",
+    "slug": "line-replay",
+    "markdown": "https://uiarc.dev/components/blocks/line-replay/markdown",
+    "page": "https://uiarc.dev/components/blocks/line-replay",
+    "title": "Line replay",
+    "bytes": 11445
+  },
+  {
+    "folder": "blocks",
+    "slug": "login",
+    "markdown": "https://uiarc.dev/components/blocks/login/markdown",
+    "page": "https://uiarc.dev/components/blocks/login",
+    "title": "Login and sign up",
+    "bytes": 27841
+  },
+  {
+    "folder": "blocks",
+    "slug": "magic-link",
+    "markdown": "https://uiarc.dev/components/blocks/magic-link/markdown",
+    "page": "https://uiarc.dev/components/blocks/magic-link",
+    "title": "Magic link",
+    "bytes": 10910
+  },
+  {
+    "folder": "blocks",
+    "slug": "market-terminal",
+    "markdown": "https://uiarc.dev/components/blocks/market-terminal/markdown",
+    "page": "https://uiarc.dev/components/blocks/market-terminal",
+    "title": "Market terminal",
+    "bytes": 10485
+  },
+  {
+    "folder": "blocks",
+    "slug": "mcp-servers",
+    "markdown": "https://uiarc.dev/components/blocks/mcp-servers/markdown",
+    "page": "https://uiarc.dev/components/blocks/mcp-servers",
+    "title": "MCP servers",
+    "bytes": 15798
+  },
+  {
+    "folder": "blocks",
+    "slug": "media-player",
+    "markdown": "https://uiarc.dev/components/blocks/media-player/markdown",
+    "page": "https://uiarc.dev/components/blocks/media-player",
+    "title": "Media player",
+    "bytes": 4681
+  },
+  {
+    "folder": "blocks",
+    "slug": "metric-explorer",
+    "markdown": "https://uiarc.dev/components/blocks/metric-explorer/markdown",
+    "page": "https://uiarc.dev/components/blocks/metric-explorer",
+    "title": "Metric explorer",
+    "bytes": 4951
+  },
+  {
+    "folder": "blocks",
+    "slug": "metrics-dashboard",
+    "markdown": "https://uiarc.dev/components/blocks/metrics-dashboard/markdown",
+    "page": "https://uiarc.dev/components/blocks/metrics-dashboard",
+    "title": "Metrics dashboard",
+    "bytes": 5197
+  },
+  {
+    "folder": "blocks",
+    "slug": "model-arena",
+    "markdown": "https://uiarc.dev/components/blocks/model-arena/markdown",
+    "page": "https://uiarc.dev/components/blocks/model-arena",
+    "title": "Model arena",
+    "bytes": 14272
+  },
+  {
+    "folder": "blocks",
+    "slug": "model-picker",
+    "markdown": "https://uiarc.dev/components/blocks/model-picker/markdown",
+    "page": "https://uiarc.dev/components/blocks/model-picker",
+    "title": "Model picker",
+    "bytes": 10190
+  },
+  {
+    "folder": "blocks",
+    "slug": "mrr-waterfall",
+    "markdown": "https://uiarc.dev/components/blocks/mrr-waterfall/markdown",
+    "page": "https://uiarc.dev/components/blocks/mrr-waterfall",
+    "title": "MRR waterfall",
+    "bytes": 5018
+  },
+  {
+    "folder": "blocks",
+    "slug": "multi-step-form",
+    "markdown": "https://uiarc.dev/components/blocks/multi-step-form/markdown",
+    "page": "https://uiarc.dev/components/blocks/multi-step-form",
+    "title": "Multi-step form",
+    "bytes": 5381
+  },
+  {
+    "folder": "blocks",
+    "slug": "onboarding-illustration",
+    "markdown": "https://uiarc.dev/components/blocks/onboarding-illustration/markdown",
+    "page": "https://uiarc.dev/components/blocks/onboarding-illustration",
+    "title": "Onboarding illustration",
+    "bytes": 4393
+  },
+  {
+    "folder": "blocks",
+    "slug": "onboarding-survey",
+    "markdown": "https://uiarc.dev/components/blocks/onboarding-survey/markdown",
+    "page": "https://uiarc.dev/components/blocks/onboarding-survey",
+    "title": "Onboarding survey",
+    "bytes": 9752
+  },
+  {
+    "folder": "blocks",
+    "slug": "pricing-calculator",
+    "markdown": "https://uiarc.dev/components/blocks/pricing-calculator/markdown",
+    "page": "https://uiarc.dev/components/blocks/pricing-calculator",
+    "title": "Pricing calculator",
+    "bytes": 5783
+  },
+  {
+    "folder": "blocks",
+    "slug": "product-detail",
+    "markdown": "https://uiarc.dev/components/blocks/product-detail/markdown",
+    "page": "https://uiarc.dev/components/blocks/product-detail",
+    "title": "Product detail",
+    "bytes": 7695
+  },
+  {
+    "folder": "blocks",
+    "slug": "product-listing",
+    "markdown": "https://uiarc.dev/components/blocks/product-listing/markdown",
+    "page": "https://uiarc.dev/components/blocks/product-listing",
+    "title": "Product listing",
+    "bytes": 7935
+  },
+  {
+    "folder": "blocks",
+    "slug": "profile-page",
+    "markdown": "https://uiarc.dev/components/blocks/profile-page/markdown",
+    "page": "https://uiarc.dev/components/blocks/profile-page",
+    "title": "Profile page",
+    "bytes": 7735
+  },
+  {
+    "folder": "blocks",
+    "slug": "project-board",
+    "markdown": "https://uiarc.dev/components/blocks/project-board/markdown",
+    "page": "https://uiarc.dev/components/blocks/project-board",
+    "title": "Project board",
+    "bytes": 4978
+  },
+  {
+    "folder": "blocks",
+    "slug": "prompt-studio",
+    "markdown": "https://uiarc.dev/components/blocks/prompt-studio/markdown",
+    "page": "https://uiarc.dev/components/blocks/prompt-studio",
+    "title": "Prompt studio",
+    "bytes": 16228
+  },
+  {
+    "folder": "blocks",
+    "slug": "release-readiness",
+    "markdown": "https://uiarc.dev/components/blocks/release-readiness/markdown",
+    "page": "https://uiarc.dev/components/blocks/release-readiness",
+    "title": "Release readiness",
+    "bytes": 4239
+  },
+  {
+    "folder": "blocks",
+    "slug": "research-run",
+    "markdown": "https://uiarc.dev/components/blocks/research-run/markdown",
+    "page": "https://uiarc.dev/components/blocks/research-run",
+    "title": "Research run",
+    "bytes": 10476
+  },
+  {
+    "folder": "blocks",
+    "slug": "revenue-explorer",
+    "markdown": "https://uiarc.dev/components/blocks/revenue-explorer/markdown",
+    "page": "https://uiarc.dev/components/blocks/revenue-explorer",
+    "title": "Revenue explorer",
+    "bytes": 5606
+  },
+  {
+    "folder": "blocks",
+    "slug": "revenue-globe",
+    "markdown": "https://uiarc.dev/components/blocks/revenue-globe/markdown",
+    "page": "https://uiarc.dev/components/blocks/revenue-globe",
+    "title": "Revenue globe",
+    "bytes": 5167
+  },
+  {
+    "folder": "blocks",
+    "slug": "roles-permissions",
+    "markdown": "https://uiarc.dev/components/blocks/roles-permissions/markdown",
+    "page": "https://uiarc.dev/components/blocks/roles-permissions",
+    "title": "Roles and permissions",
+    "bytes": 5370
+  },
+  {
+    "folder": "blocks",
+    "slug": "scroll-story",
+    "markdown": "https://uiarc.dev/components/blocks/scroll-story/markdown",
+    "page": "https://uiarc.dev/components/blocks/scroll-story",
+    "title": "Scroll story",
+    "bytes": 4642
+  },
+  {
+    "folder": "blocks",
+    "slug": "search-results",
+    "markdown": "https://uiarc.dev/components/blocks/search-results/markdown",
+    "page": "https://uiarc.dev/components/blocks/search-results",
+    "title": "Search results",
+    "bytes": 9325
+  },
+  {
+    "folder": "blocks",
+    "slug": "seat-manager",
+    "markdown": "https://uiarc.dev/components/blocks/seat-manager/markdown",
+    "page": "https://uiarc.dev/components/blocks/seat-manager",
+    "title": "Seat manager",
+    "bytes": 12914
+  },
+  {
+    "folder": "blocks",
+    "slug": "seat-map",
+    "markdown": "https://uiarc.dev/components/blocks/seat-map/markdown",
+    "page": "https://uiarc.dev/components/blocks/seat-map",
+    "title": "Seat map",
+    "bytes": 9933
+  },
+  {
+    "folder": "blocks",
+    "slug": "security-settings",
+    "markdown": "https://uiarc.dev/components/blocks/security-settings/markdown",
+    "page": "https://uiarc.dev/components/blocks/security-settings",
+    "title": "Security settings",
+    "bytes": 5055
+  },
+  {
+    "folder": "blocks",
+    "slug": "selection-toolbar",
+    "markdown": "https://uiarc.dev/components/blocks/selection-toolbar/markdown",
+    "page": "https://uiarc.dev/components/blocks/selection-toolbar",
+    "title": "Selection toolbar",
+    "bytes": 4999
+  },
+  {
+    "folder": "blocks",
+    "slug": "semantic-zoom",
+    "markdown": "https://uiarc.dev/components/blocks/semantic-zoom/markdown",
+    "page": "https://uiarc.dev/components/blocks/semantic-zoom",
+    "title": "Semantic zoom",
+    "bytes": 5077
+  },
+  {
+    "folder": "blocks",
+    "slug": "settings-command",
+    "markdown": "https://uiarc.dev/components/blocks/settings-command/markdown",
+    "page": "https://uiarc.dev/components/blocks/settings-command",
+    "title": "Settings command",
+    "bytes": 7972
+  },
+  {
+    "folder": "blocks",
+    "slug": "settings-page",
+    "markdown": "https://uiarc.dev/components/blocks/settings-page/markdown",
+    "page": "https://uiarc.dev/components/blocks/settings-page",
+    "title": "Settings page",
+    "bytes": 5049
+  },
+  {
+    "folder": "blocks",
+    "slug": "sidebar",
+    "markdown": "https://uiarc.dev/components/blocks/sidebar/markdown",
+    "page": "https://uiarc.dev/components/blocks/sidebar",
+    "title": "Sidebar",
+    "bytes": 20978
+  },
+  {
+    "folder": "blocks",
+    "slug": "small-multiples",
+    "markdown": "https://uiarc.dev/components/blocks/small-multiples/markdown",
+    "page": "https://uiarc.dev/components/blocks/small-multiples",
+    "title": "Small multiples",
+    "bytes": 10813
+  },
+  {
+    "folder": "blocks",
+    "slug": "smart-scheduler",
+    "markdown": "https://uiarc.dev/components/blocks/smart-scheduler/markdown",
+    "page": "https://uiarc.dev/components/blocks/smart-scheduler",
+    "title": "Smart scheduler",
+    "bytes": 12342
+  },
+  {
+    "folder": "blocks",
+    "slug": "spend-alert",
+    "markdown": "https://uiarc.dev/components/blocks/spend-alert/markdown",
+    "page": "https://uiarc.dev/components/blocks/spend-alert",
+    "title": "Spend alert",
+    "bytes": 9485
+  },
+  {
+    "folder": "blocks",
+    "slug": "spotlight-grid",
+    "markdown": "https://uiarc.dev/components/blocks/spotlight-grid/markdown",
+    "page": "https://uiarc.dev/components/blocks/spotlight-grid",
+    "title": "Spotlight grid",
+    "bytes": 6414
+  },
+  {
+    "folder": "blocks",
+    "slug": "support-conversation",
+    "markdown": "https://uiarc.dev/components/blocks/support-conversation/markdown",
+    "page": "https://uiarc.dev/components/blocks/support-conversation",
+    "title": "Support conversation",
+    "bytes": 4960
+  },
+  {
+    "folder": "blocks",
+    "slug": "support-widget",
+    "markdown": "https://uiarc.dev/components/blocks/support-widget/markdown",
+    "page": "https://uiarc.dev/components/blocks/support-widget",
+    "title": "Support widget",
+    "bytes": 5925
+  },
+  {
+    "folder": "blocks",
+    "slug": "task-breakdown",
+    "markdown": "https://uiarc.dev/components/blocks/task-breakdown/markdown",
+    "page": "https://uiarc.dev/components/blocks/task-breakdown",
+    "title": "Task breakdown",
+    "bytes": 11155
+  },
+  {
+    "folder": "blocks",
+    "slug": "team-directory",
+    "markdown": "https://uiarc.dev/components/blocks/team-directory/markdown",
+    "page": "https://uiarc.dev/components/blocks/team-directory",
+    "title": "Team directory",
+    "bytes": 4889
+  },
+  {
+    "folder": "blocks",
+    "slug": "team-members",
+    "markdown": "https://uiarc.dev/components/blocks/team-members/markdown",
+    "page": "https://uiarc.dev/components/blocks/team-members",
+    "title": "Team members",
+    "bytes": 4997
+  },
+  {
+    "folder": "blocks",
+    "slug": "team-showcase",
+    "markdown": "https://uiarc.dev/components/blocks/team-showcase/markdown",
+    "page": "https://uiarc.dev/components/blocks/team-showcase",
+    "title": "Team showcase",
+    "bytes": 5089
+  },
+  {
+    "folder": "blocks",
+    "slug": "testimonial-stage",
+    "markdown": "https://uiarc.dev/components/blocks/testimonial-stage/markdown",
+    "page": "https://uiarc.dev/components/blocks/testimonial-stage",
+    "title": "Studio perspectives",
+    "bytes": 4467
+  },
+  {
+    "folder": "blocks",
+    "slug": "two-factor-setup",
+    "markdown": "https://uiarc.dev/components/blocks/two-factor-setup/markdown",
+    "page": "https://uiarc.dev/components/blocks/two-factor-setup",
+    "title": "Two-factor setup",
+    "bytes": 9482
+  },
+  {
+    "folder": "blocks",
+    "slug": "uptime-status",
+    "markdown": "https://uiarc.dev/components/blocks/uptime-status/markdown",
+    "page": "https://uiarc.dev/components/blocks/uptime-status",
+    "title": "Uptime status",
+    "bytes": 5204
+  },
+  {
+    "folder": "blocks",
+    "slug": "usage-billing",
+    "markdown": "https://uiarc.dev/components/blocks/usage-billing/markdown",
+    "page": "https://uiarc.dev/components/blocks/usage-billing",
+    "title": "Usage billing",
+    "bytes": 8364
+  },
+  {
+    "folder": "blocks",
+    "slug": "usage-forecast",
+    "markdown": "https://uiarc.dev/components/blocks/usage-forecast/markdown",
+    "page": "https://uiarc.dev/components/blocks/usage-forecast",
+    "title": "Usage forecast",
+    "bytes": 5446
+  },
+  {
+    "folder": "blocks",
+    "slug": "usage-pricing",
+    "markdown": "https://uiarc.dev/components/blocks/usage-pricing/markdown",
+    "page": "https://uiarc.dev/components/blocks/usage-pricing",
+    "title": "Usage pricing",
+    "bytes": 4836
+  },
+  {
+    "folder": "blocks",
+    "slug": "wallet-card",
+    "markdown": "https://uiarc.dev/components/blocks/wallet-card/markdown",
+    "page": "https://uiarc.dev/components/blocks/wallet-card",
+    "title": "Wallet card",
+    "bytes": 4923
+  },
+  {
+    "folder": "blocks",
+    "slug": "webhook-tester",
+    "markdown": "https://uiarc.dev/components/blocks/webhook-tester/markdown",
+    "page": "https://uiarc.dev/components/blocks/webhook-tester",
+    "title": "Webhook tester",
+    "bytes": 11166
+  },
+  {
+    "folder": "blocks",
+    "slug": "webhooks",
+    "markdown": "https://uiarc.dev/components/blocks/webhooks/markdown",
+    "page": "https://uiarc.dev/components/blocks/webhooks",
+    "title": "Webhooks",
+    "bytes": 5252
+  },
+  {
+    "folder": "blocks",
+    "slug": "week-calendar",
+    "markdown": "https://uiarc.dev/components/blocks/week-calendar/markdown",
+    "page": "https://uiarc.dev/components/blocks/week-calendar",
+    "title": "Week calendar",
+    "bytes": 10339
+  },
+  {
+    "folder": "components",
+    "slug": "action-morph",
+    "markdown": "https://uiarc.dev/components/action-morph/markdown",
+    "page": "https://uiarc.dev/components/action-morph",
+    "title": "Action morph",
+    "bytes": 8468
+  },
+  {
+    "folder": "components",
+    "slug": "activity-rings",
+    "markdown": "https://uiarc.dev/components/activity-rings/markdown",
+    "page": "https://uiarc.dev/components/activity-rings",
+    "title": "Activity rings",
+    "bytes": 6691
+  },
+  {
+    "folder": "components",
+    "slug": "agent-cursor",
+    "markdown": "https://uiarc.dev/components/agent-cursor/markdown",
+    "page": "https://uiarc.dev/components/agent-cursor",
+    "title": "Agent cursor",
+    "bytes": 24803
+  },
+  {
+    "folder": "components",
+    "slug": "agent-handoff",
+    "markdown": "https://uiarc.dev/components/agent-handoff/markdown",
+    "page": "https://uiarc.dev/components/agent-handoff",
+    "title": "Agent handoff",
+    "bytes": 25952
+  },
+  {
+    "folder": "components",
+    "slug": "agent-loop",
+    "markdown": "https://uiarc.dev/components/agent-loop/markdown",
+    "page": "https://uiarc.dev/components/agent-loop",
+    "title": "Agent loop",
+    "bytes": 17383
+  },
+  {
+    "folder": "components",
+    "slug": "agent-plan",
+    "markdown": "https://uiarc.dev/components/agent-plan/markdown",
+    "page": "https://uiarc.dev/components/agent-plan",
+    "title": "Agent plan",
+    "bytes": 30101
+  },
+  {
+    "folder": "components",
+    "slug": "agent-status",
+    "markdown": "https://uiarc.dev/components/agent-status/markdown",
+    "page": "https://uiarc.dev/components/agent-status",
+    "title": "Agent status",
+    "bytes": 31345
+  },
+  {
+    "folder": "components",
+    "slug": "agent-timeline",
+    "markdown": "https://uiarc.dev/components/agent-timeline/markdown",
+    "page": "https://uiarc.dev/components/agent-timeline",
+    "title": "Agent timeline",
+    "bytes": 30009
+  },
+  {
+    "folder": "components",
+    "slug": "ai-command",
+    "markdown": "https://uiarc.dev/components/ai-command/markdown",
+    "page": "https://uiarc.dev/components/ai-command",
+    "title": "AI command",
+    "bytes": 26650
+  },
+  {
+    "folder": "components",
+    "slug": "ai-mascot",
+    "markdown": "https://uiarc.dev/components/ai-mascot/markdown",
+    "page": "https://uiarc.dev/components/ai-mascot",
+    "title": "AI mascot",
+    "bytes": 26524
+  },
+  {
+    "folder": "components",
+    "slug": "ai-spark",
+    "markdown": "https://uiarc.dev/components/ai-spark/markdown",
+    "page": "https://uiarc.dev/components/ai-spark",
+    "title": "AI spark",
+    "bytes": 26248
+  },
+  {
+    "folder": "components",
+    "slug": "ai-translate",
+    "markdown": "https://uiarc.dev/components/ai-translate/markdown",
+    "page": "https://uiarc.dev/components/ai-translate",
+    "title": "AI translate",
+    "bytes": 27868
+  },
+  {
+    "folder": "components",
+    "slug": "ai-workflow",
+    "markdown": "https://uiarc.dev/components/ai-workflow/markdown",
+    "page": "https://uiarc.dev/components/ai-workflow",
+    "title": "AI workflow",
+    "bytes": 29384
+  },
+  {
+    "folder": "components",
+    "slug": "ask-your-data",
+    "markdown": "https://uiarc.dev/components/ask-your-data/markdown",
+    "page": "https://uiarc.dev/components/ask-your-data",
+    "title": "Ask your data",
+    "bytes": 29989
+  },
+  {
+    "folder": "components",
+    "slug": "avatar-upload",
+    "markdown": "https://uiarc.dev/components/avatar-upload/markdown",
+    "page": "https://uiarc.dev/components/avatar-upload",
+    "title": "Avatar upload",
+    "bytes": 11026
+  },
+  {
+    "folder": "components",
+    "slug": "black-hole",
+    "markdown": "https://uiarc.dev/components/black-hole/markdown",
+    "page": "https://uiarc.dev/components/black-hole",
+    "title": "Black hole",
+    "bytes": 8236
+  },
+  {
+    "folder": "components",
+    "slug": "booking-pill",
+    "markdown": "https://uiarc.dev/components/booking-pill/markdown",
+    "page": "https://uiarc.dev/components/booking-pill",
+    "title": "Booking pill",
+    "bytes": 7423
+  },
+  {
+    "folder": "components",
+    "slug": "branch-graph",
+    "markdown": "https://uiarc.dev/components/branch-graph/markdown",
+    "page": "https://uiarc.dev/components/branch-graph",
+    "title": "Branch graph",
+    "bytes": 13917
+  },
+  {
+    "folder": "components",
+    "slug": "card-to-article",
+    "markdown": "https://uiarc.dev/components/card-to-article/markdown",
+    "page": "https://uiarc.dev/components/card-to-article",
+    "title": "Card to article",
+    "bytes": 6978
+  },
+  {
+    "folder": "components",
+    "slug": "code-suggestion",
+    "markdown": "https://uiarc.dev/components/code-suggestion/markdown",
+    "page": "https://uiarc.dev/components/code-suggestion",
+    "title": "Code suggestion",
+    "bytes": 29515
+  },
+  {
+    "folder": "components",
+    "slug": "confirm-popover",
+    "markdown": "https://uiarc.dev/components/confirm-popover/markdown",
+    "page": "https://uiarc.dev/components/confirm-popover",
+    "title": "Confirm popover",
+    "bytes": 13226
+  },
+  {
+    "folder": "components",
+    "slug": "connector-setup",
+    "markdown": "https://uiarc.dev/components/connector-setup/markdown",
+    "page": "https://uiarc.dev/components/connector-setup",
+    "title": "Connector setup",
+    "bytes": 25646
+  },
+  {
+    "folder": "components",
+    "slug": "context-window",
+    "markdown": "https://uiarc.dev/components/context-window/markdown",
+    "page": "https://uiarc.dev/components/context-window",
+    "title": "Context window",
+    "bytes": 25073
+  },
+  {
+    "folder": "components",
+    "slug": "control-center",
+    "markdown": "https://uiarc.dev/components/control-center/markdown",
+    "page": "https://uiarc.dev/components/control-center",
+    "title": "Control center",
+    "bytes": 8353
+  },
+  {
+    "folder": "components",
+    "slug": "cover-flow",
+    "markdown": "https://uiarc.dev/components/cover-flow/markdown",
+    "page": "https://uiarc.dev/components/cover-flow",
+    "title": "Cover flow",
+    "bytes": 6601
+  },
+  {
+    "folder": "components",
+    "slug": "cube-mascot",
+    "markdown": "https://uiarc.dev/components/cube-mascot/markdown",
+    "page": "https://uiarc.dev/components/cube-mascot",
+    "title": "Cube mascot",
+    "bytes": 25984
+  },
+  {
+    "folder": "components",
+    "slug": "data-flow",
+    "markdown": "https://uiarc.dev/components/data-flow/markdown",
+    "page": "https://uiarc.dev/components/data-flow",
+    "title": "Data flow",
+    "bytes": 12244
+  },
+  {
+    "folder": "components",
+    "slug": "data-grid",
+    "markdown": "https://uiarc.dev/components/data-grid/markdown",
+    "page": "https://uiarc.dev/components/data-grid",
+    "title": "Data grid",
+    "bytes": 28075
+  },
+  {
+    "folder": "components",
+    "slug": "date-reel",
+    "markdown": "https://uiarc.dev/components/date-reel/markdown",
+    "page": "https://uiarc.dev/components/date-reel",
+    "title": "Date reel",
+    "bytes": 10120
+  },
+  {
+    "folder": "components",
+    "slug": "dictation-button",
+    "markdown": "https://uiarc.dev/components/dictation-button/markdown",
+    "page": "https://uiarc.dev/components/dictation-button",
+    "title": "Dictation button",
+    "bytes": 30319
+  },
+  {
+    "folder": "components",
+    "slug": "dns-resolution",
+    "markdown": "https://uiarc.dev/components/dns-resolution/markdown",
+    "page": "https://uiarc.dev/components/dns-resolution",
+    "title": "DNS resolution",
+    "bytes": 12223
+  },
+  {
+    "folder": "components",
+    "slug": "dock",
+    "markdown": "https://uiarc.dev/components/dock/markdown",
+    "page": "https://uiarc.dev/components/dock",
+    "title": "Dock",
+    "bytes": 8499
+  },
+  {
+    "folder": "components",
+    "slug": "dot-grid",
+    "markdown": "https://uiarc.dev/components/dot-grid/markdown",
+    "page": "https://uiarc.dev/components/dot-grid",
+    "title": "Dot grid",
+    "bytes": 5907
+  },
+  {
+    "folder": "components",
+    "slug": "emoji-picker",
+    "markdown": "https://uiarc.dev/components/emoji-picker/markdown",
+    "page": "https://uiarc.dev/components/emoji-picker",
+    "title": "Emoji picker",
+    "bytes": 11143
+  },
+  {
+    "folder": "components",
+    "slug": "enrich-column",
+    "markdown": "https://uiarc.dev/components/enrich-column/markdown",
+    "page": "https://uiarc.dev/components/enrich-column",
+    "title": "Enrich column",
+    "bytes": 24538
+  },
+  {
+    "folder": "components",
+    "slug": "funnel-chart",
+    "markdown": "https://uiarc.dev/components/funnel-chart/markdown",
+    "page": "https://uiarc.dev/components/funnel-chart",
+    "title": "Funnel chart",
+    "bytes": 8559
+  },
+  {
+    "folder": "components",
+    "slug": "generation-stats",
+    "markdown": "https://uiarc.dev/components/generation-stats/markdown",
+    "page": "https://uiarc.dev/components/generation-stats",
+    "title": "Generation stats",
+    "bytes": 28990
+  },
+  {
+    "folder": "components",
+    "slug": "ghost-mascot",
+    "markdown": "https://uiarc.dev/components/ghost-mascot/markdown",
+    "page": "https://uiarc.dev/components/ghost-mascot",
+    "title": "Ghost mascot",
+    "bytes": 26308
+  },
+  {
+    "folder": "components",
+    "slug": "ghost-text",
+    "markdown": "https://uiarc.dev/components/ghost-text/markdown",
+    "page": "https://uiarc.dev/components/ghost-text",
+    "title": "Ghost text",
+    "bytes": 31645
+  },
+  {
+    "folder": "components",
+    "slug": "glass-card",
+    "markdown": "https://uiarc.dev/components/glass-card/markdown",
+    "page": "https://uiarc.dev/components/glass-card",
+    "title": "Glass card",
+    "bytes": 7071
+  },
+  {
+    "folder": "components",
+    "slug": "glass-menu",
+    "markdown": "https://uiarc.dev/components/glass-menu/markdown",
+    "page": "https://uiarc.dev/components/glass-menu",
+    "title": "Glass menu",
+    "bytes": 9276
+  },
+  {
+    "folder": "components",
+    "slug": "glass-segmented",
+    "markdown": "https://uiarc.dev/components/glass-segmented/markdown",
+    "page": "https://uiarc.dev/components/glass-segmented",
+    "title": "Glass segmented",
+    "bytes": 6448
+  },
+  {
+    "folder": "components",
+    "slug": "glass-tabbar",
+    "markdown": "https://uiarc.dev/components/glass-tabbar/markdown",
+    "page": "https://uiarc.dev/components/glass-tabbar",
+    "title": "Glass tab bar",
+    "bytes": 9751
+  },
+  {
+    "folder": "components",
+    "slug": "gravity-well",
+    "markdown": "https://uiarc.dev/components/gravity-well/markdown",
+    "page": "https://uiarc.dev/components/gravity-well",
+    "title": "Gravity well",
+    "bytes": 5878
+  },
+  {
+    "folder": "components",
+    "slug": "holo-card",
+    "markdown": "https://uiarc.dev/components/holo-card/markdown",
+    "page": "https://uiarc.dev/components/holo-card",
+    "title": "Holo card",
+    "bytes": 7117
+  },
+  {
+    "folder": "components",
+    "slug": "image-generation",
+    "markdown": "https://uiarc.dev/components/image-generation/markdown",
+    "page": "https://uiarc.dev/components/image-generation",
+    "title": "Image generation",
+    "bytes": 28992
+  },
+  {
+    "folder": "components",
+    "slug": "image-reveal",
+    "markdown": "https://uiarc.dev/components/image-reveal/markdown",
+    "page": "https://uiarc.dev/components/image-reveal",
+    "title": "Image reveal",
+    "bytes": 27448
+  },
+  {
+    "folder": "components",
+    "slug": "image-trail",
+    "markdown": "https://uiarc.dev/components/image-trail/markdown",
+    "page": "https://uiarc.dev/components/image-trail",
+    "title": "Image trail",
+    "bytes": 6552
+  },
+  {
+    "folder": "components",
+    "slug": "ink-fluid",
+    "markdown": "https://uiarc.dev/components/ink-fluid/markdown",
+    "page": "https://uiarc.dev/components/ink-fluid",
+    "title": "Ink fluid",
+    "bytes": 6083
+  },
+  {
+    "folder": "components",
+    "slug": "install-snippet",
+    "markdown": "https://uiarc.dev/components/install-snippet/markdown",
+    "page": "https://uiarc.dev/components/install-snippet",
+    "title": "Install snippet",
+    "bytes": 24842
+  },
+  {
+    "folder": "components",
+    "slug": "keycap-keyboard",
+    "markdown": "https://uiarc.dev/components/keycap-keyboard/markdown",
+    "page": "https://uiarc.dev/components/keycap-keyboard",
+    "title": "Keycap keyboard",
+    "bytes": 7503
+  },
+  {
+    "folder": "components",
+    "slug": "lightbox-gallery",
+    "markdown": "https://uiarc.dev/components/lightbox-gallery/markdown",
+    "page": "https://uiarc.dev/components/lightbox-gallery",
+    "title": "Lightbox gallery",
+    "bytes": 6959
+  },
+  {
+    "folder": "components",
+    "slug": "link-unfurl",
+    "markdown": "https://uiarc.dev/components/link-unfurl/markdown",
+    "page": "https://uiarc.dev/components/link-unfurl",
+    "title": "Link unfurl",
+    "bytes": 10935
+  },
+  {
+    "folder": "components",
+    "slug": "liquid-tab-bar",
+    "markdown": "https://uiarc.dev/components/liquid-tab-bar/markdown",
+    "page": "https://uiarc.dev/components/liquid-tab-bar",
+    "title": "Liquid tab bar",
+    "bytes": 7457
+  },
+  {
+    "folder": "components",
+    "slug": "live-visitors",
+    "markdown": "https://uiarc.dev/components/live-visitors/markdown",
+    "page": "https://uiarc.dev/components/live-visitors",
+    "title": "Live visitors",
+    "bytes": 25810
+  },
+  {
+    "folder": "components",
+    "slug": "llm-cost-calculator",
+    "markdown": "https://uiarc.dev/components/llm-cost-calculator/markdown",
+    "page": "https://uiarc.dev/components/llm-cost-calculator",
+    "title": "LLM cost calculator",
+    "bytes": 28526
+  },
+  {
+    "folder": "components",
+    "slug": "meeting-summary",
+    "markdown": "https://uiarc.dev/components/meeting-summary/markdown",
+    "page": "https://uiarc.dev/components/meeting-summary",
+    "title": "Meeting summary",
+    "bytes": 25470
+  },
+  {
+    "folder": "components",
+    "slug": "mega-menu-morph",
+    "markdown": "https://uiarc.dev/components/mega-menu-morph/markdown",
+    "page": "https://uiarc.dev/components/mega-menu-morph",
+    "title": "Mega menu morph",
+    "bytes": 14835
+  },
+  {
+    "folder": "components",
+    "slug": "metric-ticker",
+    "markdown": "https://uiarc.dev/components/metric-ticker/markdown",
+    "page": "https://uiarc.dev/components/metric-ticker",
+    "title": "Metric ticker",
+    "bytes": 11589
+  },
+  {
+    "folder": "components",
+    "slug": "mixture-of-experts",
+    "markdown": "https://uiarc.dev/components/mixture-of-experts/markdown",
+    "page": "https://uiarc.dev/components/mixture-of-experts",
+    "title": "Mixture of experts",
+    "bytes": 16096
+  },
+  {
+    "folder": "components",
+    "slug": "model-card",
+    "markdown": "https://uiarc.dev/components/model-card/markdown",
+    "page": "https://uiarc.dev/components/model-card",
+    "title": "Model card",
+    "bytes": 31724
+  },
+  {
+    "folder": "components",
+    "slug": "model-training",
+    "markdown": "https://uiarc.dev/components/model-training/markdown",
+    "page": "https://uiarc.dev/components/model-training",
+    "title": "Model training",
+    "bytes": 13076
+  },
+  {
+    "folder": "components",
+    "slug": "morph-loader",
+    "markdown": "https://uiarc.dev/components/morph-loader/markdown",
+    "page": "https://uiarc.dev/components/morph-loader",
+    "title": "Morph loader",
+    "bytes": 6459
+  },
+  {
+    "folder": "components",
+    "slug": "morph-nav",
+    "markdown": "https://uiarc.dev/components/morph-nav/markdown",
+    "page": "https://uiarc.dev/components/morph-nav",
+    "title": "Morph nav",
+    "bytes": 9428
+  },
+  {
+    "folder": "components",
+    "slug": "multi-region-failover",
+    "markdown": "https://uiarc.dev/components/multi-region-failover/markdown",
+    "page": "https://uiarc.dev/components/multi-region-failover",
+    "title": "Multi-region failover",
+    "bytes": 12930
+  },
+  {
+    "folder": "components",
+    "slug": "now-playing",
+    "markdown": "https://uiarc.dev/components/now-playing/markdown",
+    "page": "https://uiarc.dev/components/now-playing",
+    "title": "Now playing",
+    "bytes": 8191
+  },
+  {
+    "folder": "components",
+    "slug": "orbit-logos",
+    "markdown": "https://uiarc.dev/components/orbit-logos/markdown",
+    "page": "https://uiarc.dev/components/orbit-logos",
+    "title": "Orbit logos",
+    "bytes": 10113
+  },
+  {
+    "folder": "components",
+    "slug": "orbit-menu",
+    "markdown": "https://uiarc.dev/components/orbit-menu/markdown",
+    "page": "https://uiarc.dev/components/orbit-menu",
+    "title": "Orbit menu",
+    "bytes": 7567
+  },
+  {
+    "folder": "components",
+    "slug": "page-curl",
+    "markdown": "https://uiarc.dev/components/page-curl/markdown",
+    "page": "https://uiarc.dev/components/page-curl",
+    "title": "Page curl",
+    "bytes": 7828
+  },
+  {
+    "folder": "components",
+    "slug": "payment-flow",
+    "markdown": "https://uiarc.dev/components/payment-flow/markdown",
+    "page": "https://uiarc.dev/components/payment-flow",
+    "title": "Payment flow",
+    "bytes": 11618
+  },
+  {
+    "folder": "components",
+    "slug": "photo-grid",
+    "markdown": "https://uiarc.dev/components/photo-grid/markdown",
+    "page": "https://uiarc.dev/components/photo-grid",
+    "title": "Photo grid",
+    "bytes": 6632
+  },
+  {
+    "folder": "components",
+    "slug": "pii-redaction",
+    "markdown": "https://uiarc.dev/components/pii-redaction/markdown",
+    "page": "https://uiarc.dev/components/pii-redaction",
+    "title": "PII redaction",
+    "bytes": 29525
+  },
+  {
+    "folder": "components",
+    "slug": "pixel-mascot",
+    "markdown": "https://uiarc.dev/components/pixel-mascot/markdown",
+    "page": "https://uiarc.dev/components/pixel-mascot",
+    "title": "Pixel mascot",
+    "bytes": 24280
+  },
+  {
+    "folder": "components",
+    "slug": "presence-stack",
+    "markdown": "https://uiarc.dev/components/presence-stack/markdown",
+    "page": "https://uiarc.dev/components/presence-stack",
+    "title": "Presence stack",
+    "bytes": 10776
+  },
+  {
+    "folder": "components",
+    "slug": "prize-wheel",
+    "markdown": "https://uiarc.dev/components/prize-wheel/markdown",
+    "page": "https://uiarc.dev/components/prize-wheel",
+    "title": "Prize wheel",
+    "bytes": 10679
+  },
+  {
+    "folder": "components",
+    "slug": "product-gallery",
+    "markdown": "https://uiarc.dev/components/product-gallery/markdown",
+    "page": "https://uiarc.dev/components/product-gallery",
+    "title": "Product gallery",
+    "bytes": 9131
+  },
+  {
+    "folder": "components",
+    "slug": "prompt-cache",
+    "markdown": "https://uiarc.dev/components/prompt-cache/markdown",
+    "page": "https://uiarc.dev/components/prompt-cache",
+    "title": "Prompt cache",
+    "bytes": 15939
+  },
+  {
+    "folder": "components",
+    "slug": "provider-keys",
+    "markdown": "https://uiarc.dev/components/provider-keys/markdown",
+    "page": "https://uiarc.dev/components/provider-keys",
+    "title": "Provider keys",
+    "bytes": 25628
+  },
+  {
+    "folder": "components",
+    "slug": "provider-status",
+    "markdown": "https://uiarc.dev/components/provider-status/markdown",
+    "page": "https://uiarc.dev/components/provider-status",
+    "title": "Provider status",
+    "bytes": 27576
+  },
+  {
+    "folder": "components",
+    "slug": "race-bar-chart",
+    "markdown": "https://uiarc.dev/components/race-bar-chart/markdown",
+    "page": "https://uiarc.dev/components/race-bar-chart",
+    "title": "Race bar chart",
+    "bytes": 9475
+  },
+  {
+    "folder": "components",
+    "slug": "radar-chart",
+    "markdown": "https://uiarc.dev/components/radar-chart/markdown",
+    "page": "https://uiarc.dev/components/radar-chart",
+    "title": "Radar chart",
+    "bytes": 7807
+  },
+  {
+    "folder": "components",
+    "slug": "realtime-stream",
+    "markdown": "https://uiarc.dev/components/realtime-stream/markdown",
+    "page": "https://uiarc.dev/components/realtime-stream",
+    "title": "Realtime stream",
+    "bytes": 8623
+  },
+  {
+    "folder": "components",
+    "slug": "reasoning-block",
+    "markdown": "https://uiarc.dev/components/reasoning-block/markdown",
+    "page": "https://uiarc.dev/components/reasoning-block",
+    "title": "Reasoning block",
+    "bytes": 25591
+  },
+  {
+    "folder": "components",
+    "slug": "reasoning-tree",
+    "markdown": "https://uiarc.dev/components/reasoning-tree/markdown",
+    "page": "https://uiarc.dev/components/reasoning-tree",
+    "title": "Reasoning tree",
+    "bytes": 14497
+  },
+  {
+    "folder": "components",
+    "slug": "referral-card",
+    "markdown": "https://uiarc.dev/components/referral-card/markdown",
+    "page": "https://uiarc.dev/components/referral-card",
+    "title": "Referral card",
+    "bytes": 25780
+  },
+  {
+    "folder": "components",
+    "slug": "reply-draft",
+    "markdown": "https://uiarc.dev/components/reply-draft/markdown",
+    "page": "https://uiarc.dev/components/reply-draft",
+    "title": "Reply draft",
+    "bytes": 25990
+  },
+  {
+    "folder": "components",
+    "slug": "response-feedback",
+    "markdown": "https://uiarc.dev/components/response-feedback/markdown",
+    "page": "https://uiarc.dev/components/response-feedback",
+    "title": "Response feedback",
+    "bytes": 28742
+  },
+  {
+    "folder": "components",
+    "slug": "sand-text",
+    "markdown": "https://uiarc.dev/components/sand-text/markdown",
+    "page": "https://uiarc.dev/components/sand-text",
+    "title": "Sand text",
+    "bytes": 5170
+  },
+  {
+    "folder": "components",
+    "slug": "sankey-flow",
+    "markdown": "https://uiarc.dev/components/sankey-flow/markdown",
+    "page": "https://uiarc.dev/components/sankey-flow",
+    "title": "Sankey flow",
+    "bytes": 9128
+  },
+  {
+    "folder": "components",
+    "slug": "share-access",
+    "markdown": "https://uiarc.dev/components/share-access/markdown",
+    "page": "https://uiarc.dev/components/share-access",
+    "title": "Share access",
+    "bytes": 12713
+  },
+  {
+    "folder": "components",
+    "slug": "share-sheet",
+    "markdown": "https://uiarc.dev/components/share-sheet/markdown",
+    "page": "https://uiarc.dev/components/share-sheet",
+    "title": "Share sheet",
+    "bytes": 9737
+  },
+  {
+    "folder": "components",
+    "slug": "sheet-stack",
+    "markdown": "https://uiarc.dev/components/sheet-stack/markdown",
+    "page": "https://uiarc.dev/components/sheet-stack",
+    "title": "Sheet stack",
+    "bytes": 9256
+  },
+  {
+    "folder": "components",
+    "slug": "skeleton-morph",
+    "markdown": "https://uiarc.dev/components/skeleton-morph/markdown",
+    "page": "https://uiarc.dev/components/skeleton-morph",
+    "title": "Skeleton morph",
+    "bytes": 7598
+  },
+  {
+    "folder": "components",
+    "slug": "smart-form-fill",
+    "markdown": "https://uiarc.dev/components/smart-form-fill/markdown",
+    "page": "https://uiarc.dev/components/smart-form-fill",
+    "title": "Smart form fill",
+    "bytes": 25121
+  },
+  {
+    "folder": "components",
+    "slug": "social-proof-toast",
+    "markdown": "https://uiarc.dev/components/social-proof-toast/markdown",
+    "page": "https://uiarc.dev/components/social-proof-toast",
+    "title": "Social proof toast",
+    "bytes": 25802
+  },
+  {
+    "folder": "components",
+    "slug": "source-cards",
+    "markdown": "https://uiarc.dev/components/source-cards/markdown",
+    "page": "https://uiarc.dev/components/source-cards",
+    "title": "Source cards",
+    "bytes": 27991
+  },
+  {
+    "folder": "components",
+    "slug": "speculative-decoding",
+    "markdown": "https://uiarc.dev/components/speculative-decoding/markdown",
+    "page": "https://uiarc.dev/components/speculative-decoding",
+    "title": "Speculative decoding",
+    "bytes": 14578
+  },
+  {
+    "folder": "components",
+    "slug": "speech-player",
+    "markdown": "https://uiarc.dev/components/speech-player/markdown",
+    "page": "https://uiarc.dev/components/speech-player",
+    "title": "Speech player",
+    "bytes": 29880
+  },
+  {
+    "folder": "components",
+    "slug": "split-bar",
+    "markdown": "https://uiarc.dev/components/split-bar/markdown",
+    "page": "https://uiarc.dev/components/split-bar",
+    "title": "Split bar",
+    "bytes": 12253
+  },
+  {
+    "folder": "components",
+    "slug": "starter-prompts",
+    "markdown": "https://uiarc.dev/components/starter-prompts/markdown",
+    "page": "https://uiarc.dev/components/starter-prompts",
+    "title": "Starter prompts",
+    "bytes": 24751
+  },
+  {
+    "folder": "components",
+    "slug": "sticker-peel",
+    "markdown": "https://uiarc.dev/components/sticker-peel/markdown",
+    "page": "https://uiarc.dev/components/sticker-peel",
+    "title": "Sticker peel",
+    "bytes": 9014
+  },
+  {
+    "folder": "components",
+    "slug": "stretch-refresh",
+    "markdown": "https://uiarc.dev/components/stretch-refresh/markdown",
+    "page": "https://uiarc.dev/components/stretch-refresh",
+    "title": "Stretch refresh",
+    "bytes": 6884
+  },
+  {
+    "folder": "components",
+    "slug": "sunburst",
+    "markdown": "https://uiarc.dev/components/sunburst/markdown",
+    "page": "https://uiarc.dev/components/sunburst",
+    "title": "Sunburst",
+    "bytes": 8102
+  },
+  {
+    "folder": "components",
+    "slug": "team-switcher",
+    "markdown": "https://uiarc.dev/components/team-switcher/markdown",
+    "page": "https://uiarc.dev/components/team-switcher",
+    "title": "Team switcher",
+    "bytes": 26113
+  },
+  {
+    "folder": "components",
+    "slug": "ticket-router",
+    "markdown": "https://uiarc.dev/components/ticket-router/markdown",
+    "page": "https://uiarc.dev/components/ticket-router",
+    "title": "Ticket router",
+    "bytes": 25048
+  },
+  {
+    "folder": "components",
+    "slug": "time-dial",
+    "markdown": "https://uiarc.dev/components/time-dial/markdown",
+    "page": "https://uiarc.dev/components/time-dial",
+    "title": "Time dial",
+    "bytes": 7268
+  },
+  {
+    "folder": "components",
+    "slug": "tldr-toggle",
+    "markdown": "https://uiarc.dev/components/tldr-toggle/markdown",
+    "page": "https://uiarc.dev/components/tldr-toggle",
+    "title": "TL;DR toggle",
+    "bytes": 29287
+  },
+  {
+    "folder": "components",
+    "slug": "toc-progress",
+    "markdown": "https://uiarc.dev/components/toc-progress/markdown",
+    "page": "https://uiarc.dev/components/toc-progress",
+    "title": "Table of contents progress",
+    "bytes": 11220
+  },
+  {
+    "folder": "components",
+    "slug": "tone-tuner",
+    "markdown": "https://uiarc.dev/components/tone-tuner/markdown",
+    "page": "https://uiarc.dev/components/tone-tuner",
+    "title": "Tone tuner",
+    "bytes": 25042
+  },
+  {
+    "folder": "components",
+    "slug": "tool-call",
+    "markdown": "https://uiarc.dev/components/tool-call/markdown",
+    "page": "https://uiarc.dev/components/tool-call",
+    "title": "Tool call",
+    "bytes": 33519
+  },
+  {
+    "folder": "components",
+    "slug": "training-run",
+    "markdown": "https://uiarc.dev/components/training-run/markdown",
+    "page": "https://uiarc.dev/components/training-run",
+    "title": "Training run",
+    "bytes": 27269
+  },
+  {
+    "folder": "components",
+    "slug": "trial-banner",
+    "markdown": "https://uiarc.dev/components/trial-banner/markdown",
+    "page": "https://uiarc.dev/components/trial-banner",
+    "title": "Trial banner",
+    "bytes": 24693
+  },
+  {
+    "folder": "components",
+    "slug": "typewriter-terminal",
+    "markdown": "https://uiarc.dev/components/typewriter-terminal/markdown",
+    "page": "https://uiarc.dev/components/typewriter-terminal",
+    "title": "Typewriter terminal",
+    "bytes": 10565
+  },
+  {
+    "folder": "components",
+    "slug": "undo-toast",
+    "markdown": "https://uiarc.dev/components/undo-toast/markdown",
+    "page": "https://uiarc.dev/components/undo-toast",
+    "title": "Undo toast",
+    "bytes": 15036
+  },
+  {
+    "folder": "components",
+    "slug": "upgrade-prompt",
+    "markdown": "https://uiarc.dev/components/upgrade-prompt/markdown",
+    "page": "https://uiarc.dev/components/upgrade-prompt",
+    "title": "Upgrade prompt",
+    "bytes": 25859
+  },
+  {
+    "folder": "components",
+    "slug": "vector-search",
+    "markdown": "https://uiarc.dev/components/vector-search/markdown",
+    "page": "https://uiarc.dev/components/vector-search",
+    "title": "Vector search",
+    "bytes": 13513
+  },
+  {
+    "folder": "components",
+    "slug": "voice-orb",
+    "markdown": "https://uiarc.dev/components/voice-orb/markdown",
+    "page": "https://uiarc.dev/components/voice-orb",
+    "title": "Voice orb",
+    "bytes": 10173
+  },
+  {
+    "folder": "components",
+    "slug": "voice-recorder",
+    "markdown": "https://uiarc.dev/components/voice-recorder/markdown",
+    "page": "https://uiarc.dev/components/voice-recorder",
+    "title": "Voice recorder",
+    "bytes": 6168
+  },
+  {
+    "folder": "components",
+    "slug": "wallet-stack",
+    "markdown": "https://uiarc.dev/components/wallet-stack/markdown",
+    "page": "https://uiarc.dev/components/wallet-stack",
+    "title": "Wallet stack",
+    "bytes": 9776
+  }
+]

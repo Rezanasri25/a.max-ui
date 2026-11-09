@@ -1,0 +1,4676 @@
+[
+  {
+    "name": "blog-grid",
+    "kind": "block",
+    "title": "Blog grid",
+    "page": "https://uiarc.dev/components/blocks/blog-grid",
+    "registry": "https://uiarc.dev/r/blog-grid.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/blog-grid/blog-grid.tsx",
+        "target": "@components/arc/blocks/blog-grid/blog-grid.tsx",
+        "saved_as": "blocks/blog-grid/blog-grid.tsx",
+        "bytes": 14223,
+        "md5": "35ece7c14281d9d57504738557a55b8a"
+      },
+      {
+        "source_path": "registry/blocks/blog-grid/blog-grid-data.ts",
+        "target": "@components/arc/blocks/blog-grid/blog-grid-data.ts",
+        "saved_as": "blocks/blog-grid/blog-grid-data.ts",
+        "bytes": 9009,
+        "md5": "2397d2cb5b30674e743f8ee902c1931e"
+      },
+      {
+        "source_path": "registry/blocks/blog-grid/blog-grid.module.css",
+        "target": "@components/arc/blocks/blog-grid/blog-grid.module.css",
+        "saved_as": "blocks/blog-grid/blog-grid.module.css",
+        "bytes": 8284,
+        "md5": "19b7d13c660f53a4548b7d6fb41ecaa9"
+      }
+    ]
+  },
+  {
+    "name": "changelog-feed",
+    "kind": "block",
+    "title": "Changelog feed",
+    "page": "https://uiarc.dev/components/blocks/changelog-feed",
+    "registry": "https://uiarc.dev/r/changelog-feed.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/copy-button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/changelog-feed/changelog-feed.tsx",
+        "target": "@components/arc/blocks/changelog-feed/changelog-feed.tsx",
+        "saved_as": "blocks/changelog-feed/changelog-feed.tsx",
+        "bytes": 29492,
+        "md5": "13e427e4f8ea4be036b36b768100e625"
+      },
+      {
+        "source_path": "registry/blocks/changelog-feed/changelog-feed.module.css",
+        "target": "@components/arc/blocks/changelog-feed/changelog-feed.module.css",
+        "saved_as": "blocks/changelog-feed/changelog-feed.module.css",
+        "bytes": 13360,
+        "md5": "792d1c31e90edd7b3821d8f460c00270"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/changelog-feed/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      }
+    ]
+  },
+  {
+    "name": "command-palette",
+    "kind": "block",
+    "title": "Command palette",
+    "page": "https://uiarc.dev/components/blocks/command-palette",
+    "registry": "https://uiarc.dev/r/command-palette.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/command-palette/command-palette.tsx",
+        "target": "@components/arc/command-palette/command-palette.tsx",
+        "saved_as": "blocks/command-palette/command-palette.tsx",
+        "bytes": 16590,
+        "md5": "867c9e0670cde710d2674b05b02e479a"
+      },
+      {
+        "source_path": "registry/components/command-palette/command-palette.module.css",
+        "target": "@components/arc/command-palette/command-palette.module.css",
+        "saved_as": "blocks/command-palette/command-palette.module.css",
+        "bytes": 5754,
+        "md5": "e04977759d12523c01b2d0ababe665e3"
+      }
+    ]
+  },
+  {
+    "name": "comparison-table",
+    "kind": "block",
+    "title": "Comparison table",
+    "page": "https://uiarc.dev/components/blocks/comparison-table",
+    "registry": "https://uiarc.dev/r/comparison-table.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/comparison-table/comparison-table.tsx",
+        "target": "@components/arc/blocks/comparison-table/comparison-table.tsx",
+        "saved_as": "blocks/comparison-table/comparison-table.tsx",
+        "bytes": 13140,
+        "md5": "c4e55b5abded834e22e6fbeef5815621"
+      },
+      {
+        "source_path": "registry/blocks/comparison-table/comparison-table-data.ts",
+        "target": "@components/arc/blocks/comparison-table/comparison-table-data.ts",
+        "saved_as": "blocks/comparison-table/comparison-table-data.ts",
+        "bytes": 3539,
+        "md5": "2f576770a39b7298b06a18cfbe7cf3e1"
+      },
+      {
+        "source_path": "registry/blocks/comparison-table/comparison-table.module.css",
+        "target": "@components/arc/blocks/comparison-table/comparison-table.module.css",
+        "saved_as": "blocks/comparison-table/comparison-table.module.css",
+        "bytes": 8251,
+        "md5": "4ca9325bf983c397acc32b247c5db00e"
+      }
+    ]
+  },
+  {
+    "name": "contact-section",
+    "kind": "block",
+    "title": "Contact section",
+    "page": "https://uiarc.dev/components/blocks/contact-section",
+    "registry": "https://uiarc.dev/r/contact-section.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/avatar.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/copy-button.json",
+      "https://uiarc.dev/r/input.json",
+      "https://uiarc.dev/r/segmented-control.json",
+      "https://uiarc.dev/r/textarea.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/contact-section/contact-section.tsx",
+        "target": "@components/arc/blocks/contact-section/contact-section.tsx",
+        "saved_as": "blocks/contact-section/contact-section.tsx",
+        "bytes": 25750,
+        "md5": "d41fe9dc0c1f34146317750fb88a3c95"
+      },
+      {
+        "source_path": "registry/blocks/contact-section/contact-section.module.css",
+        "target": "@components/arc/blocks/contact-section/contact-section.module.css",
+        "saved_as": "blocks/contact-section/contact-section.module.css",
+        "bytes": 9205,
+        "md5": "b460c9a8e6c0cfdebf9cd1ef92e7e312"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/contact-section/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      }
+    ]
+  },
+  {
+    "name": "cta-section",
+    "kind": "block",
+    "title": "CTA section",
+    "page": "https://uiarc.dev/components/blocks/cta-section",
+    "registry": "https://uiarc.dev/r/cta-section.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/segmented-control.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/cta-section/cta-section.tsx",
+        "target": "@components/arc/blocks/cta-section/cta-section.tsx",
+        "saved_as": "blocks/cta-section/cta-section.tsx",
+        "bytes": 12137,
+        "md5": "7a8bd19e5c7d2288cac56ec3ada44783"
+      },
+      {
+        "source_path": "registry/blocks/cta-section/cta-section-data.ts",
+        "target": "@components/arc/blocks/cta-section/cta-section-data.ts",
+        "saved_as": "blocks/cta-section/cta-section-data.ts",
+        "bytes": 1966,
+        "md5": "968b7fadd93f87ae1aa7ea4ac64d5e05"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/cta-section/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      },
+      {
+        "source_path": "registry/blocks/cta-section/cta-section.module.css",
+        "target": "@components/arc/blocks/cta-section/cta-section.module.css",
+        "saved_as": "blocks/cta-section/cta-section.module.css",
+        "bytes": 9662,
+        "md5": "cb8dcf2d13bc92ba564ee2452a0eb386"
+      }
+    ]
+  },
+  {
+    "name": "empty-states",
+    "kind": "block",
+    "title": "Empty states",
+    "page": "https://uiarc.dev/components/blocks/empty-states",
+    "registry": "https://uiarc.dev/r/empty-states.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/empty-states/empty-states.tsx",
+        "target": "@components/arc/blocks/empty-states/empty-states.tsx",
+        "saved_as": "blocks/empty-states/empty-states.tsx",
+        "bytes": 17438,
+        "md5": "653dee41cd0b17b12613f19c802bff56"
+      },
+      {
+        "source_path": "registry/blocks/empty-states/empty-states.module.css",
+        "target": "@components/arc/blocks/empty-states/empty-states.module.css",
+        "saved_as": "blocks/empty-states/empty-states.module.css",
+        "bytes": 4526,
+        "md5": "c11127a779e4565938b7c9f7a3ea1db5"
+      },
+      {
+        "source_path": "registry/blocks/empty-states/empty-states-art.ts",
+        "target": "@components/arc/blocks/empty-states/empty-states-art.ts",
+        "saved_as": "blocks/empty-states/empty-states-art.ts",
+        "bytes": 18330,
+        "md5": "802ec678e81e87e7e261afeea4f26b5d"
+      }
+    ]
+  },
+  {
+    "name": "faq-section",
+    "kind": "block",
+    "title": "FAQ section",
+    "page": "https://uiarc.dev/components/blocks/faq-section",
+    "registry": "https://uiarc.dev/r/faq-section.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/search-field.json",
+      "https://uiarc.dev/r/segmented-control.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/faq-section/faq-section.tsx",
+        "target": "@components/arc/blocks/faq-section/faq-section.tsx",
+        "saved_as": "blocks/faq-section/faq-section.tsx",
+        "bytes": 16623,
+        "md5": "145f45c2fbda4c6703623140c5556a93"
+      },
+      {
+        "source_path": "registry/blocks/faq-section/faq-section.module.css",
+        "target": "@components/arc/blocks/faq-section/faq-section.module.css",
+        "saved_as": "blocks/faq-section/faq-section.module.css",
+        "bytes": 6378,
+        "md5": "1508b3c71828c9eb8ff1770d2f889df0"
+      }
+    ]
+  },
+  {
+    "name": "file-upload",
+    "kind": "block",
+    "title": "File upload",
+    "page": "https://uiarc.dev/components/blocks/file-upload",
+    "registry": "https://uiarc.dev/r/file-upload.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/file-upload/file-upload.tsx",
+        "target": "@components/arc/file-upload/file-upload.tsx",
+        "saved_as": "blocks/file-upload/file-upload.tsx",
+        "bytes": 16844,
+        "md5": "f7b37e87e6e4860c4e3eeb495119e6d2"
+      },
+      {
+        "source_path": "registry/components/file-upload/file-upload.module.css",
+        "target": "@components/arc/file-upload/file-upload.module.css",
+        "saved_as": "blocks/file-upload/file-upload.module.css",
+        "bytes": 4742,
+        "md5": "f6addf99a1278ccbce7c9946f5d46fb8"
+      }
+    ]
+  },
+  {
+    "name": "hero-section",
+    "kind": "block",
+    "title": "Hero section",
+    "page": "https://uiarc.dev/components/blocks/hero-section",
+    "registry": "https://uiarc.dev/r/hero-section.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/avatar.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/copy-button.json",
+      "https://uiarc.dev/r/line-chart.json",
+      "https://uiarc.dev/r/segmented-control.json",
+      "https://uiarc.dev/r/sparkline.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/hero-section/hero-section.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-section.tsx",
+        "saved_as": "blocks/hero-section/hero-section.tsx",
+        "bytes": 4104,
+        "md5": "6a314e458446c337a66a07c5ec6fc695"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-section.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-section.module.css",
+        "saved_as": "blocks/hero-section/hero-section.module.css",
+        "bytes": 2493,
+        "md5": "f18d6553eb39d3ecd3a8b75c8c7e5def"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-content.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-content.tsx",
+        "saved_as": "blocks/hero-section/hero-content.tsx",
+        "bytes": 5237,
+        "md5": "d8418ef8ab2ff008fc4160b89919fd26"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-content.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-content.module.css",
+        "saved_as": "blocks/hero-section/hero-content.module.css",
+        "bytes": 3893,
+        "md5": "a21bbdff96a0f0ca5fb9a96c2ada5448"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-motion.ts",
+        "target": "@components/arc/blocks/hero-section/hero-motion.ts",
+        "saved_as": "blocks/hero-section/hero-motion.ts",
+        "bytes": 1510,
+        "md5": "34a1a94df2168d7b6b1bccbbe13c1892"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-mesh.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-mesh.tsx",
+        "saved_as": "blocks/hero-section/hero-mesh.tsx",
+        "bytes": 8919,
+        "md5": "a7c5f0e0b518726b18802fe83f90dcba"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-mesh.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-mesh.module.css",
+        "saved_as": "blocks/hero-section/hero-mesh.module.css",
+        "bytes": 445,
+        "md5": "bc90e121f0aeadb3edfeafc1296f1b80"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-cadence.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-cadence.tsx",
+        "saved_as": "blocks/hero-section/hero-cadence.tsx",
+        "bytes": 3505,
+        "md5": "39cf24a3284c4c11a141b88d036952f8"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-cadence.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-cadence.module.css",
+        "saved_as": "blocks/hero-section/hero-cadence.module.css",
+        "bytes": 3219,
+        "md5": "0a2f306a71de2ecbf008410accaada68"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-relay.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-relay.tsx",
+        "saved_as": "blocks/hero-section/hero-relay.tsx",
+        "bytes": 14712,
+        "md5": "f6034e4084cad2d563721e6de4441191"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-relay.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-relay.module.css",
+        "saved_as": "blocks/hero-section/hero-relay.module.css",
+        "bytes": 6856,
+        "md5": "363560886403098c43c3f56db5fcc4da"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-lumen.tsx",
+        "target": "@components/arc/blocks/hero-section/hero-lumen.tsx",
+        "saved_as": "blocks/hero-section/hero-lumen.tsx",
+        "bytes": 10754,
+        "md5": "ddc36c4eb737de38ac5f69c5eef27d79"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-lumen.module.css",
+        "target": "@components/arc/blocks/hero-section/hero-lumen.module.css",
+        "saved_as": "blocks/hero-section/hero-lumen.module.css",
+        "bytes": 10240,
+        "md5": "bcb6f66a7957cec351bd1bd1accd38b1"
+      },
+      {
+        "source_path": "registry/blocks/hero-section/hero-lumen-data.ts",
+        "target": "@components/arc/blocks/hero-section/hero-lumen-data.ts",
+        "saved_as": "blocks/hero-section/hero-lumen-data.ts",
+        "bytes": 5193,
+        "md5": "e8d859f0a1b27681846d564b9e6f0c27"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/hero-section/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      }
+    ]
+  },
+  {
+    "name": "login-centered",
+    "kind": "block",
+    "title": "Centered login",
+    "page": "https://uiarc.dev/components/blocks/login-centered",
+    "registry": "https://uiarc.dev/r/login-centered.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/input.json",
+      "https://uiarc.dev/r/otp-input.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/login-centered/login-centered.tsx",
+        "target": "@components/arc/blocks/login-centered/login-centered.tsx",
+        "saved_as": "blocks/login-centered/login-centered.tsx",
+        "bytes": 27922,
+        "md5": "40438853ad88427017f59757b209ccbb"
+      },
+      {
+        "source_path": "registry/blocks/login-centered/login-centered.module.css",
+        "target": "@components/arc/blocks/login-centered/login-centered.module.css",
+        "saved_as": "blocks/login-centered/login-centered.module.css",
+        "bytes": 8416,
+        "md5": "b8d1c4e8cf767b3541f1c32411ba3f51"
+      }
+    ]
+  },
+  {
+    "name": "logo-marquee",
+    "kind": "block",
+    "title": "Logo marquee",
+    "page": "https://uiarc.dev/components/blocks/logo-marquee",
+    "registry": "https://uiarc.dev/r/logo-marquee.json",
+    "dependencies": [
+      "lucide-react"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/logo-marquee/logo-marquee.tsx",
+        "target": "@components/arc/blocks/logo-marquee/logo-marquee.tsx",
+        "saved_as": "blocks/logo-marquee/logo-marquee.tsx",
+        "bytes": 3992,
+        "md5": "59881c749a1a5e48b5868bc3e63f374a"
+      },
+      {
+        "source_path": "registry/blocks/logo-marquee/logo-marquee.module.css",
+        "target": "@components/arc/blocks/logo-marquee/logo-marquee.module.css",
+        "saved_as": "blocks/logo-marquee/logo-marquee.module.css",
+        "bytes": 3651,
+        "md5": "6afb2346d98804383eee7b1bc691c41b"
+      }
+    ]
+  },
+  {
+    "name": "newsletter-signup",
+    "kind": "block",
+    "title": "Newsletter signup",
+    "page": "https://uiarc.dev/components/blocks/newsletter-signup",
+    "registry": "https://uiarc.dev/r/newsletter-signup.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/animated-counter.json",
+      "https://uiarc.dev/r/segmented-control.json",
+      "https://uiarc.dev/r/switch.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/newsletter-signup/newsletter-signup.tsx",
+        "target": "@components/arc/blocks/newsletter-signup/newsletter-signup.tsx",
+        "saved_as": "blocks/newsletter-signup/newsletter-signup.tsx",
+        "bytes": 18803,
+        "md5": "1bcaef3c556a88e4b012667fee6663fe"
+      },
+      {
+        "source_path": "registry/blocks/newsletter-signup/newsletter-signup-data.ts",
+        "target": "@components/arc/blocks/newsletter-signup/newsletter-signup-data.ts",
+        "saved_as": "blocks/newsletter-signup/newsletter-signup-data.ts",
+        "bytes": 3483,
+        "md5": "19dc389b2ef2fe4fcde3973b0caf9821"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/newsletter-signup/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      },
+      {
+        "source_path": "registry/blocks/newsletter-signup/newsletter-signup.module.css",
+        "target": "@components/arc/blocks/newsletter-signup/newsletter-signup.module.css",
+        "saved_as": "blocks/newsletter-signup/newsletter-signup.module.css",
+        "bytes": 13530,
+        "md5": "c396690c4d2c2f8805eef5ad70c3d889"
+      }
+    ]
+  },
+  {
+    "name": "notification-center",
+    "kind": "block",
+    "title": "Notification center",
+    "page": "https://uiarc.dev/components/blocks/notification-center",
+    "registry": "https://uiarc.dev/r/notification-center.json",
+    "dependencies": [
+      "@radix-ui/react-popover",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/avatar.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/notification-center/notification-center.tsx",
+        "target": "@components/arc/notification-center/notification-center.tsx",
+        "saved_as": "blocks/notification-center/notification-center.tsx",
+        "bytes": 19007,
+        "md5": "53bf9ce4660d3edd4d181ef8fddc8167"
+      },
+      {
+        "source_path": "registry/components/notification-center/notification-center.module.css",
+        "target": "@components/arc/notification-center/notification-center.module.css",
+        "saved_as": "blocks/notification-center/notification-center.module.css",
+        "bytes": 10360,
+        "md5": "d11cf8efdcb6b0ceb57617494a9a4bd9"
+      }
+    ]
+  },
+  {
+    "name": "otp-input",
+    "kind": "block",
+    "title": "OTP input",
+    "page": "https://uiarc.dev/components/blocks/otp-input",
+    "registry": "https://uiarc.dev/r/otp-input.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/otp-input/otp-input.tsx",
+        "target": "@components/arc/otp-input/otp-input.tsx",
+        "saved_as": "blocks/otp-input/otp-input.tsx",
+        "bytes": 11170,
+        "md5": "3f160ec20a799feeec294c9a954117e5"
+      },
+      {
+        "source_path": "registry/components/otp-input/otp-input.module.css",
+        "target": "@components/arc/otp-input/otp-input.module.css",
+        "saved_as": "blocks/otp-input/otp-input.module.css",
+        "bytes": 3275,
+        "md5": "5df7f5ddba7a36f8551a4ab54e1ab09a"
+      }
+    ]
+  },
+  {
+    "name": "page-header",
+    "kind": "block",
+    "title": "Page header",
+    "page": "https://uiarc.dev/components/blocks/page-header",
+    "registry": "https://uiarc.dev/r/page-header.json",
+    "dependencies": [
+      "@radix-ui/react-dropdown-menu",
+      "@radix-ui/react-tabs",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/animated-counter.json",
+      "https://uiarc.dev/r/avatar-group.json",
+      "https://uiarc.dev/r/avatar.json",
+      "https://uiarc.dev/r/badge.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/progress.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/page-header/page-header.tsx",
+        "target": "@components/arc/blocks/page-header/page-header.tsx",
+        "saved_as": "blocks/page-header/page-header.tsx",
+        "bytes": 32723,
+        "md5": "de9fa3dcafbdc3aef214af859706a3e3"
+      },
+      {
+        "source_path": "lib/use-copy-feedback.ts",
+        "target": "@components/arc/lib/use-copy-feedback.ts",
+        "saved_as": "blocks/page-header/lib/use-copy-feedback.ts",
+        "bytes": 2649,
+        "md5": "506b56ee55de288d9b957e4186922e5e"
+      },
+      {
+        "source_path": "registry/blocks/page-header/page-header.module.css",
+        "target": "@components/arc/blocks/page-header/page-header.module.css",
+        "saved_as": "blocks/page-header/page-header.module.css",
+        "bytes": 14825,
+        "md5": "cb397fea34c3a6c902dba5d4f0e0e337"
+      }
+    ]
+  },
+  {
+    "name": "plan-comparison",
+    "kind": "block",
+    "title": "Plan comparison",
+    "page": "https://uiarc.dev/components/blocks/plan-comparison",
+    "registry": "https://uiarc.dev/r/plan-comparison.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/segmented-control.json",
+      "https://uiarc.dev/r/switch.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/plan-comparison/plan-comparison.tsx",
+        "target": "@components/arc/blocks/plan-comparison/plan-comparison.tsx",
+        "saved_as": "blocks/plan-comparison/plan-comparison.tsx",
+        "bytes": 7333,
+        "md5": "6c41e2afa11bb42de43e78b535232ff3"
+      },
+      {
+        "source_path": "registry/blocks/plan-comparison/plan-comparison.module.css",
+        "target": "@components/arc/blocks/plan-comparison/plan-comparison.module.css",
+        "saved_as": "blocks/plan-comparison/plan-comparison.module.css",
+        "bytes": 7975,
+        "md5": "7e5d02c762d7df67cc97f97441b7f79b"
+      }
+    ]
+  },
+  {
+    "name": "sign-in",
+    "kind": "block",
+    "title": "Sign in",
+    "page": "https://uiarc.dev/components/blocks/sign-in",
+    "registry": "https://uiarc.dev/r/sign-in.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/avatar.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/input.json",
+      "https://uiarc.dev/r/otp-input.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/sign-in/sign-in.tsx",
+        "target": "@components/arc/blocks/sign-in/sign-in.tsx",
+        "saved_as": "blocks/sign-in/sign-in.tsx",
+        "bytes": 23257,
+        "md5": "30f23c2bbcab30918f643e1ff0231355"
+      },
+      {
+        "source_path": "registry/blocks/sign-in/sign-in.module.css",
+        "target": "@components/arc/blocks/sign-in/sign-in.module.css",
+        "saved_as": "blocks/sign-in/sign-in.module.css",
+        "bytes": 6530,
+        "md5": "71d70951f37463eb4aa6f5416fbc13b1"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/sign-in/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      }
+    ]
+  },
+  {
+    "name": "signup-form",
+    "kind": "block",
+    "title": "Sign up form",
+    "page": "https://uiarc.dev/components/blocks/signup-form",
+    "registry": "https://uiarc.dev/r/signup-form.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/checkbox.json",
+      "https://uiarc.dev/r/input.json",
+      "https://uiarc.dev/r/password-field.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/signup-form/signup-form.tsx",
+        "target": "@components/arc/blocks/signup-form/signup-form.tsx",
+        "saved_as": "blocks/signup-form/signup-form.tsx",
+        "bytes": 18063,
+        "md5": "bc3654b5db61a928a14457a9ad4a3e84"
+      },
+      {
+        "source_path": "registry/blocks/signup-form/signup-form.module.css",
+        "target": "@components/arc/blocks/signup-form/signup-form.module.css",
+        "saved_as": "blocks/signup-form/signup-form.module.css",
+        "bytes": 5321,
+        "md5": "63b123f58840df78adadf95396bbeafd"
+      }
+    ]
+  },
+  {
+    "name": "site-footer",
+    "kind": "block",
+    "title": "Site footer",
+    "page": "https://uiarc.dev/components/blocks/site-footer",
+    "registry": "https://uiarc.dev/r/site-footer.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/segmented-control.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/site-footer/site-footer.tsx",
+        "target": "@components/arc/blocks/site-footer/site-footer.tsx",
+        "saved_as": "blocks/site-footer/site-footer.tsx",
+        "bytes": 14365,
+        "md5": "0f89165c8c62143b6192a1496f5721e3"
+      },
+      {
+        "source_path": "registry/blocks/site-footer/site-footer.module.css",
+        "target": "@components/arc/blocks/site-footer/site-footer.module.css",
+        "saved_as": "blocks/site-footer/site-footer.module.css",
+        "bytes": 6208,
+        "md5": "f3fa07bc737946c243a6cf4584b0918d"
+      }
+    ]
+  },
+  {
+    "name": "site-header",
+    "kind": "block",
+    "title": "Site header",
+    "page": "https://uiarc.dev/components/blocks/site-header",
+    "registry": "https://uiarc.dev/r/site-header.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/segmented-control.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/site-header/site-header.tsx",
+        "target": "@components/arc/blocks/site-header/site-header.tsx",
+        "saved_as": "blocks/site-header/site-header.tsx",
+        "bytes": 31390,
+        "md5": "55ac99807791548c0eba1533f2914f1a"
+      },
+      {
+        "source_path": "registry/blocks/site-header/site-header.module.css",
+        "target": "@components/arc/blocks/site-header/site-header.module.css",
+        "saved_as": "blocks/site-header/site-header.module.css",
+        "bytes": 11544,
+        "md5": "2bea6d59b1a7993a107f25df38ab4d5a"
+      },
+      {
+        "source_path": "lib/media.ts",
+        "target": "@components/arc/lib/media.ts",
+        "saved_as": "blocks/site-header/lib/media.ts",
+        "bytes": 7521,
+        "md5": "62d09efd88a568af15774a7d72704945"
+      }
+    ]
+  },
+  {
+    "name": "stats-band",
+    "kind": "block",
+    "title": "Stats band",
+    "page": "https://uiarc.dev/components/blocks/stats-band",
+    "registry": "https://uiarc.dev/r/stats-band.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/segmented-control.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/blocks/stats-band/stats-band.tsx",
+        "target": "@components/arc/blocks/stats-band/stats-band.tsx",
+        "saved_as": "blocks/stats-band/stats-band.tsx",
+        "bytes": 11762,
+        "md5": "6876fd887e3c1b88a27031259b2c480a"
+      },
+      {
+        "source_path": "registry/blocks/stats-band/stats-band-data.ts",
+        "target": "@components/arc/blocks/stats-band/stats-band-data.ts",
+        "saved_as": "blocks/stats-band/stats-band-data.ts",
+        "bytes": 3374,
+        "md5": "38599a3eb34ddcccf3da8637858a3ece"
+      },
+      {
+        "source_path": "registry/blocks/stats-band/stats-band.module.css",
+        "target": "@components/arc/blocks/stats-band/stats-band.module.css",
+        "saved_as": "blocks/stats-band/stats-band.module.css",
+        "bytes": 11683,
+        "md5": "53bb20a7a4478973697cba326ee7489a"
+      },
+      {
+        "source_path": "registry/blocks/stats-band/stats-band-world.ts",
+        "target": "@components/arc/blocks/stats-band/stats-band-world.ts",
+        "saved_as": "blocks/stats-band/stats-band-world.ts",
+        "bytes": 1307,
+        "md5": "2081769fe1d5bb52c9c510fcc093bc3b"
+      }
+    ]
+  },
+  {
+    "name": "accordion",
+    "kind": "component",
+    "title": "Accordion",
+    "page": "https://uiarc.dev/components/accordion",
+    "registry": "https://uiarc.dev/r/accordion.json",
+    "dependencies": [
+      "@radix-ui/react-accordion",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/accordion/accordion.tsx",
+        "target": "@components/arc/accordion/accordion.tsx",
+        "saved_as": "components/accordion/accordion.tsx",
+        "bytes": 4155,
+        "md5": "de6b406012c99a5f9250d59ce21dd529"
+      },
+      {
+        "source_path": "registry/components/accordion/accordion.module.css",
+        "target": "@components/arc/accordion/accordion.module.css",
+        "saved_as": "components/accordion/accordion.module.css",
+        "bytes": 1807,
+        "md5": "9459ef8f7db03901b55922f1558a7283"
+      }
+    ]
+  },
+  {
+    "name": "action-button",
+    "kind": "component",
+    "title": "Action button",
+    "page": "https://uiarc.dev/components/action-button",
+    "registry": "https://uiarc.dev/r/action-button.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/action-button/action-button.tsx",
+        "target": "@components/arc/action-button/action-button.tsx",
+        "saved_as": "components/action-button/action-button.tsx",
+        "bytes": 8034,
+        "md5": "2b881f2dcd87de7b19b6026b82aa17a1"
+      },
+      {
+        "source_path": "registry/components/action-button/action-button.module.css",
+        "target": "@components/arc/action-button/action-button.module.css",
+        "saved_as": "components/action-button/action-button.module.css",
+        "bytes": 2435,
+        "md5": "a554359ce0995bc7209d2d9c6b86ddfe"
+      }
+    ]
+  },
+  {
+    "name": "action-swap",
+    "kind": "component",
+    "title": "Action swap",
+    "page": "https://uiarc.dev/components/action-swap",
+    "registry": "https://uiarc.dev/r/action-swap.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/action-swap/action-swap.tsx",
+        "target": "@components/arc/action-swap/action-swap.tsx",
+        "saved_as": "components/action-swap/action-swap.tsx",
+        "bytes": 13208,
+        "md5": "e910184eb1f155d6253970245dafcfff"
+      },
+      {
+        "source_path": "registry/components/action-swap/action-swap.module.css",
+        "target": "@components/arc/action-swap/action-swap.module.css",
+        "saved_as": "components/action-swap/action-swap.module.css",
+        "bytes": 4497,
+        "md5": "9763f6773282bd5958787625dc5a10c7"
+      }
+    ]
+  },
+  {
+    "name": "activity-heatmap",
+    "kind": "component",
+    "title": "Activity heatmap",
+    "page": "https://uiarc.dev/components/activity-heatmap",
+    "registry": "https://uiarc.dev/r/activity-heatmap.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/activity-heatmap/activity-heatmap.tsx",
+        "target": "@components/arc/activity-heatmap/activity-heatmap.tsx",
+        "saved_as": "components/activity-heatmap/activity-heatmap.tsx",
+        "bytes": 25799,
+        "md5": "688ebfcbb2ca39d27e9cb6b071ca3c1c"
+      },
+      {
+        "source_path": "registry/components/activity-heatmap/activity-heatmap.module.css",
+        "target": "@components/arc/activity-heatmap/activity-heatmap.module.css",
+        "saved_as": "components/activity-heatmap/activity-heatmap.module.css",
+        "bytes": 9227,
+        "md5": "7d5632b2777cc0f3752dd343bc390c25"
+      }
+    ]
+  },
+  {
+    "name": "alert",
+    "kind": "component",
+    "title": "Alert",
+    "page": "https://uiarc.dev/components/alert",
+    "registry": "https://uiarc.dev/r/alert.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/alert/alert.tsx",
+        "target": "@components/arc/alert/alert.tsx",
+        "saved_as": "components/alert/alert.tsx",
+        "bytes": 8110,
+        "md5": "ab76fbbaaec868b39eaffd42c4d9db69"
+      },
+      {
+        "source_path": "registry/components/alert/alert.module.css",
+        "target": "@components/arc/alert/alert.module.css",
+        "saved_as": "components/alert/alert.module.css",
+        "bytes": 1691,
+        "md5": "549417204ef0e7a999e00eddb930a0c5"
+      }
+    ]
+  },
+  {
+    "name": "animated-counter",
+    "kind": "component",
+    "title": "Animated counter",
+    "page": "https://uiarc.dev/components/animated-counter",
+    "registry": "https://uiarc.dev/r/animated-counter.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/animated-counter/animated-counter.tsx",
+        "target": "@components/arc/animated-counter/animated-counter.tsx",
+        "saved_as": "components/animated-counter/animated-counter.tsx",
+        "bytes": 6665,
+        "md5": "d7e413107b4409018efcc386efe2f4a2"
+      },
+      {
+        "source_path": "registry/components/animated-counter/animated-counter.module.css",
+        "target": "@components/arc/animated-counter/animated-counter.module.css",
+        "saved_as": "components/animated-counter/animated-counter.module.css",
+        "bytes": 1493,
+        "md5": "860f75a74d079aa04cd0da373059c8c7"
+      }
+    ]
+  },
+  {
+    "name": "announcement-bar",
+    "kind": "component",
+    "title": "Announcement bar",
+    "page": "https://uiarc.dev/components/announcement-bar",
+    "registry": "https://uiarc.dev/r/announcement-bar.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/announcement-bar/announcement-bar.tsx",
+        "target": "@components/arc/announcement-bar/announcement-bar.tsx",
+        "saved_as": "components/announcement-bar/announcement-bar.tsx",
+        "bytes": 16447,
+        "md5": "551459a1d29928ae0e0594215b2a2290"
+      },
+      {
+        "source_path": "registry/components/announcement-bar/announcement-bar.module.css",
+        "target": "@components/arc/announcement-bar/announcement-bar.module.css",
+        "saved_as": "components/announcement-bar/announcement-bar.module.css",
+        "bytes": 4908,
+        "md5": "917c1c119e4655de5144428612176092"
+      }
+    ]
+  },
+  {
+    "name": "avatar",
+    "kind": "component",
+    "title": "Avatar",
+    "page": "https://uiarc.dev/components/avatar",
+    "registry": "https://uiarc.dev/r/avatar.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/avatar/avatar.tsx",
+        "target": "@components/arc/avatar/avatar.tsx",
+        "saved_as": "components/avatar/avatar.tsx",
+        "bytes": 2061,
+        "md5": "9a9812746eafb0b3b59f030f70d4f246"
+      },
+      {
+        "source_path": "registry/components/avatar/avatar.module.css",
+        "target": "@components/arc/avatar/avatar.module.css",
+        "saved_as": "components/avatar/avatar.module.css",
+        "bytes": 1742,
+        "md5": "a5ecc8aa9847712c45fcad7513779dc8"
+      },
+      {
+        "source_path": "lib/arc-provider.tsx",
+        "target": "@components/arc/lib/arc-provider.tsx",
+        "saved_as": "components/avatar/lib/arc-provider.tsx",
+        "bytes": 4249,
+        "md5": "d84f6dfebc6725528aaf37e2f51f15e7"
+      }
+    ]
+  },
+  {
+    "name": "avatar-group",
+    "kind": "component",
+    "title": "Avatar group",
+    "page": "https://uiarc.dev/components/avatar-group",
+    "registry": "https://uiarc.dev/r/avatar-group.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/avatar.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/avatar-group/avatar-group.tsx",
+        "target": "@components/arc/avatar-group/avatar-group.tsx",
+        "saved_as": "components/avatar-group/avatar-group.tsx",
+        "bytes": 3426,
+        "md5": "4d2bf93c9cdfa362f5f0f9e463286ffd"
+      },
+      {
+        "source_path": "registry/components/avatar-group/avatar-group.module.css",
+        "target": "@components/arc/avatar-group/avatar-group.module.css",
+        "saved_as": "components/avatar-group/avatar-group.module.css",
+        "bytes": 2414,
+        "md5": "52224cf904f3d1497b8f71a6b9a6bbd0"
+      }
+    ]
+  },
+  {
+    "name": "badge",
+    "kind": "component",
+    "title": "Badge",
+    "page": "https://uiarc.dev/components/badge",
+    "registry": "https://uiarc.dev/r/badge.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/badge/badge.tsx",
+        "target": "@components/arc/badge/badge.tsx",
+        "saved_as": "components/badge/badge.tsx",
+        "bytes": 5939,
+        "md5": "f85d544cd70ccc30fd996c54a118f267"
+      },
+      {
+        "source_path": "registry/components/badge/badge.module.css",
+        "target": "@components/arc/badge/badge.module.css",
+        "saved_as": "components/badge/badge.module.css",
+        "bytes": 4755,
+        "md5": "8614d9732df512644835ee51e788c727"
+      }
+    ]
+  },
+  {
+    "name": "bar-chart",
+    "kind": "component",
+    "title": "Bar chart",
+    "page": "https://uiarc.dev/components/bar-chart",
+    "registry": "https://uiarc.dev/r/bar-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/bar-chart/bar-chart.tsx",
+        "target": "@components/arc/bar-chart/bar-chart.tsx",
+        "saved_as": "components/bar-chart/bar-chart.tsx",
+        "bytes": 26004,
+        "md5": "f6eb5e411602908f9c243e3f25c0bb7c"
+      },
+      {
+        "source_path": "registry/components/bar-chart/bar-chart.module.css",
+        "target": "@components/arc/bar-chart/bar-chart.module.css",
+        "saved_as": "components/bar-chart/bar-chart.module.css",
+        "bytes": 4580,
+        "md5": "b1ce7a179366111bab1b4d0e89a4b163"
+      }
+    ]
+  },
+  {
+    "name": "billing-toggle",
+    "kind": "component",
+    "title": "Billing toggle",
+    "page": "https://uiarc.dev/components/billing-toggle",
+    "registry": "https://uiarc.dev/r/billing-toggle.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/animated-counter.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/billing-toggle/billing-toggle.tsx",
+        "target": "@components/arc/billing-toggle/billing-toggle.tsx",
+        "saved_as": "components/billing-toggle/billing-toggle.tsx",
+        "bytes": 8861,
+        "md5": "6c99f6deeba551a061c3b9b9f9273bf9"
+      },
+      {
+        "source_path": "registry/components/billing-toggle/billing-toggle.module.css",
+        "target": "@components/arc/billing-toggle/billing-toggle.module.css",
+        "saved_as": "components/billing-toggle/billing-toggle.module.css",
+        "bytes": 4949,
+        "md5": "68cbe05d222c2409b817591b76ae4c43"
+      }
+    ]
+  },
+  {
+    "name": "bottom-sheet",
+    "kind": "component",
+    "title": "Bottom sheet",
+    "page": "https://uiarc.dev/components/bottom-sheet",
+    "registry": "https://uiarc.dev/r/bottom-sheet.json",
+    "dependencies": [
+      "@radix-ui/react-dialog",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/bottom-sheet/bottom-sheet.tsx",
+        "target": "@components/arc/bottom-sheet/bottom-sheet.tsx",
+        "saved_as": "components/bottom-sheet/bottom-sheet.tsx",
+        "bytes": 21092,
+        "md5": "19a9f5e30201bbad0e5866ec11beba46"
+      },
+      {
+        "source_path": "registry/components/bottom-sheet/bottom-sheet.module.css",
+        "target": "@components/arc/bottom-sheet/bottom-sheet.module.css",
+        "saved_as": "components/bottom-sheet/bottom-sheet.module.css",
+        "bytes": 4567,
+        "md5": "a66319b8734174da6274c5feecb40772"
+      }
+    ]
+  },
+  {
+    "name": "breadcrumb",
+    "kind": "component",
+    "title": "Breadcrumb",
+    "page": "https://uiarc.dev/components/breadcrumb",
+    "registry": "https://uiarc.dev/r/breadcrumb.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/breadcrumb/breadcrumb.tsx",
+        "target": "@components/arc/breadcrumb/breadcrumb.tsx",
+        "saved_as": "components/breadcrumb/breadcrumb.tsx",
+        "bytes": 2333,
+        "md5": "25825e0a47917f41794b21266d5a9bf1"
+      },
+      {
+        "source_path": "registry/components/breadcrumb/breadcrumb.module.css",
+        "target": "@components/arc/breadcrumb/breadcrumb.module.css",
+        "saved_as": "components/breadcrumb/breadcrumb.module.css",
+        "bytes": 1860,
+        "md5": "795808d0569a7c905df5d7a224eb7ef0"
+      },
+      {
+        "source_path": "lib/arc-provider.tsx",
+        "target": "@components/arc/lib/arc-provider.tsx",
+        "saved_as": "components/breadcrumb/lib/arc-provider.tsx",
+        "bytes": 4249,
+        "md5": "d84f6dfebc6725528aaf37e2f51f15e7"
+      }
+    ]
+  },
+  {
+    "name": "brush-chart",
+    "kind": "component",
+    "title": "Brush chart",
+    "page": "https://uiarc.dev/components/brush-chart",
+    "registry": "https://uiarc.dev/r/brush-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/brush-chart/brush-chart.tsx",
+        "target": "@components/arc/brush-chart/brush-chart.tsx",
+        "saved_as": "components/brush-chart/brush-chart.tsx",
+        "bytes": 30737,
+        "md5": "1d56b8693a709edfc105098d9c983c27"
+      },
+      {
+        "source_path": "registry/components/brush-chart/brush-chart.module.css",
+        "target": "@components/arc/brush-chart/brush-chart.module.css",
+        "saved_as": "components/brush-chart/brush-chart.module.css",
+        "bytes": 7776,
+        "md5": "8adddce9815c6c6752be5146881e55d2"
+      }
+    ]
+  },
+  {
+    "name": "button",
+    "kind": "component",
+    "title": "Button",
+    "page": "https://uiarc.dev/components/button",
+    "registry": "https://uiarc.dev/r/button.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/button/button.tsx",
+        "target": "@components/arc/button/button.tsx",
+        "saved_as": "components/button/button.tsx",
+        "bytes": 7864,
+        "md5": "301a4947540fa9fa3fbcc19df913beef"
+      },
+      {
+        "source_path": "registry/components/button/button.module.css",
+        "target": "@components/arc/button/button.module.css",
+        "saved_as": "components/button/button.module.css",
+        "bytes": 4360,
+        "md5": "4eb7fae65bcb2bb7e5d9381b806421e3"
+      }
+    ]
+  },
+  {
+    "name": "button-group",
+    "kind": "component",
+    "title": "Button group",
+    "page": "https://uiarc.dev/components/button-group",
+    "registry": "https://uiarc.dev/r/button-group.json",
+    "dependencies": [
+      "@radix-ui/react-dropdown-menu",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/button-group/button-group.tsx",
+        "target": "@components/arc/button-group/button-group.tsx",
+        "saved_as": "components/button-group/button-group.tsx",
+        "bytes": 20702,
+        "md5": "a2da375fdefba6feb30c608bd72fb52b"
+      },
+      {
+        "source_path": "registry/components/button-group/button-group.module.css",
+        "target": "@components/arc/button-group/button-group.module.css",
+        "saved_as": "components/button-group/button-group.module.css",
+        "bytes": 9259,
+        "md5": "9513ad085988ea79ffb991d008add553"
+      }
+    ]
+  },
+  {
+    "name": "calendar",
+    "kind": "component",
+    "title": "Calendar",
+    "page": "https://uiarc.dev/components/calendar",
+    "registry": "https://uiarc.dev/r/calendar.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/calendar/calendar.tsx",
+        "target": "@components/arc/calendar/calendar.tsx",
+        "saved_as": "components/calendar/calendar.tsx",
+        "bytes": 19216,
+        "md5": "0fdacf56d5de76b218a4597761482bf7"
+      },
+      {
+        "source_path": "lib/use-today.ts",
+        "target": "@components/arc/lib/use-today.ts",
+        "saved_as": "components/calendar/lib/use-today.ts",
+        "bytes": 1716,
+        "md5": "c88bd4eca52ad6e560eda2d9e38e060e"
+      },
+      {
+        "source_path": "registry/components/calendar/calendar.module.css",
+        "target": "@components/arc/calendar/calendar.module.css",
+        "saved_as": "components/calendar/calendar.module.css",
+        "bytes": 6458,
+        "md5": "09894d23a82241beb7d9279f822cd59c"
+      }
+    ]
+  },
+  {
+    "name": "card",
+    "kind": "component",
+    "title": "Card",
+    "page": "https://uiarc.dev/components/card",
+    "registry": "https://uiarc.dev/r/card.json",
+    "dependencies": [
+      "@radix-ui/react-dialog",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/card/card.tsx",
+        "target": "@components/arc/card/card.tsx",
+        "saved_as": "components/card/card.tsx",
+        "bytes": 13157,
+        "md5": "9172115f641787589a0771da97d7cc42"
+      },
+      {
+        "source_path": "registry/components/card/card.module.css",
+        "target": "@components/arc/card/card.module.css",
+        "saved_as": "components/card/card.module.css",
+        "bytes": 6002,
+        "md5": "7ea818886992658c11a946b82882cca4"
+      }
+    ]
+  },
+  {
+    "name": "card-stack",
+    "kind": "component",
+    "title": "Card stack",
+    "page": "https://uiarc.dev/components/card-stack",
+    "registry": "https://uiarc.dev/r/card-stack.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/card-stack/card-stack.tsx",
+        "target": "@components/arc/card-stack/card-stack.tsx",
+        "saved_as": "components/card-stack/card-stack.tsx",
+        "bytes": 20415,
+        "md5": "8d2db4b02588dec1d63427278976971f"
+      },
+      {
+        "source_path": "registry/components/card-stack/card-stack.module.css",
+        "target": "@components/arc/card-stack/card-stack.module.css",
+        "saved_as": "components/card-stack/card-stack.module.css",
+        "bytes": 5856,
+        "md5": "40cd087cd04baa6d12701415779994a5"
+      }
+    ]
+  },
+  {
+    "name": "carousel",
+    "kind": "component",
+    "title": "Carousel",
+    "page": "https://uiarc.dev/components/carousel",
+    "registry": "https://uiarc.dev/r/carousel.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/carousel/carousel.tsx",
+        "target": "@components/arc/carousel/carousel.tsx",
+        "saved_as": "components/carousel/carousel.tsx",
+        "bytes": 21619,
+        "md5": "c5c910418b8a192dd3867927c4a987fe"
+      },
+      {
+        "source_path": "registry/components/carousel/carousel.module.css",
+        "target": "@components/arc/carousel/carousel.module.css",
+        "saved_as": "components/carousel/carousel.module.css",
+        "bytes": 4223,
+        "md5": "d8e9b60033e11e4e041621234ef9c36e"
+      }
+    ]
+  },
+  {
+    "name": "chat-thread",
+    "kind": "component",
+    "title": "Chat thread",
+    "page": "https://uiarc.dev/components/chat-thread",
+    "registry": "https://uiarc.dev/r/chat-thread.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/chat-thread/chat-thread.tsx",
+        "target": "@components/arc/chat-thread/chat-thread.tsx",
+        "saved_as": "components/chat-thread/chat-thread.tsx",
+        "bytes": 39381,
+        "md5": "e5f51de147278f3b7f9bf6423629597f"
+      },
+      {
+        "source_path": "registry/components/chat-thread/chat-thread.module.css",
+        "target": "@components/arc/chat-thread/chat-thread.module.css",
+        "saved_as": "components/chat-thread/chat-thread.module.css",
+        "bytes": 15446,
+        "md5": "f46cb2d65b8297e073e2bcc50483eb0b"
+      }
+    ]
+  },
+  {
+    "name": "checkbox",
+    "kind": "component",
+    "title": "Checkbox",
+    "page": "https://uiarc.dev/components/checkbox",
+    "registry": "https://uiarc.dev/r/checkbox.json",
+    "dependencies": [
+      "@radix-ui/react-checkbox",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/checkbox/checkbox.tsx",
+        "target": "@components/arc/checkbox/checkbox.tsx",
+        "saved_as": "components/checkbox/checkbox.tsx",
+        "bytes": 2910,
+        "md5": "2a058a44443b1adda02b3927982b2e8d"
+      },
+      {
+        "source_path": "registry/components/checkbox/checkbox.module.css",
+        "target": "@components/arc/checkbox/checkbox.module.css",
+        "saved_as": "components/checkbox/checkbox.module.css",
+        "bytes": 2052,
+        "md5": "c0864dbdd8ef0a41e4c66fd32756c102"
+      }
+    ]
+  },
+  {
+    "name": "chip-group",
+    "kind": "component",
+    "title": "Chip group",
+    "page": "https://uiarc.dev/components/chip-group",
+    "registry": "https://uiarc.dev/r/chip-group.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/chip-group/chip-group.tsx",
+        "target": "@components/arc/chip-group/chip-group.tsx",
+        "saved_as": "components/chip-group/chip-group.tsx",
+        "bytes": 16485,
+        "md5": "7be80a7a348a60eb5814f068bdcb267b"
+      },
+      {
+        "source_path": "registry/components/chip-group/chip-group.module.css",
+        "target": "@components/arc/chip-group/chip-group.module.css",
+        "saved_as": "components/chip-group/chip-group.module.css",
+        "bytes": 3388,
+        "md5": "a972e0a851cdaaccf4b5dd64dc469576"
+      }
+    ]
+  },
+  {
+    "name": "code-block",
+    "kind": "component",
+    "title": "Code block",
+    "page": "https://uiarc.dev/components/code-block",
+    "registry": "https://uiarc.dev/r/code-block.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/copy-button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/code-block/code-block.tsx",
+        "target": "@components/arc/code-block/code-block.tsx",
+        "saved_as": "components/code-block/code-block.tsx",
+        "bytes": 10183,
+        "md5": "f456d875655e32cf8b503140dcc6476e"
+      },
+      {
+        "source_path": "registry/components/code-block/code-block.module.css",
+        "target": "@components/arc/code-block/code-block.module.css",
+        "saved_as": "components/code-block/code-block.module.css",
+        "bytes": 4710,
+        "md5": "870987ec1446f06958d074485fb6f522"
+      }
+    ]
+  },
+  {
+    "name": "color-picker",
+    "kind": "component",
+    "title": "Color picker",
+    "page": "https://uiarc.dev/components/color-picker",
+    "registry": "https://uiarc.dev/r/color-picker.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/text-morph.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/color-picker/color-picker.tsx",
+        "target": "@components/arc/color-picker/color-picker.tsx",
+        "saved_as": "components/color-picker/color-picker.tsx",
+        "bytes": 30399,
+        "md5": "6cfbabfdf5737d95e3657483714d4a55"
+      },
+      {
+        "source_path": "registry/components/color-picker/color-picker.module.css",
+        "target": "@components/arc/color-picker/color-picker.module.css",
+        "saved_as": "components/color-picker/color-picker.module.css",
+        "bytes": 9141,
+        "md5": "a9c22b06a9b1c0e056a1b0a935afe209"
+      }
+    ]
+  },
+  {
+    "name": "combobox",
+    "kind": "component",
+    "title": "Combobox",
+    "page": "https://uiarc.dev/components/combobox",
+    "registry": "https://uiarc.dev/r/combobox.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/combobox/combobox.tsx",
+        "target": "@components/arc/combobox/combobox.tsx",
+        "saved_as": "components/combobox/combobox.tsx",
+        "bytes": 12096,
+        "md5": "09ff044d26848c33bb63f01621a6d85c"
+      },
+      {
+        "source_path": "registry/components/combobox/combobox.module.css",
+        "target": "@components/arc/combobox/combobox.module.css",
+        "saved_as": "components/combobox/combobox.module.css",
+        "bytes": 3493,
+        "md5": "56ee9418f9084a5bee20b43958250251"
+      }
+    ]
+  },
+  {
+    "name": "comment-thread",
+    "kind": "component",
+    "title": "Comment thread",
+    "page": "https://uiarc.dev/components/comment-thread",
+    "registry": "https://uiarc.dev/r/comment-thread.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/comment-thread/comment-thread.tsx",
+        "target": "@components/arc/comment-thread/comment-thread.tsx",
+        "saved_as": "components/comment-thread/comment-thread.tsx",
+        "bytes": 34035,
+        "md5": "26cfc867405d67ed52e7d3cdc5178a85"
+      },
+      {
+        "source_path": "registry/components/comment-thread/comment-thread.module.css",
+        "target": "@components/arc/comment-thread/comment-thread.module.css",
+        "saved_as": "components/comment-thread/comment-thread.module.css",
+        "bytes": 10613,
+        "md5": "f90bad9ca0a40cd78f0934e9bcf08458"
+      }
+    ]
+  },
+  {
+    "name": "confirm-morph",
+    "kind": "component",
+    "title": "Confirm morph",
+    "page": "https://uiarc.dev/components/confirm-morph",
+    "registry": "https://uiarc.dev/r/confirm-morph.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/confirm-morph/confirm-morph.tsx",
+        "target": "@components/arc/confirm-morph/confirm-morph.tsx",
+        "saved_as": "components/confirm-morph/confirm-morph.tsx",
+        "bytes": 24176,
+        "md5": "b7c00d122e8b75062cfe98863cc27a03"
+      },
+      {
+        "source_path": "registry/components/confirm-morph/confirm-morph.module.css",
+        "target": "@components/arc/confirm-morph/confirm-morph.module.css",
+        "saved_as": "components/confirm-morph/confirm-morph.module.css",
+        "bytes": 7577,
+        "md5": "2b083a092ab5b55e4a4ce85ff7cc18a3"
+      }
+    ]
+  },
+  {
+    "name": "context-menu",
+    "kind": "component",
+    "title": "Context menu",
+    "page": "https://uiarc.dev/components/context-menu",
+    "registry": "https://uiarc.dev/r/context-menu.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/context-menu/context-menu.tsx",
+        "target": "@components/arc/context-menu/context-menu.tsx",
+        "saved_as": "components/context-menu/context-menu.tsx",
+        "bytes": 10402,
+        "md5": "a34a80324d38675b3df425ceacdd09a2"
+      },
+      {
+        "source_path": "registry/components/context-menu/context-menu.module.css",
+        "target": "@components/arc/context-menu/context-menu.module.css",
+        "saved_as": "components/context-menu/context-menu.module.css",
+        "bytes": 2348,
+        "md5": "772982dfa1159bb85fbd9280b2462237"
+      }
+    ]
+  },
+  {
+    "name": "cookie-consent",
+    "kind": "component",
+    "title": "Cookie consent",
+    "page": "https://uiarc.dev/components/cookie-consent",
+    "registry": "https://uiarc.dev/r/cookie-consent.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json",
+      "https://uiarc.dev/r/switch.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/cookie-consent/cookie-consent.tsx",
+        "target": "@components/arc/cookie-consent/cookie-consent.tsx",
+        "saved_as": "components/cookie-consent/cookie-consent.tsx",
+        "bytes": 20613,
+        "md5": "e274e40b125b985e37e33206b6c0e32e"
+      },
+      {
+        "source_path": "registry/components/cookie-consent/cookie-consent.module.css",
+        "target": "@components/arc/cookie-consent/cookie-consent.module.css",
+        "saved_as": "components/cookie-consent/cookie-consent.module.css",
+        "bytes": 5213,
+        "md5": "33b7c55e694dd4f533c55de2fc14c02b"
+      }
+    ]
+  },
+  {
+    "name": "copy-button",
+    "kind": "component",
+    "title": "Copy button",
+    "page": "https://uiarc.dev/components/copy-button",
+    "registry": "https://uiarc.dev/r/copy-button.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/copy-button/copy-button.tsx",
+        "target": "@components/arc/copy-button/copy-button.tsx",
+        "saved_as": "components/copy-button/copy-button.tsx",
+        "bytes": 5048,
+        "md5": "557ecd27e1b2e0dad810590494defd07"
+      },
+      {
+        "source_path": "registry/components/copy-button/copy-button.module.css",
+        "target": "@components/arc/copy-button/copy-button.module.css",
+        "saved_as": "components/copy-button/copy-button.module.css",
+        "bytes": 2529,
+        "md5": "55acbfbf1035bb162627038e4ba2387f"
+      },
+      {
+        "source_path": "lib/use-copy-feedback.ts",
+        "target": "@components/arc/lib/use-copy-feedback.ts",
+        "saved_as": "components/copy-button/lib/use-copy-feedback.ts",
+        "bytes": 2649,
+        "md5": "506b56ee55de288d9b957e4186922e5e"
+      }
+    ]
+  },
+  {
+    "name": "countdown",
+    "kind": "component",
+    "title": "Countdown",
+    "page": "https://uiarc.dev/components/countdown",
+    "registry": "https://uiarc.dev/r/countdown.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/countdown/countdown.tsx",
+        "target": "@components/arc/countdown/countdown.tsx",
+        "saved_as": "components/countdown/countdown.tsx",
+        "bytes": 13117,
+        "md5": "89ac5b5a7be8b002522ce0830cce5920"
+      },
+      {
+        "source_path": "registry/components/countdown/countdown.module.css",
+        "target": "@components/arc/countdown/countdown.module.css",
+        "saved_as": "components/countdown/countdown.module.css",
+        "bytes": 4617,
+        "md5": "5a39f8b9db6e42a465b4cacfa2783240"
+      }
+    ]
+  },
+  {
+    "name": "date-picker",
+    "kind": "component",
+    "title": "Date picker",
+    "page": "https://uiarc.dev/components/date-picker",
+    "registry": "https://uiarc.dev/r/date-picker.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/calendar.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/date-picker/date-picker.tsx",
+        "target": "@components/arc/date-picker/date-picker.tsx",
+        "saved_as": "components/date-picker/date-picker.tsx",
+        "bytes": 9345,
+        "md5": "026eab92ce51e2ae0315012889297f6f"
+      },
+      {
+        "source_path": "registry/components/date-picker/date-picker.module.css",
+        "target": "@components/arc/date-picker/date-picker.module.css",
+        "saved_as": "components/date-picker/date-picker.module.css",
+        "bytes": 4532,
+        "md5": "6bb5a5ef9ec11a204265d7b42758ca88"
+      }
+    ]
+  },
+  {
+    "name": "date-range-picker",
+    "kind": "component",
+    "title": "Date range picker",
+    "page": "https://uiarc.dev/components/date-range-picker",
+    "registry": "https://uiarc.dev/r/date-range-picker.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/date-range-picker/date-range-picker.tsx",
+        "target": "@components/arc/date-range-picker/date-range-picker.tsx",
+        "saved_as": "components/date-range-picker/date-range-picker.tsx",
+        "bytes": 37222,
+        "md5": "a5a8f2c53cc32cba8b22a5b6ebc5ce14"
+      },
+      {
+        "source_path": "lib/use-today.ts",
+        "target": "@components/arc/lib/use-today.ts",
+        "saved_as": "components/date-range-picker/lib/use-today.ts",
+        "bytes": 1716,
+        "md5": "c88bd4eca52ad6e560eda2d9e38e060e"
+      },
+      {
+        "source_path": "registry/components/date-range-picker/date-range-picker.module.css",
+        "target": "@components/arc/date-range-picker/date-range-picker.module.css",
+        "saved_as": "components/date-range-picker/date-range-picker.module.css",
+        "bytes": 10720,
+        "md5": "114888fc1f375db47ec0864e90093c00"
+      }
+    ]
+  },
+  {
+    "name": "dialog",
+    "kind": "component",
+    "title": "Dialog",
+    "page": "https://uiarc.dev/components/dialog",
+    "registry": "https://uiarc.dev/r/dialog.json",
+    "dependencies": [
+      "@radix-ui/react-dialog",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/dialog/dialog.tsx",
+        "target": "@components/arc/dialog/dialog.tsx",
+        "saved_as": "components/dialog/dialog.tsx",
+        "bytes": 5559,
+        "md5": "2887de9eef89e837dfddc875356659b6"
+      },
+      {
+        "source_path": "registry/components/dialog/dialog.module.css",
+        "target": "@components/arc/dialog/dialog.module.css",
+        "saved_as": "components/dialog/dialog.module.css",
+        "bytes": 4327,
+        "md5": "b28f279f7bef98f980723c6db1eb7fad"
+      }
+    ]
+  },
+  {
+    "name": "donut-chart",
+    "kind": "component",
+    "title": "Donut chart",
+    "page": "https://uiarc.dev/components/donut-chart",
+    "registry": "https://uiarc.dev/r/donut-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/donut-chart/donut-chart.tsx",
+        "target": "@components/arc/donut-chart/donut-chart.tsx",
+        "saved_as": "components/donut-chart/donut-chart.tsx",
+        "bytes": 28496,
+        "md5": "7b05c7e7e7bc1a96e1af852de77bf46f"
+      },
+      {
+        "source_path": "registry/components/donut-chart/donut-chart.module.css",
+        "target": "@components/arc/donut-chart/donut-chart.module.css",
+        "saved_as": "components/donut-chart/donut-chart.module.css",
+        "bytes": 5029,
+        "md5": "8f0258cb4c5d74d7bb3edf3bad70ca1d"
+      }
+    ]
+  },
+  {
+    "name": "drawer",
+    "kind": "component",
+    "title": "Drawer",
+    "page": "https://uiarc.dev/components/drawer",
+    "registry": "https://uiarc.dev/r/drawer.json",
+    "dependencies": [
+      "@radix-ui/react-dialog",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/drawer/drawer.tsx",
+        "target": "@components/arc/drawer/drawer.tsx",
+        "saved_as": "components/drawer/drawer.tsx",
+        "bytes": 10123,
+        "md5": "7b1e2df2a15488870ca9514ec2581eba"
+      },
+      {
+        "source_path": "registry/components/drawer/drawer.module.css",
+        "target": "@components/arc/drawer/drawer.module.css",
+        "saved_as": "components/drawer/drawer.module.css",
+        "bytes": 7073,
+        "md5": "c7cdd48c501319323d54ca84d0e73fee"
+      }
+    ]
+  },
+  {
+    "name": "dropdown-menu",
+    "kind": "component",
+    "title": "Dropdown menu",
+    "page": "https://uiarc.dev/components/dropdown-menu",
+    "registry": "https://uiarc.dev/r/dropdown-menu.json",
+    "dependencies": [
+      "@radix-ui/react-dropdown-menu",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/dropdown-menu/dropdown-menu.tsx",
+        "target": "@components/arc/dropdown-menu/dropdown-menu.tsx",
+        "saved_as": "components/dropdown-menu/dropdown-menu.tsx",
+        "bytes": 5701,
+        "md5": "c9ec43248b289b5c2bf9f44880f03c0b"
+      },
+      {
+        "source_path": "registry/components/dropdown-menu/dropdown-menu.module.css",
+        "target": "@components/arc/dropdown-menu/dropdown-menu.module.css",
+        "saved_as": "components/dropdown-menu/dropdown-menu.module.css",
+        "bytes": 4985,
+        "md5": "3333893ab2ed586153629a6a1674a4d3"
+      }
+    ]
+  },
+  {
+    "name": "elastic-slider",
+    "kind": "component",
+    "title": "Elastic slider",
+    "page": "https://uiarc.dev/components/elastic-slider",
+    "registry": "https://uiarc.dev/r/elastic-slider.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/elastic-slider/elastic-slider.tsx",
+        "target": "@components/arc/elastic-slider/elastic-slider.tsx",
+        "saved_as": "components/elastic-slider/elastic-slider.tsx",
+        "bytes": 17524,
+        "md5": "c29a523f2e79fa3fc732ea6f1b4dfbd1"
+      },
+      {
+        "source_path": "registry/components/elastic-slider/elastic-slider.module.css",
+        "target": "@components/arc/elastic-slider/elastic-slider.module.css",
+        "saved_as": "components/elastic-slider/elastic-slider.module.css",
+        "bytes": 5169,
+        "md5": "1f878ba9bfecf9a8469efe01cf94c2fc"
+      }
+    ]
+  },
+  {
+    "name": "empty-state",
+    "kind": "component",
+    "title": "Empty state",
+    "page": "https://uiarc.dev/components/empty-state",
+    "registry": "https://uiarc.dev/r/empty-state.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/empty-state/empty-state.tsx",
+        "target": "@components/arc/empty-state/empty-state.tsx",
+        "saved_as": "components/empty-state/empty-state.tsx",
+        "bytes": 5550,
+        "md5": "361ee3af99918d19f47deb07489a19e7"
+      },
+      {
+        "source_path": "registry/components/empty-state/empty-state.module.css",
+        "target": "@components/arc/empty-state/empty-state.module.css",
+        "saved_as": "components/empty-state/empty-state.module.css",
+        "bytes": 1503,
+        "md5": "62199a2f8b4b426628a547e115e484c9"
+      }
+    ]
+  },
+  {
+    "name": "expandable-card",
+    "kind": "component",
+    "title": "Expandable card",
+    "page": "https://uiarc.dev/components/expandable-card",
+    "registry": "https://uiarc.dev/r/expandable-card.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/expandable-card/expandable-card.tsx",
+        "target": "@components/arc/expandable-card/expandable-card.tsx",
+        "saved_as": "components/expandable-card/expandable-card.tsx",
+        "bytes": 7464,
+        "md5": "ef7319e2a5f77705c20fa3d998df4a59"
+      },
+      {
+        "source_path": "registry/components/expandable-card/expandable-card.module.css",
+        "target": "@components/arc/expandable-card/expandable-card.module.css",
+        "saved_as": "components/expandable-card/expandable-card.module.css",
+        "bytes": 2546,
+        "md5": "33dff38d4e635e8bf7e91cb3489558c2"
+      }
+    ]
+  },
+  {
+    "name": "expandable-text",
+    "kind": "component",
+    "title": "Expandable text",
+    "page": "https://uiarc.dev/components/expandable-text",
+    "registry": "https://uiarc.dev/r/expandable-text.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "registry/components/expandable-text/expandable-text.tsx",
+        "target": "@components/arc/expandable-text/expandable-text.tsx",
+        "saved_as": "components/expandable-text/expandable-text.tsx",
+        "bytes": 9193,
+        "md5": "8d8d446700c30ccab84fffbd8bf3c773"
+      },
+      {
+        "source_path": "registry/components/expandable-text/expandable-text.module.css",
+        "target": "@components/arc/expandable-text/expandable-text.module.css",
+        "saved_as": "components/expandable-text/expandable-text.module.css",
+        "bytes": 2265,
+        "md5": "a9c63f46f6573681c731c6ead0991f09"
+      }
+    ]
+  },
+  {
+    "name": "expanding-button-group",
+    "kind": "component",
+    "title": "Expanding button group",
+    "page": "https://uiarc.dev/components/expanding-button-group",
+    "registry": "https://uiarc.dev/r/expanding-button-group.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/expanding-button-group/expanding-button-group.tsx",
+        "target": "@components/arc/expanding-button-group/expanding-button-group.tsx",
+        "saved_as": "components/expanding-button-group/expanding-button-group.tsx",
+        "bytes": 18128,
+        "md5": "2bbf1d5878d6eaca1e7a7335f63aa01a"
+      },
+      {
+        "source_path": "registry/components/expanding-button-group/expanding-button-group.module.css",
+        "target": "@components/arc/expanding-button-group/expanding-button-group.module.css",
+        "saved_as": "components/expanding-button-group/expanding-button-group.module.css",
+        "bytes": 4390,
+        "md5": "d72f511293deef9537ef4f1c1fdce3aa"
+      }
+    ]
+  },
+  {
+    "name": "expanding-search",
+    "kind": "component",
+    "title": "Expanding search",
+    "page": "https://uiarc.dev/components/expanding-search",
+    "registry": "https://uiarc.dev/r/expanding-search.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/expanding-search/expanding-search.tsx",
+        "target": "@components/arc/expanding-search/expanding-search.tsx",
+        "saved_as": "components/expanding-search/expanding-search.tsx",
+        "bytes": 19856,
+        "md5": "8851a27880a136d864a6e1a8044aea68"
+      },
+      {
+        "source_path": "registry/components/expanding-search/expanding-search.module.css",
+        "target": "@components/arc/expanding-search/expanding-search.module.css",
+        "saved_as": "components/expanding-search/expanding-search.module.css",
+        "bytes": 6264,
+        "md5": "ff81ef6359539bbccd0f1e056a7a9d49"
+      }
+    ]
+  },
+  {
+    "name": "file-dropzone",
+    "kind": "component",
+    "title": "File dropzone",
+    "page": "https://uiarc.dev/components/file-dropzone",
+    "registry": "https://uiarc.dev/r/file-dropzone.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/file-dropzone/file-dropzone.tsx",
+        "target": "@components/arc/file-dropzone/file-dropzone.tsx",
+        "saved_as": "components/file-dropzone/file-dropzone.tsx",
+        "bytes": 34168,
+        "md5": "a0bbe017329969e2c7d5d345280d793f"
+      },
+      {
+        "source_path": "registry/components/file-dropzone/file-dropzone.module.css",
+        "target": "@components/arc/file-dropzone/file-dropzone.module.css",
+        "saved_as": "components/file-dropzone/file-dropzone.module.css",
+        "bytes": 11086,
+        "md5": "d8d8602f2ef3a6fab7cde2e2658987ec"
+      }
+    ]
+  },
+  {
+    "name": "filter-toolbar",
+    "kind": "component",
+    "title": "Filter toolbar",
+    "page": "https://uiarc.dev/components/filter-toolbar",
+    "registry": "https://uiarc.dev/r/filter-toolbar.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/filter-toolbar/filter-toolbar.tsx",
+        "target": "@components/arc/filter-toolbar/filter-toolbar.tsx",
+        "saved_as": "components/filter-toolbar/filter-toolbar.tsx",
+        "bytes": 32823,
+        "md5": "1360c89d036587da2be49f40d3ba5eeb"
+      },
+      {
+        "source_path": "registry/components/filter-toolbar/filter-toolbar.module.css",
+        "target": "@components/arc/filter-toolbar/filter-toolbar.module.css",
+        "saved_as": "components/filter-toolbar/filter-toolbar.module.css",
+        "bytes": 9084,
+        "md5": "ebdee345fd405e5d1b1d90452bb9a9db"
+      }
+    ]
+  },
+  {
+    "name": "floating-button-group",
+    "kind": "component",
+    "title": "Floating button group",
+    "page": "https://uiarc.dev/components/floating-button-group",
+    "registry": "https://uiarc.dev/r/floating-button-group.json",
+    "dependencies": [
+      "@radix-ui/react-tooltip",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/tooltip.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/floating-button-group/floating-button-group.tsx",
+        "target": "@components/arc/floating-button-group/floating-button-group.tsx",
+        "saved_as": "components/floating-button-group/floating-button-group.tsx",
+        "bytes": 15960,
+        "md5": "0ddb3bbe1e8305823a7771b5cdabd9a8"
+      },
+      {
+        "source_path": "registry/components/floating-button-group/floating-button-group.module.css",
+        "target": "@components/arc/floating-button-group/floating-button-group.module.css",
+        "saved_as": "components/floating-button-group/floating-button-group.module.css",
+        "bytes": 6830,
+        "md5": "fee733158b80df07c64951d2a8396571"
+      }
+    ]
+  },
+  {
+    "name": "gauge",
+    "kind": "component",
+    "title": "Gauge",
+    "page": "https://uiarc.dev/components/gauge",
+    "registry": "https://uiarc.dev/r/gauge.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/gauge/gauge.tsx",
+        "target": "@components/arc/gauge/gauge.tsx",
+        "saved_as": "components/gauge/gauge.tsx",
+        "bytes": 7998,
+        "md5": "8b60685aaeecf1dc3d6793ea0e0b8241"
+      },
+      {
+        "source_path": "registry/components/gauge/gauge.module.css",
+        "target": "@components/arc/gauge/gauge.module.css",
+        "saved_as": "components/gauge/gauge.module.css",
+        "bytes": 2532,
+        "md5": "c7df4600738c9dbfc4da77631b9d3529"
+      }
+    ]
+  },
+  {
+    "name": "hold-to-confirm",
+    "kind": "component",
+    "title": "Hold to confirm",
+    "page": "https://uiarc.dev/components/hold-to-confirm",
+    "registry": "https://uiarc.dev/r/hold-to-confirm.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/hold-to-confirm/hold-to-confirm.tsx",
+        "target": "@components/arc/hold-to-confirm/hold-to-confirm.tsx",
+        "saved_as": "components/hold-to-confirm/hold-to-confirm.tsx",
+        "bytes": 11819,
+        "md5": "0491ed47d1e45ea062d802ad98e62ebb"
+      },
+      {
+        "source_path": "registry/components/hold-to-confirm/hold-to-confirm.module.css",
+        "target": "@components/arc/hold-to-confirm/hold-to-confirm.module.css",
+        "saved_as": "components/hold-to-confirm/hold-to-confirm.module.css",
+        "bytes": 2953,
+        "md5": "9d1634c09bf32136fecc45278dfe8e42"
+      }
+    ]
+  },
+  {
+    "name": "hover-card",
+    "kind": "component",
+    "title": "Hover card",
+    "page": "https://uiarc.dev/components/hover-card",
+    "registry": "https://uiarc.dev/r/hover-card.json",
+    "dependencies": [
+      "@radix-ui/react-popover",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/hover-card/hover-card.tsx",
+        "target": "@components/arc/hover-card/hover-card.tsx",
+        "saved_as": "components/hover-card/hover-card.tsx",
+        "bytes": 12442,
+        "md5": "aa639c8dbc04911c10780f652b6b625a"
+      },
+      {
+        "source_path": "registry/components/hover-card/hover-card.module.css",
+        "target": "@components/arc/hover-card/hover-card.module.css",
+        "saved_as": "components/hover-card/hover-card.module.css",
+        "bytes": 2651,
+        "md5": "b24b2850591859af8d89d2f0f9257952"
+      }
+    ]
+  },
+  {
+    "name": "icon-morph",
+    "kind": "component",
+    "title": "Icon morph",
+    "page": "https://uiarc.dev/components/icon-morph",
+    "registry": "https://uiarc.dev/r/icon-morph.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/icon-morph/icon-morph.tsx",
+        "target": "@components/arc/icon-morph/icon-morph.tsx",
+        "saved_as": "components/icon-morph/icon-morph.tsx",
+        "bytes": 12435,
+        "md5": "f2279199f4087473a8c3c3e05debc1e1"
+      },
+      {
+        "source_path": "registry/components/icon-morph/icon-morph.module.css",
+        "target": "@components/arc/icon-morph/icon-morph.module.css",
+        "saved_as": "components/icon-morph/icon-morph.module.css",
+        "bytes": 300,
+        "md5": "028923bb557473689ec6f34fb518e780"
+      }
+    ]
+  },
+  {
+    "name": "image-compare",
+    "kind": "component",
+    "title": "Image compare",
+    "page": "https://uiarc.dev/components/image-compare",
+    "registry": "https://uiarc.dev/r/image-compare.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/image-compare/image-compare.tsx",
+        "target": "@components/arc/image-compare/image-compare.tsx",
+        "saved_as": "components/image-compare/image-compare.tsx",
+        "bytes": 17713,
+        "md5": "db0af51af907f63fb25b407851644b63"
+      },
+      {
+        "source_path": "registry/components/image-compare/image-compare.module.css",
+        "target": "@components/arc/image-compare/image-compare.module.css",
+        "saved_as": "components/image-compare/image-compare.module.css",
+        "bytes": 3327,
+        "md5": "bcf1f6f89f859cfb47d5004fa9cd4558"
+      }
+    ]
+  },
+  {
+    "name": "in-view-title",
+    "kind": "component",
+    "title": "In-view title",
+    "page": "https://uiarc.dev/components/in-view-title",
+    "registry": "https://uiarc.dev/r/in-view-title.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/in-view-title/in-view-title.tsx",
+        "target": "@components/arc/in-view-title/in-view-title.tsx",
+        "saved_as": "components/in-view-title/in-view-title.tsx",
+        "bytes": 6588,
+        "md5": "847aec6d5271f5960a71f8ab9f547f53"
+      },
+      {
+        "source_path": "registry/components/in-view-title/in-view-title.module.css",
+        "target": "@components/arc/in-view-title/in-view-title.module.css",
+        "saved_as": "components/in-view-title/in-view-title.module.css",
+        "bytes": 1535,
+        "md5": "f207dd1f4b670068b5792cc1ecbcd366"
+      }
+    ]
+  },
+  {
+    "name": "inline-edit",
+    "kind": "component",
+    "title": "Inline edit",
+    "page": "https://uiarc.dev/components/inline-edit",
+    "registry": "https://uiarc.dev/r/inline-edit.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/inline-edit/inline-edit.tsx",
+        "target": "@components/arc/inline-edit/inline-edit.tsx",
+        "saved_as": "components/inline-edit/inline-edit.tsx",
+        "bytes": 20773,
+        "md5": "ee4aaea0c8cc38f17c423067fe9a3d74"
+      },
+      {
+        "source_path": "registry/components/inline-edit/inline-edit.module.css",
+        "target": "@components/arc/inline-edit/inline-edit.module.css",
+        "saved_as": "components/inline-edit/inline-edit.module.css",
+        "bytes": 8182,
+        "md5": "68b4b71e3aaaae5f60b9fe3926edc497"
+      }
+    ]
+  },
+  {
+    "name": "input",
+    "kind": "component",
+    "title": "Input",
+    "page": "https://uiarc.dev/components/input",
+    "registry": "https://uiarc.dev/r/input.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/input/input.tsx",
+        "target": "@components/arc/input/input.tsx",
+        "saved_as": "components/input/input.tsx",
+        "bytes": 6601,
+        "md5": "63533f6819c81fa55cf88033203296e0"
+      },
+      {
+        "source_path": "registry/components/input/input.module.css",
+        "target": "@components/arc/input/input.module.css",
+        "saved_as": "components/input/input.module.css",
+        "bytes": 2364,
+        "md5": "a816754f5b900d9d1446bc350feaf959"
+      }
+    ]
+  },
+  {
+    "name": "json-viewer",
+    "kind": "component",
+    "title": "JSON viewer",
+    "page": "https://uiarc.dev/components/json-viewer",
+    "registry": "https://uiarc.dev/r/json-viewer.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/json-viewer/json-viewer.tsx",
+        "target": "@components/arc/json-viewer/json-viewer.tsx",
+        "saved_as": "components/json-viewer/json-viewer.tsx",
+        "bytes": 28676,
+        "md5": "62826849b9565a959a99be16fbe56552"
+      },
+      {
+        "source_path": "registry/components/json-viewer/json-viewer.module.css",
+        "target": "@components/arc/json-viewer/json-viewer.module.css",
+        "saved_as": "components/json-viewer/json-viewer.module.css",
+        "bytes": 8312,
+        "md5": "12733bf31ace90cabd31b0bee41f5c46"
+      }
+    ]
+  },
+  {
+    "name": "line-chart",
+    "kind": "component",
+    "title": "Line chart",
+    "page": "https://uiarc.dev/components/line-chart",
+    "registry": "https://uiarc.dev/r/line-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/line-chart/line-chart.tsx",
+        "target": "@components/arc/line-chart/line-chart.tsx",
+        "saved_as": "components/line-chart/line-chart.tsx",
+        "bytes": 28262,
+        "md5": "578b5f6848fc7e037be7f80cbd48591e"
+      },
+      {
+        "source_path": "registry/components/line-chart/line-chart.module.css",
+        "target": "@components/arc/line-chart/line-chart.module.css",
+        "saved_as": "components/line-chart/line-chart.module.css",
+        "bytes": 6620,
+        "md5": "da9a9938ac75feec57e9f6cba0f6c603"
+      }
+    ]
+  },
+  {
+    "name": "mention-input",
+    "kind": "component",
+    "title": "Mention input",
+    "page": "https://uiarc.dev/components/mention-input",
+    "registry": "https://uiarc.dev/r/mention-input.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/mention-input/mention-input.tsx",
+        "target": "@components/arc/mention-input/mention-input.tsx",
+        "saved_as": "components/mention-input/mention-input.tsx",
+        "bytes": 25885,
+        "md5": "d72741c6fb4bd4ece20c4072731e4973"
+      },
+      {
+        "source_path": "registry/components/mention-input/mention-input.module.css",
+        "target": "@components/arc/mention-input/mention-input.module.css",
+        "saved_as": "components/mention-input/mention-input.module.css",
+        "bytes": 4221,
+        "md5": "7d784297a645a29e9aa57308f68401cd"
+      }
+    ]
+  },
+  {
+    "name": "metric-card",
+    "kind": "component",
+    "title": "Metric card",
+    "page": "https://uiarc.dev/components/metric-card",
+    "registry": "https://uiarc.dev/r/metric-card.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/animated-counter.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/metric-card/metric-card.tsx",
+        "target": "@components/arc/metric-card/metric-card.tsx",
+        "saved_as": "components/metric-card/metric-card.tsx",
+        "bytes": 4262,
+        "md5": "aead53a8cc260b8d234d51a7dc34d416"
+      },
+      {
+        "source_path": "registry/components/metric-card/metric-card.module.css",
+        "target": "@components/arc/metric-card/metric-card.module.css",
+        "saved_as": "components/metric-card/metric-card.module.css",
+        "bytes": 1937,
+        "md5": "d000ffd52fd1d08d1f6d73cb70674d4d"
+      }
+    ]
+  },
+  {
+    "name": "money-input",
+    "kind": "component",
+    "title": "Money input",
+    "page": "https://uiarc.dev/components/money-input",
+    "registry": "https://uiarc.dev/r/money-input.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/money-input/money-input.tsx",
+        "target": "@components/arc/money-input/money-input.tsx",
+        "saved_as": "components/money-input/money-input.tsx",
+        "bytes": 34154,
+        "md5": "0315435eb4cf19e803ba58571541f0ac"
+      },
+      {
+        "source_path": "registry/components/money-input/money-input.module.css",
+        "target": "@components/arc/money-input/money-input.module.css",
+        "saved_as": "components/money-input/money-input.module.css",
+        "bytes": 9039,
+        "md5": "41c5c33738a3db8c26fe40c1f0d82652"
+      }
+    ]
+  },
+  {
+    "name": "morph-select",
+    "kind": "component",
+    "title": "Morph select",
+    "page": "https://uiarc.dev/components/morph-select",
+    "registry": "https://uiarc.dev/r/morph-select.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/morph-select/morph-select.tsx",
+        "target": "@components/arc/morph-select/morph-select.tsx",
+        "saved_as": "components/morph-select/morph-select.tsx",
+        "bytes": 27286,
+        "md5": "32a481b5cb9c6a74de97ec138654635d"
+      },
+      {
+        "source_path": "registry/components/morph-select/morph-select.module.css",
+        "target": "@components/arc/morph-select/morph-select.module.css",
+        "saved_as": "components/morph-select/morph-select.module.css",
+        "bytes": 7884,
+        "md5": "09ed4a59425888c9523a0514591b671e"
+      }
+    ]
+  },
+  {
+    "name": "multi-select",
+    "kind": "component",
+    "title": "Multi-select",
+    "page": "https://uiarc.dev/components/multi-select",
+    "registry": "https://uiarc.dev/r/multi-select.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/multi-select/multi-select.tsx",
+        "target": "@components/arc/multi-select/multi-select.tsx",
+        "saved_as": "components/multi-select/multi-select.tsx",
+        "bytes": 10988,
+        "md5": "c9967002b009b6fdd920c7d89a34b1b3"
+      },
+      {
+        "source_path": "registry/components/multi-select/multi-select.module.css",
+        "target": "@components/arc/multi-select/multi-select.module.css",
+        "saved_as": "components/multi-select/multi-select.module.css",
+        "bytes": 5005,
+        "md5": "7a140a3e5835e91866d5f36ffa3625b1"
+      }
+    ]
+  },
+  {
+    "name": "number-field",
+    "kind": "component",
+    "title": "Number field",
+    "page": "https://uiarc.dev/components/number-field",
+    "registry": "https://uiarc.dev/r/number-field.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/number-field/number-field.tsx",
+        "target": "@components/arc/number-field/number-field.tsx",
+        "saved_as": "components/number-field/number-field.tsx",
+        "bytes": 33785,
+        "md5": "8764800ee8fec46bc833de65a882e0e5"
+      },
+      {
+        "source_path": "registry/components/number-field/number-field.module.css",
+        "target": "@components/arc/number-field/number-field.module.css",
+        "saved_as": "components/number-field/number-field.module.css",
+        "bytes": 9306,
+        "md5": "b0d7c0172602fe5c5e602e81d860e266"
+      }
+    ]
+  },
+  {
+    "name": "onboarding-checklist",
+    "kind": "component",
+    "title": "Onboarding checklist",
+    "page": "https://uiarc.dev/components/onboarding-checklist",
+    "registry": "https://uiarc.dev/r/onboarding-checklist.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/onboarding-checklist/onboarding-checklist.tsx",
+        "target": "@components/arc/onboarding-checklist/onboarding-checklist.tsx",
+        "saved_as": "components/onboarding-checklist/onboarding-checklist.tsx",
+        "bytes": 24745,
+        "md5": "58c6d1225ff4ccef98f916276f00b57a"
+      },
+      {
+        "source_path": "registry/components/onboarding-checklist/onboarding-checklist.module.css",
+        "target": "@components/arc/onboarding-checklist/onboarding-checklist.module.css",
+        "saved_as": "components/onboarding-checklist/onboarding-checklist.module.css",
+        "bytes": 8735,
+        "md5": "02f5745f14ae5fb1389ac27a9ce1695d"
+      }
+    ]
+  },
+  {
+    "name": "pagination",
+    "kind": "component",
+    "title": "Pagination",
+    "page": "https://uiarc.dev/components/pagination",
+    "registry": "https://uiarc.dev/r/pagination.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/pagination/pagination.tsx",
+        "target": "@components/arc/pagination/pagination.tsx",
+        "saved_as": "components/pagination/pagination.tsx",
+        "bytes": 4358,
+        "md5": "104a7bda7b231a2c179fa140b8f05f49"
+      },
+      {
+        "source_path": "registry/components/pagination/pagination.module.css",
+        "target": "@components/arc/pagination/pagination.module.css",
+        "saved_as": "components/pagination/pagination.module.css",
+        "bytes": 2298,
+        "md5": "3ccb279b5a5ec7f7536e3102ea5449e5"
+      }
+    ]
+  },
+  {
+    "name": "password-field",
+    "kind": "component",
+    "title": "Password field",
+    "page": "https://uiarc.dev/components/password-field",
+    "registry": "https://uiarc.dev/r/password-field.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/password-field/password-field.tsx",
+        "target": "@components/arc/password-field/password-field.tsx",
+        "saved_as": "components/password-field/password-field.tsx",
+        "bytes": 6489,
+        "md5": "c58e20c85748d5801a98edce24e61e8e"
+      },
+      {
+        "source_path": "registry/components/password-field/password-field.module.css",
+        "target": "@components/arc/password-field/password-field.module.css",
+        "saved_as": "components/password-field/password-field.module.css",
+        "bytes": 3270,
+        "md5": "6d468e46ef3cd9750a57e1cbcce1b446"
+      }
+    ]
+  },
+  {
+    "name": "password-strength",
+    "kind": "component",
+    "title": "Password strength",
+    "page": "https://uiarc.dev/components/password-strength",
+    "registry": "https://uiarc.dev/r/password-strength.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/password-strength/password-strength.tsx",
+        "target": "@components/arc/password-strength/password-strength.tsx",
+        "saved_as": "components/password-strength/password-strength.tsx",
+        "bytes": 21461,
+        "md5": "21db6e5ec49301ad56f85b33acb96461"
+      },
+      {
+        "source_path": "registry/components/password-strength/password-strength.module.css",
+        "target": "@components/arc/password-strength/password-strength.module.css",
+        "saved_as": "components/password-strength/password-strength.module.css",
+        "bytes": 6142,
+        "md5": "60cb144508c8419359d37a61240111ce"
+      }
+    ]
+  },
+  {
+    "name": "phone-input",
+    "kind": "component",
+    "title": "Phone input",
+    "page": "https://uiarc.dev/components/phone-input",
+    "registry": "https://uiarc.dev/r/phone-input.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/phone-input/phone-input.tsx",
+        "target": "@components/arc/phone-input/phone-input.tsx",
+        "saved_as": "components/phone-input/phone-input.tsx",
+        "bytes": 41153,
+        "md5": "1d0da6ccf6c2b59aa4d7a18bd449fa22"
+      },
+      {
+        "source_path": "registry/components/phone-input/phone-input.module.css",
+        "target": "@components/arc/phone-input/phone-input.module.css",
+        "saved_as": "components/phone-input/phone-input.module.css",
+        "bytes": 9936,
+        "md5": "e43d3763b5f84b11d47714b728e5dee9"
+      }
+    ]
+  },
+  {
+    "name": "popover",
+    "kind": "component",
+    "title": "Popover",
+    "page": "https://uiarc.dev/components/popover",
+    "registry": "https://uiarc.dev/r/popover.json",
+    "dependencies": [
+      "@radix-ui/react-popover"
+    ],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "registry/components/popover/popover.tsx",
+        "target": "@components/arc/popover/popover.tsx",
+        "saved_as": "components/popover/popover.tsx",
+        "bytes": 1404,
+        "md5": "87598c5705b11476b10590f9e1764b3e"
+      },
+      {
+        "source_path": "registry/components/popover/popover.module.css",
+        "target": "@components/arc/popover/popover.module.css",
+        "saved_as": "components/popover/popover.module.css",
+        "bytes": 1996,
+        "md5": "bfb3b93abef986755ac9258d4bc3c4a9"
+      }
+    ]
+  },
+  {
+    "name": "progress",
+    "kind": "component",
+    "title": "Progress",
+    "page": "https://uiarc.dev/components/progress",
+    "registry": "https://uiarc.dev/r/progress.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/progress/progress.tsx",
+        "target": "@components/arc/progress/progress.tsx",
+        "saved_as": "components/progress/progress.tsx",
+        "bytes": 4117,
+        "md5": "2fa6ce256a93333b815978694c3d190a"
+      },
+      {
+        "source_path": "registry/components/progress/progress.module.css",
+        "target": "@components/arc/progress/progress.module.css",
+        "saved_as": "components/progress/progress.module.css",
+        "bytes": 1232,
+        "md5": "4d1e4c3736dae31cff60b8c0abd1b250"
+      }
+    ]
+  },
+  {
+    "name": "radio-cards",
+    "kind": "component",
+    "title": "Radio cards",
+    "page": "https://uiarc.dev/components/radio-cards",
+    "registry": "https://uiarc.dev/r/radio-cards.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/radio-cards/radio-cards.tsx",
+        "target": "@components/arc/radio-cards/radio-cards.tsx",
+        "saved_as": "components/radio-cards/radio-cards.tsx",
+        "bytes": 8226,
+        "md5": "b7cab4ba1d4e7707ae0c0af0f4c8ac55"
+      },
+      {
+        "source_path": "registry/components/radio-cards/radio-cards.module.css",
+        "target": "@components/arc/radio-cards/radio-cards.module.css",
+        "saved_as": "components/radio-cards/radio-cards.module.css",
+        "bytes": 3877,
+        "md5": "dda9e5f0a2cadd9fd6446cb6d2e2c702"
+      }
+    ]
+  },
+  {
+    "name": "radio-group",
+    "kind": "component",
+    "title": "Radio group",
+    "page": "https://uiarc.dev/components/radio-group",
+    "registry": "https://uiarc.dev/r/radio-group.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/radio-group/radio-group.tsx",
+        "target": "@components/arc/radio-group/radio-group.tsx",
+        "saved_as": "components/radio-group/radio-group.tsx",
+        "bytes": 3768,
+        "md5": "f022864df294e76c1ad43176d03796f7"
+      },
+      {
+        "source_path": "registry/components/radio-group/radio-group.module.css",
+        "target": "@components/arc/radio-group/radio-group.module.css",
+        "saved_as": "components/radio-group/radio-group.module.css",
+        "bytes": 3621,
+        "md5": "deadca02d9882f8fc4fcf04e441b7352"
+      }
+    ]
+  },
+  {
+    "name": "range-histogram-slider",
+    "kind": "component",
+    "title": "Range histogram slider",
+    "page": "https://uiarc.dev/components/range-histogram-slider",
+    "registry": "https://uiarc.dev/r/range-histogram-slider.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/range-histogram-slider/range-histogram-slider.tsx",
+        "target": "@components/arc/range-histogram-slider/range-histogram-slider.tsx",
+        "saved_as": "components/range-histogram-slider/range-histogram-slider.tsx",
+        "bytes": 16639,
+        "md5": "3b4ee45d9e46a786cf514fdcc242bd8e"
+      },
+      {
+        "source_path": "registry/components/range-histogram-slider/range-histogram-slider.module.css",
+        "target": "@components/arc/range-histogram-slider/range-histogram-slider.module.css",
+        "saved_as": "components/range-histogram-slider/range-histogram-slider.module.css",
+        "bytes": 3417,
+        "md5": "ea0082508389d1795274225ade9b57c3"
+      }
+    ]
+  },
+  {
+    "name": "rating",
+    "kind": "component",
+    "title": "Rating",
+    "page": "https://uiarc.dev/components/rating",
+    "registry": "https://uiarc.dev/r/rating.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/rating/rating.tsx",
+        "target": "@components/arc/rating/rating.tsx",
+        "saved_as": "components/rating/rating.tsx",
+        "bytes": 15846,
+        "md5": "966b6683cb36876793d2dd8ce62fe692"
+      },
+      {
+        "source_path": "registry/components/rating/rating.module.css",
+        "target": "@components/arc/rating/rating.module.css",
+        "saved_as": "components/rating/rating.module.css",
+        "bytes": 3190,
+        "md5": "28528e2ad86302b4a01342cac4f629f7"
+      }
+    ]
+  },
+  {
+    "name": "reactions",
+    "kind": "component",
+    "title": "Reactions",
+    "page": "https://uiarc.dev/components/reactions",
+    "registry": "https://uiarc.dev/r/reactions.json",
+    "dependencies": [
+      "@radix-ui/react-popover",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/reactions/reactions.tsx",
+        "target": "@components/arc/reactions/reactions.tsx",
+        "saved_as": "components/reactions/reactions.tsx",
+        "bytes": 18712,
+        "md5": "77f4d07437a84d2666dabe658856c473"
+      },
+      {
+        "source_path": "registry/components/reactions/reactions.module.css",
+        "target": "@components/arc/reactions/reactions.module.css",
+        "saved_as": "components/reactions/reactions.module.css",
+        "bytes": 5906,
+        "md5": "0a452e9cd8ecf4c4e6e344ace0f2b874"
+      }
+    ]
+  },
+  {
+    "name": "reorderable-list",
+    "kind": "component",
+    "title": "Reorderable list",
+    "page": "https://uiarc.dev/components/reorderable-list",
+    "registry": "https://uiarc.dev/r/reorderable-list.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/reorderable-list/reorderable-list.tsx",
+        "target": "@components/arc/reorderable-list/reorderable-list.tsx",
+        "saved_as": "components/reorderable-list/reorderable-list.tsx",
+        "bytes": 5622,
+        "md5": "aff5c27f1b372ab68e9d053d0b58ffc3"
+      },
+      {
+        "source_path": "registry/components/reorderable-list/reorderable-list.module.css",
+        "target": "@components/arc/reorderable-list/reorderable-list.module.css",
+        "saved_as": "components/reorderable-list/reorderable-list.module.css",
+        "bytes": 2396,
+        "md5": "28907647762f61021f0caac6790d4790"
+      }
+    ]
+  },
+  {
+    "name": "resizable-panels",
+    "kind": "component",
+    "title": "Resizable panels",
+    "page": "https://uiarc.dev/components/resizable-panels",
+    "registry": "https://uiarc.dev/r/resizable-panels.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/resizable-panels/resizable-panels.tsx",
+        "target": "@components/arc/resizable-panels/resizable-panels.tsx",
+        "saved_as": "components/resizable-panels/resizable-panels.tsx",
+        "bytes": 24590,
+        "md5": "f314505c449cbde54fc8edac83651ee9"
+      },
+      {
+        "source_path": "registry/components/resizable-panels/resizable-panels.module.css",
+        "target": "@components/arc/resizable-panels/resizable-panels.module.css",
+        "saved_as": "components/resizable-panels/resizable-panels.module.css",
+        "bytes": 3804,
+        "md5": "ccdfbfc71a234648b7becf33afbc2bbf"
+      }
+    ]
+  },
+  {
+    "name": "rich-text-editor",
+    "kind": "component",
+    "title": "Rich text editor",
+    "page": "https://uiarc.dev/components/rich-text-editor",
+    "registry": "https://uiarc.dev/r/rich-text-editor.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/rich-text-editor/rich-text-editor.tsx",
+        "target": "@components/arc/rich-text-editor/rich-text-editor.tsx",
+        "saved_as": "components/rich-text-editor/rich-text-editor.tsx",
+        "bytes": 78122,
+        "md5": "cc1b7dbb54e6eef4d02b97a2d5925fd1"
+      },
+      {
+        "source_path": "registry/components/rich-text-editor/rich-text-editor.module.css",
+        "target": "@components/arc/rich-text-editor/rich-text-editor.module.css",
+        "saved_as": "components/rich-text-editor/rich-text-editor.module.css",
+        "bytes": 7244,
+        "md5": "c59a9ac4da77e7ac93463d923a3d5424"
+      }
+    ]
+  },
+  {
+    "name": "ridgeline",
+    "kind": "component",
+    "title": "Ridgeline",
+    "page": "https://uiarc.dev/components/ridgeline",
+    "registry": "https://uiarc.dev/r/ridgeline.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/ridgeline/ridgeline.tsx",
+        "target": "@components/arc/ridgeline/ridgeline.tsx",
+        "saved_as": "components/ridgeline/ridgeline.tsx",
+        "bytes": 24935,
+        "md5": "bb094fee9c1be3789e60ccb83d16a263"
+      },
+      {
+        "source_path": "registry/components/ridgeline/ridgeline.module.css",
+        "target": "@components/arc/ridgeline/ridgeline.module.css",
+        "saved_as": "components/ridgeline/ridgeline.module.css",
+        "bytes": 5235,
+        "md5": "62e4e8bdf3ae76128b963a35c4eca048"
+      }
+    ]
+  },
+  {
+    "name": "ruler-slider",
+    "kind": "component",
+    "title": "Ruler slider",
+    "page": "https://uiarc.dev/components/ruler-slider",
+    "registry": "https://uiarc.dev/r/ruler-slider.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/ruler-slider/ruler-slider.tsx",
+        "target": "@components/arc/ruler-slider/ruler-slider.tsx",
+        "saved_as": "components/ruler-slider/ruler-slider.tsx",
+        "bytes": 13698,
+        "md5": "d3070ca35d99bd79c67db03d60149e33"
+      },
+      {
+        "source_path": "registry/components/ruler-slider/ruler-slider.module.css",
+        "target": "@components/arc/ruler-slider/ruler-slider.module.css",
+        "saved_as": "components/ruler-slider/ruler-slider.module.css",
+        "bytes": 3439,
+        "md5": "c79d225ecca3987a23ec1d8e7b4858e1"
+      }
+    ]
+  },
+  {
+    "name": "scroll-area",
+    "kind": "component",
+    "title": "Scroll area",
+    "page": "https://uiarc.dev/components/scroll-area",
+    "registry": "https://uiarc.dev/r/scroll-area.json",
+    "dependencies": [],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "registry/components/scroll-area/scroll-area.tsx",
+        "target": "@components/arc/scroll-area/scroll-area.tsx",
+        "saved_as": "components/scroll-area/scroll-area.tsx",
+        "bytes": 11083,
+        "md5": "ac33053179ff87733ef6ca8f72751dff"
+      },
+      {
+        "source_path": "registry/components/scroll-area/scroll-area.module.css",
+        "target": "@components/arc/scroll-area/scroll-area.module.css",
+        "saved_as": "components/scroll-area/scroll-area.module.css",
+        "bytes": 4323,
+        "md5": "a39404d7218b5c62bff3183009008c2d"
+      }
+    ]
+  },
+  {
+    "name": "scrub-input",
+    "kind": "component",
+    "title": "Scrub input",
+    "page": "https://uiarc.dev/components/scrub-input",
+    "registry": "https://uiarc.dev/r/scrub-input.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/scrub-input/scrub-input.tsx",
+        "target": "@components/arc/scrub-input/scrub-input.tsx",
+        "saved_as": "components/scrub-input/scrub-input.tsx",
+        "bytes": 23542,
+        "md5": "d5baa45e314e05651d9de703f1ff8222"
+      },
+      {
+        "source_path": "registry/components/scrub-input/scrub-input.module.css",
+        "target": "@components/arc/scrub-input/scrub-input.module.css",
+        "saved_as": "components/scrub-input/scrub-input.module.css",
+        "bytes": 5373,
+        "md5": "8f6878e6b3a14ff7e3f3b11bc0020ed6"
+      }
+    ]
+  },
+  {
+    "name": "search-field",
+    "kind": "component",
+    "title": "Search field",
+    "page": "https://uiarc.dev/components/search-field",
+    "registry": "https://uiarc.dev/r/search-field.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/search-field/search-field.tsx",
+        "target": "@components/arc/search-field/search-field.tsx",
+        "saved_as": "components/search-field/search-field.tsx",
+        "bytes": 2703,
+        "md5": "b02f3a3029b097899bcddb3d5171c669"
+      },
+      {
+        "source_path": "registry/components/search-field/search-field.module.css",
+        "target": "@components/arc/search-field/search-field.module.css",
+        "saved_as": "components/search-field/search-field.module.css",
+        "bytes": 2012,
+        "md5": "0c8b7728789ef198561a25be5d88cee6"
+      }
+    ]
+  },
+  {
+    "name": "segmented-control",
+    "kind": "component",
+    "title": "Segmented control",
+    "page": "https://uiarc.dev/components/segmented-control",
+    "registry": "https://uiarc.dev/r/segmented-control.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/segmented-control/segmented-control.tsx",
+        "target": "@components/arc/segmented-control/segmented-control.tsx",
+        "saved_as": "components/segmented-control/segmented-control.tsx",
+        "bytes": 4414,
+        "md5": "38f656aba2aa9b76fdc5321febae22da"
+      },
+      {
+        "source_path": "registry/components/segmented-control/segmented-control.module.css",
+        "target": "@components/arc/segmented-control/segmented-control.module.css",
+        "saved_as": "components/segmented-control/segmented-control.module.css",
+        "bytes": 2108,
+        "md5": "f5a73ef7da76da7bbf9ab491ce2de9d9"
+      }
+    ]
+  },
+  {
+    "name": "select",
+    "kind": "component",
+    "title": "Select",
+    "page": "https://uiarc.dev/components/select",
+    "registry": "https://uiarc.dev/r/select.json",
+    "dependencies": [
+      "@radix-ui/react-select",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/select/select.tsx",
+        "target": "@components/arc/select/select.tsx",
+        "saved_as": "components/select/select.tsx",
+        "bytes": 5372,
+        "md5": "2cc5b928d3d9b95f7a9a4be7501c96da"
+      },
+      {
+        "source_path": "registry/components/select/select.module.css",
+        "target": "@components/arc/select/select.module.css",
+        "saved_as": "components/select/select.module.css",
+        "bytes": 4764,
+        "md5": "bc1e5466941e2c7069825a187b787aab"
+      }
+    ]
+  },
+  {
+    "name": "shortcut-recorder",
+    "kind": "component",
+    "title": "Shortcut recorder",
+    "page": "https://uiarc.dev/components/shortcut-recorder",
+    "registry": "https://uiarc.dev/r/shortcut-recorder.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/shortcut-recorder/shortcut-recorder.tsx",
+        "target": "@components/arc/shortcut-recorder/shortcut-recorder.tsx",
+        "saved_as": "components/shortcut-recorder/shortcut-recorder.tsx",
+        "bytes": 32356,
+        "md5": "2cf156f5d77ecae160ef05dbe0c5caa7"
+      },
+      {
+        "source_path": "registry/components/shortcut-recorder/shortcut-recorder.module.css",
+        "target": "@components/arc/shortcut-recorder/shortcut-recorder.module.css",
+        "saved_as": "components/shortcut-recorder/shortcut-recorder.module.css",
+        "bytes": 9357,
+        "md5": "10f611bfbe67f8b9f0dd6d12ee50add5"
+      }
+    ]
+  },
+  {
+    "name": "signature-pad",
+    "kind": "component",
+    "title": "Signature pad",
+    "page": "https://uiarc.dev/components/signature-pad",
+    "registry": "https://uiarc.dev/r/signature-pad.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/signature-pad/signature-pad.tsx",
+        "target": "@components/arc/signature-pad/signature-pad.tsx",
+        "saved_as": "components/signature-pad/signature-pad.tsx",
+        "bytes": 29601,
+        "md5": "60d6f1b005dfedf590213e1cd181f6fe"
+      },
+      {
+        "source_path": "registry/components/signature-pad/signature-pad.module.css",
+        "target": "@components/arc/signature-pad/signature-pad.module.css",
+        "saved_as": "components/signature-pad/signature-pad.module.css",
+        "bytes": 5316,
+        "md5": "7359cc3826f1163e2c24b758d7c0c015"
+      }
+    ]
+  },
+  {
+    "name": "skeleton",
+    "kind": "component",
+    "title": "Skeleton",
+    "page": "https://uiarc.dev/components/skeleton",
+    "registry": "https://uiarc.dev/r/skeleton.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/skeleton/skeleton.tsx",
+        "target": "@components/arc/skeleton/skeleton.tsx",
+        "saved_as": "components/skeleton/skeleton.tsx",
+        "bytes": 4548,
+        "md5": "b51b3e99451e625ec73d233438a66ec5"
+      },
+      {
+        "source_path": "registry/components/skeleton/skeleton.module.css",
+        "target": "@components/arc/skeleton/skeleton.module.css",
+        "saved_as": "components/skeleton/skeleton.module.css",
+        "bytes": 1005,
+        "md5": "20a5c33fdfeca21e92881201ef1be802"
+      }
+    ]
+  },
+  {
+    "name": "slider",
+    "kind": "component",
+    "title": "Slider",
+    "page": "https://uiarc.dev/components/slider",
+    "registry": "https://uiarc.dev/r/slider.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/slider/slider.tsx",
+        "target": "@components/arc/slider/slider.tsx",
+        "saved_as": "components/slider/slider.tsx",
+        "bytes": 26319,
+        "md5": "579c0d00ab3f2fb80ca1cfcfe1bb34ac"
+      },
+      {
+        "source_path": "registry/components/slider/slider.module.css",
+        "target": "@components/arc/slider/slider.module.css",
+        "saved_as": "components/slider/slider.module.css",
+        "bytes": 6034,
+        "md5": "fcc430434e39a72f8557718cff6d3472"
+      }
+    ]
+  },
+  {
+    "name": "slope-chart",
+    "kind": "component",
+    "title": "Slope chart",
+    "page": "https://uiarc.dev/components/slope-chart",
+    "registry": "https://uiarc.dev/r/slope-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/slope-chart/slope-chart.tsx",
+        "target": "@components/arc/slope-chart/slope-chart.tsx",
+        "saved_as": "components/slope-chart/slope-chart.tsx",
+        "bytes": 17165,
+        "md5": "d7baf33cff56e355d436ed00f10a9ff9"
+      },
+      {
+        "source_path": "registry/components/slope-chart/slope-chart.module.css",
+        "target": "@components/arc/slope-chart/slope-chart.module.css",
+        "saved_as": "components/slope-chart/slope-chart.module.css",
+        "bytes": 4345,
+        "md5": "fe2d0492bb1ed753412f2e6760731578"
+      }
+    ]
+  },
+  {
+    "name": "slot-text",
+    "kind": "component",
+    "title": "Slot text",
+    "page": "https://uiarc.dev/components/slot-text",
+    "registry": "https://uiarc.dev/r/slot-text.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "registry/components/slot-text/slot-text.tsx",
+        "target": "@components/arc/slot-text/slot-text.tsx",
+        "saved_as": "components/slot-text/slot-text.tsx",
+        "bytes": 8087,
+        "md5": "663f61392bd3ea3832fb7a6886532baa"
+      },
+      {
+        "source_path": "registry/components/slot-text/slot-text.module.css",
+        "target": "@components/arc/slot-text/slot-text.module.css",
+        "saved_as": "components/slot-text/slot-text.module.css",
+        "bytes": 1351,
+        "md5": "0cb958c3d2e02d4d4e33683edec7d0da"
+      }
+    ]
+  },
+  {
+    "name": "sortable-data-table",
+    "kind": "component",
+    "title": "Sortable data table",
+    "page": "https://uiarc.dev/components/sortable-data-table",
+    "registry": "https://uiarc.dev/r/sortable-data-table.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/sortable-data-table/sortable-data-table.tsx",
+        "target": "@components/arc/sortable-data-table/sortable-data-table.tsx",
+        "saved_as": "components/sortable-data-table/sortable-data-table.tsx",
+        "bytes": 20711,
+        "md5": "ddb2d1813572eeaea9bee017c1513533"
+      },
+      {
+        "source_path": "registry/components/sortable-data-table/sortable-data-table.module.css",
+        "target": "@components/arc/sortable-data-table/sortable-data-table.module.css",
+        "saved_as": "components/sortable-data-table/sortable-data-table.module.css",
+        "bytes": 11685,
+        "md5": "04beb9d2fd1920f4d2466b1422c90133"
+      }
+    ]
+  },
+  {
+    "name": "sparkline",
+    "kind": "component",
+    "title": "Sparkline",
+    "page": "https://uiarc.dev/components/sparkline",
+    "registry": "https://uiarc.dev/r/sparkline.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/sparkline/sparkline.tsx",
+        "target": "@components/arc/sparkline/sparkline.tsx",
+        "saved_as": "components/sparkline/sparkline.tsx",
+        "bytes": 18496,
+        "md5": "607458f81c28573fad149b713c7da6d8"
+      },
+      {
+        "source_path": "registry/components/sparkline/sparkline.module.css",
+        "target": "@components/arc/sparkline/sparkline.module.css",
+        "saved_as": "components/sparkline/sparkline.module.css",
+        "bytes": 2863,
+        "md5": "7d4bd00b20803b945a8ee259c258259d"
+      }
+    ]
+  },
+  {
+    "name": "split-button",
+    "kind": "component",
+    "title": "Split button",
+    "page": "https://uiarc.dev/components/split-button",
+    "registry": "https://uiarc.dev/r/split-button.json",
+    "dependencies": [
+      "@radix-ui/react-dropdown-menu",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/split-button/split-button.tsx",
+        "target": "@components/arc/split-button/split-button.tsx",
+        "saved_as": "components/split-button/split-button.tsx",
+        "bytes": 7862,
+        "md5": "cec0442d00a6c52087006ceea5382218"
+      },
+      {
+        "source_path": "registry/components/split-button/split-button.module.css",
+        "target": "@components/arc/split-button/split-button.module.css",
+        "saved_as": "components/split-button/split-button.module.css",
+        "bytes": 6501,
+        "md5": "414b25fccc4c48d2d76f0c45aed54043"
+      }
+    ]
+  },
+  {
+    "name": "stepper",
+    "kind": "component",
+    "title": "Stepper",
+    "page": "https://uiarc.dev/components/stepper",
+    "registry": "https://uiarc.dev/r/stepper.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/stepper/stepper.tsx",
+        "target": "@components/arc/stepper/stepper.tsx",
+        "saved_as": "components/stepper/stepper.tsx",
+        "bytes": 12174,
+        "md5": "06322a045781baae5a97d90a2ff5c2f7"
+      },
+      {
+        "source_path": "registry/components/stepper/stepper.module.css",
+        "target": "@components/arc/stepper/stepper.module.css",
+        "saved_as": "components/stepper/stepper.module.css",
+        "bytes": 6343,
+        "md5": "c76793cb674a0fbe48cecfe34fa7698a"
+      }
+    ]
+  },
+  {
+    "name": "streamgraph",
+    "kind": "component",
+    "title": "Streamgraph",
+    "page": "https://uiarc.dev/components/streamgraph",
+    "registry": "https://uiarc.dev/r/streamgraph.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/streamgraph/streamgraph.tsx",
+        "target": "@components/arc/streamgraph/streamgraph.tsx",
+        "saved_as": "components/streamgraph/streamgraph.tsx",
+        "bytes": 25870,
+        "md5": "2800bcd1eddfa1af0d348f121c853b20"
+      },
+      {
+        "source_path": "registry/components/streamgraph/streamgraph.module.css",
+        "target": "@components/arc/streamgraph/streamgraph.module.css",
+        "saved_as": "components/streamgraph/streamgraph.module.css",
+        "bytes": 5531,
+        "md5": "edea923055329cb140dc4f663da29b00"
+      }
+    ]
+  },
+  {
+    "name": "swipe-actions",
+    "kind": "component",
+    "title": "Swipe actions",
+    "page": "https://uiarc.dev/components/swipe-actions",
+    "registry": "https://uiarc.dev/r/swipe-actions.json",
+    "dependencies": [
+      "@radix-ui/react-dropdown-menu",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/swipe-actions/swipe-actions.tsx",
+        "target": "@components/arc/swipe-actions/swipe-actions.tsx",
+        "saved_as": "components/swipe-actions/swipe-actions.tsx",
+        "bytes": 20183,
+        "md5": "d09761950d9f732cba6775f61f248ba0"
+      },
+      {
+        "source_path": "registry/components/swipe-actions/swipe-actions.module.css",
+        "target": "@components/arc/swipe-actions/swipe-actions.module.css",
+        "saved_as": "components/swipe-actions/swipe-actions.module.css",
+        "bytes": 6193,
+        "md5": "a6ba9e49c958e346a82378660f9307c3"
+      }
+    ]
+  },
+  {
+    "name": "switch",
+    "kind": "component",
+    "title": "Switch",
+    "page": "https://uiarc.dev/components/switch",
+    "registry": "https://uiarc.dev/r/switch.json",
+    "dependencies": [
+      "@radix-ui/react-switch",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/switch/switch.tsx",
+        "target": "@components/arc/switch/switch.tsx",
+        "saved_as": "components/switch/switch.tsx",
+        "bytes": 3819,
+        "md5": "29c0e5014b5685027fee8c9250667824"
+      },
+      {
+        "source_path": "registry/components/switch/switch.module.css",
+        "target": "@components/arc/switch/switch.module.css",
+        "saved_as": "components/switch/switch.module.css",
+        "bytes": 1739,
+        "md5": "667252f9767227fca9f3ff3ba0799af4"
+      }
+    ]
+  },
+  {
+    "name": "tabs",
+    "kind": "component",
+    "title": "Tabs",
+    "page": "https://uiarc.dev/components/tabs",
+    "registry": "https://uiarc.dev/r/tabs.json",
+    "dependencies": [
+      "@radix-ui/react-tabs",
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/tabs/tabs.tsx",
+        "target": "@components/arc/tabs/tabs.tsx",
+        "saved_as": "components/tabs/tabs.tsx",
+        "bytes": 9870,
+        "md5": "711bf22a0654da1acd7b07749fb9c839"
+      },
+      {
+        "source_path": "registry/components/tabs/tabs.module.css",
+        "target": "@components/arc/tabs/tabs.module.css",
+        "saved_as": "components/tabs/tabs.module.css",
+        "bytes": 3200,
+        "md5": "7bab49eaa0b1cdfc9fe31b5f7e62a730"
+      }
+    ]
+  },
+  {
+    "name": "tag-input",
+    "kind": "component",
+    "title": "Tag input",
+    "page": "https://uiarc.dev/components/tag-input",
+    "registry": "https://uiarc.dev/r/tag-input.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/tag-input/tag-input.tsx",
+        "target": "@components/arc/tag-input/tag-input.tsx",
+        "saved_as": "components/tag-input/tag-input.tsx",
+        "bytes": 12090,
+        "md5": "9bc4e77c344042f91b1b2ff7e3f18c5c"
+      },
+      {
+        "source_path": "registry/components/tag-input/tag-input.module.css",
+        "target": "@components/arc/tag-input/tag-input.module.css",
+        "saved_as": "components/tag-input/tag-input.module.css",
+        "bytes": 4778,
+        "md5": "054bc64f1d81a2d072c2520ab7d8bf7d"
+      }
+    ]
+  },
+  {
+    "name": "text-morph",
+    "kind": "component",
+    "title": "Text morph",
+    "page": "https://uiarc.dev/components/text-morph",
+    "registry": "https://uiarc.dev/r/text-morph.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/text-morph/text-morph.tsx",
+        "target": "@components/arc/text-morph/text-morph.tsx",
+        "saved_as": "components/text-morph/text-morph.tsx",
+        "bytes": 5000,
+        "md5": "8e63ec7e5db26804e500b82cace6ae6e"
+      },
+      {
+        "source_path": "registry/components/text-morph/text-morph.module.css",
+        "target": "@components/arc/text-morph/text-morph.module.css",
+        "saved_as": "components/text-morph/text-morph.module.css",
+        "bytes": 1202,
+        "md5": "953c9afee8150d7fe6ba1f63fa162444"
+      }
+    ]
+  },
+  {
+    "name": "text-reveal",
+    "kind": "component",
+    "title": "Text reveal",
+    "page": "https://uiarc.dev/components/text-reveal",
+    "registry": "https://uiarc.dev/r/text-reveal.json",
+    "dependencies": [],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/text-reveal/text-reveal.tsx",
+        "target": "@components/arc/text-reveal/text-reveal.tsx",
+        "saved_as": "components/text-reveal/text-reveal.tsx",
+        "bytes": 2376,
+        "md5": "3c100b8b9547f10aa351b04726ef2483"
+      },
+      {
+        "source_path": "registry/components/text-reveal/text-reveal.module.css",
+        "target": "@components/arc/text-reveal/text-reveal.module.css",
+        "saved_as": "components/text-reveal/text-reveal.module.css",
+        "bytes": 1654,
+        "md5": "83ec1310e253d53953ab6746e3d7860d"
+      }
+    ]
+  },
+  {
+    "name": "text-shimmer",
+    "kind": "component",
+    "title": "Text shimmer",
+    "page": "https://uiarc.dev/components/text-shimmer",
+    "registry": "https://uiarc.dev/r/text-shimmer.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/text-shimmer/text-shimmer.tsx",
+        "target": "@components/arc/text-shimmer/text-shimmer.tsx",
+        "saved_as": "components/text-shimmer/text-shimmer.tsx",
+        "bytes": 6551,
+        "md5": "9f4a07a8954acdc63000199a62b3e885"
+      },
+      {
+        "source_path": "registry/components/text-shimmer/text-shimmer.module.css",
+        "target": "@components/arc/text-shimmer/text-shimmer.module.css",
+        "saved_as": "components/text-shimmer/text-shimmer.module.css",
+        "bytes": 1047,
+        "md5": "c6964f02d06c72535f69d29be026aa10"
+      }
+    ]
+  },
+  {
+    "name": "textarea",
+    "kind": "component",
+    "title": "Textarea",
+    "page": "https://uiarc.dev/components/textarea",
+    "registry": "https://uiarc.dev/r/textarea.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/textarea/textarea.tsx",
+        "target": "@components/arc/textarea/textarea.tsx",
+        "saved_as": "components/textarea/textarea.tsx",
+        "bytes": 6258,
+        "md5": "fb4af2349a29f9d5e763e37380d77c48"
+      },
+      {
+        "source_path": "registry/components/textarea/textarea.module.css",
+        "target": "@components/arc/textarea/textarea.module.css",
+        "saved_as": "components/textarea/textarea.module.css",
+        "bytes": 2461,
+        "md5": "40606d5f1a455c045c1665d4976ac06e"
+      }
+    ]
+  },
+  {
+    "name": "theme-switch",
+    "kind": "component",
+    "title": "Theme switcher",
+    "page": "https://uiarc.dev/components/theme-switch",
+    "registry": "https://uiarc.dev/r/theme-switch.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.tsx",
+        "target": "@components/arc/theme-switch/theme-switch.tsx",
+        "saved_as": "components/theme-switch/theme-switch.tsx",
+        "bytes": 3764,
+        "md5": "f061d8e0bac0f149936d257a633486fe"
+      },
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.module.css",
+        "target": "@components/arc/theme-switch/theme-switch.module.css",
+        "saved_as": "components/theme-switch/theme-switch.module.css",
+        "bytes": 1513,
+        "md5": "2ab0b44c60083bac444a62e73abac9d0"
+      }
+    ]
+  },
+  {
+    "name": "theme-switch-eclipse",
+    "kind": "component",
+    "title": "Eclipse",
+    "page": "https://uiarc.dev/components/theme-switch-eclipse",
+    "registry": "https://uiarc.dev/r/theme-switch-eclipse.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.tsx",
+        "target": "@components/arc/theme-switch/theme-switch.tsx",
+        "saved_as": "components/theme-switch-eclipse/theme-switch.tsx",
+        "bytes": 3764,
+        "md5": "f061d8e0bac0f149936d257a633486fe"
+      },
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.module.css",
+        "target": "@components/arc/theme-switch/theme-switch.module.css",
+        "saved_as": "components/theme-switch-eclipse/theme-switch.module.css",
+        "bytes": 1513,
+        "md5": "2ab0b44c60083bac444a62e73abac9d0"
+      }
+    ]
+  },
+  {
+    "name": "theme-switch-rise",
+    "kind": "component",
+    "title": "Rise",
+    "page": "https://uiarc.dev/components/theme-switch-rise",
+    "registry": "https://uiarc.dev/r/theme-switch-rise.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.tsx",
+        "target": "@components/arc/theme-switch/theme-switch.tsx",
+        "saved_as": "components/theme-switch-rise/theme-switch.tsx",
+        "bytes": 3764,
+        "md5": "f061d8e0bac0f149936d257a633486fe"
+      },
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.module.css",
+        "target": "@components/arc/theme-switch/theme-switch.module.css",
+        "saved_as": "components/theme-switch-rise/theme-switch.module.css",
+        "bytes": 1513,
+        "md5": "2ab0b44c60083bac444a62e73abac9d0"
+      }
+    ]
+  },
+  {
+    "name": "theme-switch-split",
+    "kind": "component",
+    "title": "Split",
+    "page": "https://uiarc.dev/components/theme-switch-split",
+    "registry": "https://uiarc.dev/r/theme-switch-split.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/button.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.tsx",
+        "target": "@components/arc/theme-switch/theme-switch.tsx",
+        "saved_as": "components/theme-switch-split/theme-switch.tsx",
+        "bytes": 3764,
+        "md5": "f061d8e0bac0f149936d257a633486fe"
+      },
+      {
+        "source_path": "registry/components/theme-switch/theme-switch.module.css",
+        "target": "@components/arc/theme-switch/theme-switch.module.css",
+        "saved_as": "components/theme-switch-split/theme-switch.module.css",
+        "bytes": 1513,
+        "md5": "2ab0b44c60083bac444a62e73abac9d0"
+      }
+    ]
+  },
+  {
+    "name": "time-picker",
+    "kind": "component",
+    "title": "Time picker",
+    "page": "https://uiarc.dev/components/time-picker",
+    "registry": "https://uiarc.dev/r/time-picker.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/time-picker/time-picker.tsx",
+        "target": "@components/arc/time-picker/time-picker.tsx",
+        "saved_as": "components/time-picker/time-picker.tsx",
+        "bytes": 7639,
+        "md5": "70df0b12335a1513902cafe0abd4c763"
+      },
+      {
+        "source_path": "registry/components/time-picker/time-picker.module.css",
+        "target": "@components/arc/time-picker/time-picker.module.css",
+        "saved_as": "components/time-picker/time-picker.module.css",
+        "bytes": 3100,
+        "md5": "660b107271f71d6ef720910339b4e5ca"
+      }
+    ]
+  },
+  {
+    "name": "timeline",
+    "kind": "component",
+    "title": "Timeline",
+    "page": "https://uiarc.dev/components/timeline",
+    "registry": "https://uiarc.dev/r/timeline.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/timeline/timeline.tsx",
+        "target": "@components/arc/timeline/timeline.tsx",
+        "saved_as": "components/timeline/timeline.tsx",
+        "bytes": 18606,
+        "md5": "0c9bc0fcc5881b26a9dee657ab2c6fb4"
+      },
+      {
+        "source_path": "registry/components/timeline/timeline.module.css",
+        "target": "@components/arc/timeline/timeline.module.css",
+        "saved_as": "components/timeline/timeline.module.css",
+        "bytes": 5468,
+        "md5": "1a8959f854a929cc0f310acc75163887"
+      }
+    ]
+  },
+  {
+    "name": "toast",
+    "kind": "component",
+    "title": "Toast",
+    "page": "https://uiarc.dev/components/toast",
+    "registry": "https://uiarc.dev/r/toast.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/toast/toast.tsx",
+        "target": "@components/arc/toast/toast.tsx",
+        "saved_as": "components/toast/toast.tsx",
+        "bytes": 9187,
+        "md5": "908740617eaeb44d2c87f96767f0147b"
+      },
+      {
+        "source_path": "registry/components/toast/toast.module.css",
+        "target": "@components/arc/toast/toast.module.css",
+        "saved_as": "components/toast/toast.module.css",
+        "bytes": 2217,
+        "md5": "05c2d88d48485f76cc304fb5aba68020"
+      }
+    ]
+  },
+  {
+    "name": "toast-stack",
+    "kind": "component",
+    "title": "Toast stack",
+    "page": "https://uiarc.dev/components/toast-stack",
+    "registry": "https://uiarc.dev/r/toast-stack.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/toast-stack/toast-stack.tsx",
+        "target": "@components/arc/toast-stack/toast-stack.tsx",
+        "saved_as": "components/toast-stack/toast-stack.tsx",
+        "bytes": 27387,
+        "md5": "a89d765c15c9428f7ba7b291a24fff2d"
+      },
+      {
+        "source_path": "registry/components/toast-stack/toast-stack.module.css",
+        "target": "@components/arc/toast-stack/toast-stack.module.css",
+        "saved_as": "components/toast-stack/toast-stack.module.css",
+        "bytes": 5160,
+        "md5": "bc1e3e42ef9057677cdee166b90e5e40"
+      }
+    ]
+  },
+  {
+    "name": "toggle-group",
+    "kind": "component",
+    "title": "Toggle group",
+    "page": "https://uiarc.dev/components/toggle-group",
+    "registry": "https://uiarc.dev/r/toggle-group.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/toggle-group/toggle-group.tsx",
+        "target": "@components/arc/toggle-group/toggle-group.tsx",
+        "saved_as": "components/toggle-group/toggle-group.tsx",
+        "bytes": 6614,
+        "md5": "7f9dcab45784b492ab0c64df0c1a78a5"
+      },
+      {
+        "source_path": "registry/components/toggle-group/toggle-group.module.css",
+        "target": "@components/arc/toggle-group/toggle-group.module.css",
+        "saved_as": "components/toggle-group/toggle-group.module.css",
+        "bytes": 3781,
+        "md5": "21e374a186631714a4ef37110dc07265"
+      }
+    ]
+  },
+  {
+    "name": "tooltip",
+    "kind": "component",
+    "title": "Tooltip",
+    "page": "https://uiarc.dev/components/tooltip",
+    "registry": "https://uiarc.dev/r/tooltip.json",
+    "dependencies": [
+      "@radix-ui/react-tooltip",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/tooltip/tooltip.tsx",
+        "target": "@components/arc/tooltip/tooltip.tsx",
+        "saved_as": "components/tooltip/tooltip.tsx",
+        "bytes": 4571,
+        "md5": "1836421a7952fc6f793bd0d554bf956d"
+      },
+      {
+        "source_path": "registry/components/tooltip/tooltip.module.css",
+        "target": "@components/arc/tooltip/tooltip.module.css",
+        "saved_as": "components/tooltip/tooltip.module.css",
+        "bytes": 2237,
+        "md5": "2072c71ee3c023c1d49ae5203f966f74"
+      }
+    ]
+  },
+  {
+    "name": "tree-table",
+    "kind": "component",
+    "title": "Tree table",
+    "page": "https://uiarc.dev/components/tree-table",
+    "registry": "https://uiarc.dev/r/tree-table.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json",
+      "https://uiarc.dev/r/checkbox.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/tree-table/tree-table.tsx",
+        "target": "@components/arc/tree-table/tree-table.tsx",
+        "saved_as": "components/tree-table/tree-table.tsx",
+        "bytes": 26683,
+        "md5": "6a4571f205e8e2260e0a1cdc9e89967e"
+      },
+      {
+        "source_path": "registry/components/tree-table/tree-table.module.css",
+        "target": "@components/arc/tree-table/tree-table.module.css",
+        "saved_as": "components/tree-table/tree-table.module.css",
+        "bytes": 7037,
+        "md5": "0843385b5d44384d7b0aa63898c86ece"
+      }
+    ]
+  },
+  {
+    "name": "tree-view",
+    "kind": "component",
+    "title": "Tree view",
+    "page": "https://uiarc.dev/components/tree-view",
+    "registry": "https://uiarc.dev/r/tree-view.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/tree-view/tree-view.tsx",
+        "target": "@components/arc/tree-view/tree-view.tsx",
+        "saved_as": "components/tree-view/tree-view.tsx",
+        "bytes": 10020,
+        "md5": "4fc0b14d80f024149671c2e9f11d0ffe"
+      },
+      {
+        "source_path": "registry/components/tree-view/tree-view.module.css",
+        "target": "@components/arc/tree-view/tree-view.module.css",
+        "saved_as": "components/tree-view/tree-view.module.css",
+        "bytes": 2714,
+        "md5": "4c89154cc4c6069f540f5453619c3dc8"
+      }
+    ]
+  },
+  {
+    "name": "treemap",
+    "kind": "component",
+    "title": "Treemap",
+    "page": "https://uiarc.dev/components/treemap",
+    "registry": "https://uiarc.dev/r/treemap.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/treemap/treemap.tsx",
+        "target": "@components/arc/treemap/treemap.tsx",
+        "saved_as": "components/treemap/treemap.tsx",
+        "bytes": 24074,
+        "md5": "f775cc2c7d0e6bf63c99478686b2684e"
+      },
+      {
+        "source_path": "registry/components/treemap/treemap.module.css",
+        "target": "@components/arc/treemap/treemap.module.css",
+        "saved_as": "components/treemap/treemap.module.css",
+        "bytes": 6434,
+        "md5": "b8fc14a7699686d108b1c89d9362a93f"
+      }
+    ]
+  },
+  {
+    "name": "usage-meter",
+    "kind": "component",
+    "title": "Usage meter",
+    "page": "https://uiarc.dev/components/usage-meter",
+    "registry": "https://uiarc.dev/r/usage-meter.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/usage-meter/usage-meter.tsx",
+        "target": "@components/arc/usage-meter/usage-meter.tsx",
+        "saved_as": "components/usage-meter/usage-meter.tsx",
+        "bytes": 22495,
+        "md5": "c16b809f23a25cacef115547630a3cc8"
+      },
+      {
+        "source_path": "registry/components/usage-meter/usage-meter.module.css",
+        "target": "@components/arc/usage-meter/usage-meter.module.css",
+        "saved_as": "components/usage-meter/usage-meter.module.css",
+        "bytes": 6638,
+        "md5": "5452c83a2e6f71623a1dabdbeaadee25"
+      }
+    ]
+  },
+  {
+    "name": "user-menu",
+    "kind": "component",
+    "title": "User menu",
+    "page": "https://uiarc.dev/components/user-menu",
+    "registry": "https://uiarc.dev/r/user-menu.json",
+    "dependencies": [
+      "lucide-react",
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/user-menu/user-menu.tsx",
+        "target": "@components/arc/user-menu/user-menu.tsx",
+        "saved_as": "components/user-menu/user-menu.tsx",
+        "bytes": 24560,
+        "md5": "5b02a34fb45d740e22013164ae593c4f"
+      },
+      {
+        "source_path": "registry/components/user-menu/user-menu.module.css",
+        "target": "@components/arc/user-menu/user-menu.module.css",
+        "saved_as": "components/user-menu/user-menu.module.css",
+        "bytes": 10680,
+        "md5": "85c6fdaafa149cad11b83c8c9b01eae3"
+      }
+    ]
+  },
+  {
+    "name": "waffle-chart",
+    "kind": "component",
+    "title": "Waffle chart",
+    "page": "https://uiarc.dev/components/waffle-chart",
+    "registry": "https://uiarc.dev/r/waffle-chart.json",
+    "dependencies": [
+      "motion"
+    ],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/components/waffle-chart/waffle-chart.tsx",
+        "target": "@components/arc/waffle-chart/waffle-chart.tsx",
+        "saved_as": "components/waffle-chart/waffle-chart.tsx",
+        "bytes": 18708,
+        "md5": "d954a4e3490fb2afd31ec5e85a9b2fae"
+      },
+      {
+        "source_path": "registry/components/waffle-chart/waffle-chart.module.css",
+        "target": "@components/arc/waffle-chart/waffle-chart.module.css",
+        "saved_as": "components/waffle-chart/waffle-chart.module.css",
+        "bytes": 5904,
+        "md5": "0f1ccad196c11b9e02382198cf66be48"
+      }
+    ]
+  },
+  {
+    "name": "arc-foundation",
+    "kind": "shared",
+    "title": "Arc foundation",
+    "page": "https://uiarc.dev",
+    "registry": "https://uiarc.dev/r/arc-foundation.json",
+    "dependencies": [],
+    "registryDependencies": [
+      "https://uiarc.dev/r/arc-motion-tokens.json"
+    ],
+    "files": [
+      {
+        "source_path": "registry/foundation.css",
+        "target": "@components/arc/foundation.css",
+        "saved_as": "shared/arc-foundation/foundation.css",
+        "bytes": 16313,
+        "md5": "f93b9544e01cc429e2835cb287037445"
+      }
+    ]
+  },
+  {
+    "name": "arc-motion-tokens",
+    "kind": "shared",
+    "title": "Arc motion tokens",
+    "page": "https://uiarc.dev",
+    "registry": "https://uiarc.dev/r/arc-motion-tokens.json",
+    "dependencies": [],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "registry/motion-tokens.ts",
+        "target": "@components/arc/motion-tokens.ts",
+        "saved_as": "shared/arc-motion-tokens/motion-tokens.ts",
+        "bytes": 1366,
+        "md5": "e190b3c71d3d902279f8c1895ecd22ab"
+      },
+      {
+        "source_path": "lib/motion-tokens.ts",
+        "target": "@components/arc/lib/motion-tokens.ts",
+        "saved_as": "shared/arc-motion-tokens/lib/motion-tokens.ts",
+        "bytes": 146,
+        "md5": "0ffcc5efd1d0d97910264cffcd67557f"
+      }
+    ]
+  },
+  {
+    "name": "arc-skill",
+    "kind": "shared",
+    "title": "Arc agent skill",
+    "page": "https://uiarc.dev",
+    "registry": "https://uiarc.dev/r/arc-skill.json",
+    "dependencies": [],
+    "registryDependencies": [],
+    "files": [
+      {
+        "source_path": "skills/arc/SKILL.md",
+        "target": "~/.claude/skills/arc/SKILL.md",
+        "saved_as": "shared/arc-skill/SKILL.md",
+        "bytes": 7510,
+        "md5": "14634fef42aee734946b48622849a9c5"
+      },
+      {
+        "source_path": "skills/arc/INSTRUCTIONS.md",
+        "target": "~/.claude/skills/arc/INSTRUCTIONS.md",
+        "saved_as": "shared/arc-skill/INSTRUCTIONS.md",
+        "bytes": 3219,
+        "md5": "dd58f42bf6fe7d84f0aa0eebcfc2e8e9"
+      },
+      {
+        "source_path": "skills/arc/accessibility.md",
+        "target": "~/.claude/skills/arc/accessibility.md",
+        "saved_as": "shared/arc-skill/accessibility.md",
+        "bytes": 3851,
+        "md5": "a72340455869d53640291186c42b9385"
+      },
+      {
+        "source_path": "skills/arc/checklist.md",
+        "target": "~/.claude/skills/arc/checklist.md",
+        "saved_as": "shared/arc-skill/checklist.md",
+        "bytes": 4581,
+        "md5": "c981b2ea1445671ac28c63cd1b7c1e72"
+      },
+      {
+        "source_path": "skills/arc/components.md",
+        "target": "~/.claude/skills/arc/components.md",
+        "saved_as": "shared/arc-skill/components.md",
+        "bytes": 10963,
+        "md5": "2f3851f7755336bcd49f597c6f66ee04"
+      },
+      {
+        "source_path": "skills/arc/composition.md",
+        "target": "~/.claude/skills/arc/composition.md",
+        "saved_as": "shared/arc-skill/composition.md",
+        "bytes": 7465,
+        "md5": "f0b8af6041794b2597a6ac13e480c899"
+      },
+      {
+        "source_path": "skills/arc/copy.md",
+        "target": "~/.claude/skills/arc/copy.md",
+        "saved_as": "shared/arc-skill/copy.md",
+        "bytes": 3193,
+        "md5": "6c5832615f1a2aa201cd338c90619b53"
+      },
+      {
+        "source_path": "skills/arc/design.md",
+        "target": "~/.claude/skills/arc/design.md",
+        "saved_as": "shared/arc-skill/design.md",
+        "bytes": 7657,
+        "md5": "144787a9e15fc5198594b1f55d96b8e8"
+      },
+      {
+        "source_path": "skills/arc/example-dashboard.md",
+        "target": "~/.claude/skills/arc/example-dashboard.md",
+        "saved_as": "shared/arc-skill/example-dashboard.md",
+        "bytes": 6058,
+        "md5": "4dce480dfb92a54d076f8fb1892e2e06"
+      },
+      {
+        "source_path": "skills/arc/example-pricing.md",
+        "target": "~/.claude/skills/arc/example-pricing.md",
+        "saved_as": "shared/arc-skill/example-pricing.md",
+        "bytes": 7531,
+        "md5": "879fab5181be2fb70819087d49d305f7"
+      },
+      {
+        "source_path": "skills/arc/example-settings.md",
+        "target": "~/.claude/skills/arc/example-settings.md",
+        "saved_as": "shared/arc-skill/example-settings.md",
+        "bytes": 7308,
+        "md5": "144509522100dd248f4c99f7e75e9ee7"
+      },
+      {
+        "source_path": "skills/arc/motion.md",
+        "target": "~/.claude/skills/arc/motion.md",
+        "saved_as": "shared/arc-skill/motion.md",
+        "bytes": 5299,
+        "md5": "4c04bc91498e66b9ca7e3944ac6657f6"
+      },
+      {
+        "source_path": "skills/arc/responsive.md",
+        "target": "~/.claude/skills/arc/responsive.md",
+        "saved_as": "shared/arc-skill/responsive.md",
+        "bytes": 2560,
+        "md5": "6d471b5c584dc4bc57316565a2aa23e8"
+      }
+    ]
+  }
+]

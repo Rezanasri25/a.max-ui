@@ -1,0 +1,257 @@
+# Arc UI (uiarc.dev) — Pro markdown references
+
+Downloaded from uiarc.dev on 2026-11-05. 233 unique Pro markdown files:
+119 components + 114 blocks = 233.
+
+Source of the list: the site's own catalog (https://uiarc.dev/r/catalog.json),
+filtered to tier = Pro. The count matches the site's sidebar count of 233 Pro items.
+
+Notes:
+- `blocks/sidebar.md` is one grouped file covering 4 Pro variants: sidebar-rail,
+  workspace-sidebar, inbox-sidebar, docs-sidebar.
+- `blocks/login.md` is one grouped file covering 5 variants; 2 are Pro (login-split,
+  login-immersive) and 3 are free (sign-in, login-centered, signup-form), so the file
+  documents those free variants too.
+- The Pro template (Arc CRM) has no /markdown page (404), so it is not included.
+- These are the public markdown *references* (usage, props, keyboard, accessibility,
+  motion, responsive, performance). The actual component source code is token-gated
+  by Arc Pro and is not inside these files beyond documented usage examples.
+
+## Components (Pro) — 119
+
+- [Action morph](https://uiarc.dev/components/action-morph) — `components/action-morph.md` (8,468 bytes) — markdown: https://uiarc.dev/components/action-morph/markdown
+- [Activity rings](https://uiarc.dev/components/activity-rings) — `components/activity-rings.md` (6,691 bytes) — markdown: https://uiarc.dev/components/activity-rings/markdown
+- [Agent cursor](https://uiarc.dev/components/agent-cursor) — `components/agent-cursor.md` (24,803 bytes) — markdown: https://uiarc.dev/components/agent-cursor/markdown
+- [Agent handoff](https://uiarc.dev/components/agent-handoff) — `components/agent-handoff.md` (25,952 bytes) — markdown: https://uiarc.dev/components/agent-handoff/markdown
+- [Agent loop](https://uiarc.dev/components/agent-loop) — `components/agent-loop.md` (17,383 bytes) — markdown: https://uiarc.dev/components/agent-loop/markdown
+- [Agent plan](https://uiarc.dev/components/agent-plan) — `components/agent-plan.md` (30,101 bytes) — markdown: https://uiarc.dev/components/agent-plan/markdown
+- [Agent status](https://uiarc.dev/components/agent-status) — `components/agent-status.md` (31,345 bytes) — markdown: https://uiarc.dev/components/agent-status/markdown
+- [Agent timeline](https://uiarc.dev/components/agent-timeline) — `components/agent-timeline.md` (30,009 bytes) — markdown: https://uiarc.dev/components/agent-timeline/markdown
+- [AI command](https://uiarc.dev/components/ai-command) — `components/ai-command.md` (26,650 bytes) — markdown: https://uiarc.dev/components/ai-command/markdown
+- [AI mascot](https://uiarc.dev/components/ai-mascot) — `components/ai-mascot.md` (26,524 bytes) — markdown: https://uiarc.dev/components/ai-mascot/markdown
+- [AI spark](https://uiarc.dev/components/ai-spark) — `components/ai-spark.md` (26,248 bytes) — markdown: https://uiarc.dev/components/ai-spark/markdown
+- [AI translate](https://uiarc.dev/components/ai-translate) — `components/ai-translate.md` (27,868 bytes) — markdown: https://uiarc.dev/components/ai-translate/markdown
+- [AI workflow](https://uiarc.dev/components/ai-workflow) — `components/ai-workflow.md` (29,384 bytes) — markdown: https://uiarc.dev/components/ai-workflow/markdown
+- [Ask your data](https://uiarc.dev/components/ask-your-data) — `components/ask-your-data.md` (29,989 bytes) — markdown: https://uiarc.dev/components/ask-your-data/markdown
+- [Avatar upload](https://uiarc.dev/components/avatar-upload) — `components/avatar-upload.md` (11,026 bytes) — markdown: https://uiarc.dev/components/avatar-upload/markdown
+- [Black hole](https://uiarc.dev/components/black-hole) — `components/black-hole.md` (8,236 bytes) — markdown: https://uiarc.dev/components/black-hole/markdown
+- [Booking pill](https://uiarc.dev/components/booking-pill) — `components/booking-pill.md` (7,423 bytes) — markdown: https://uiarc.dev/components/booking-pill/markdown
+- [Branch graph](https://uiarc.dev/components/branch-graph) — `components/branch-graph.md` (13,917 bytes) — markdown: https://uiarc.dev/components/branch-graph/markdown
+- [Card to article](https://uiarc.dev/components/card-to-article) — `components/card-to-article.md` (6,978 bytes) — markdown: https://uiarc.dev/components/card-to-article/markdown
+- [Code suggestion](https://uiarc.dev/components/code-suggestion) — `components/code-suggestion.md` (29,515 bytes) — markdown: https://uiarc.dev/components/code-suggestion/markdown
+- [Confirm popover](https://uiarc.dev/components/confirm-popover) — `components/confirm-popover.md` (13,226 bytes) — markdown: https://uiarc.dev/components/confirm-popover/markdown
+- [Connector setup](https://uiarc.dev/components/connector-setup) — `components/connector-setup.md` (25,646 bytes) — markdown: https://uiarc.dev/components/connector-setup/markdown
+- [Context window](https://uiarc.dev/components/context-window) — `components/context-window.md` (25,073 bytes) — markdown: https://uiarc.dev/components/context-window/markdown
+- [Control center](https://uiarc.dev/components/control-center) — `components/control-center.md` (8,353 bytes) — markdown: https://uiarc.dev/components/control-center/markdown
+- [Cover flow](https://uiarc.dev/components/cover-flow) — `components/cover-flow.md` (6,601 bytes) — markdown: https://uiarc.dev/components/cover-flow/markdown
+- [Cube mascot](https://uiarc.dev/components/cube-mascot) — `components/cube-mascot.md` (25,984 bytes) — markdown: https://uiarc.dev/components/cube-mascot/markdown
+- [Data flow](https://uiarc.dev/components/data-flow) — `components/data-flow.md` (12,244 bytes) — markdown: https://uiarc.dev/components/data-flow/markdown
+- [Data grid](https://uiarc.dev/components/data-grid) — `components/data-grid.md` (28,075 bytes) — markdown: https://uiarc.dev/components/data-grid/markdown
+- [Date reel](https://uiarc.dev/components/date-reel) — `components/date-reel.md` (10,120 bytes) — markdown: https://uiarc.dev/components/date-reel/markdown
+- [Dictation button](https://uiarc.dev/components/dictation-button) — `components/dictation-button.md` (30,319 bytes) — markdown: https://uiarc.dev/components/dictation-button/markdown
+- [DNS resolution](https://uiarc.dev/components/dns-resolution) — `components/dns-resolution.md` (12,223 bytes) — markdown: https://uiarc.dev/components/dns-resolution/markdown
+- [Dock](https://uiarc.dev/components/dock) — `components/dock.md` (8,499 bytes) — markdown: https://uiarc.dev/components/dock/markdown
+- [Dot grid](https://uiarc.dev/components/dot-grid) — `components/dot-grid.md` (5,907 bytes) — markdown: https://uiarc.dev/components/dot-grid/markdown
+- [Emoji picker](https://uiarc.dev/components/emoji-picker) — `components/emoji-picker.md` (11,143 bytes) — markdown: https://uiarc.dev/components/emoji-picker/markdown
+- [Enrich column](https://uiarc.dev/components/enrich-column) — `components/enrich-column.md` (24,538 bytes) — markdown: https://uiarc.dev/components/enrich-column/markdown
+- [Funnel chart](https://uiarc.dev/components/funnel-chart) — `components/funnel-chart.md` (8,559 bytes) — markdown: https://uiarc.dev/components/funnel-chart/markdown
+- [Generation stats](https://uiarc.dev/components/generation-stats) — `components/generation-stats.md` (28,990 bytes) — markdown: https://uiarc.dev/components/generation-stats/markdown
+- [Ghost mascot](https://uiarc.dev/components/ghost-mascot) — `components/ghost-mascot.md` (26,308 bytes) — markdown: https://uiarc.dev/components/ghost-mascot/markdown
+- [Ghost text](https://uiarc.dev/components/ghost-text) — `components/ghost-text.md` (31,645 bytes) — markdown: https://uiarc.dev/components/ghost-text/markdown
+- [Glass card](https://uiarc.dev/components/glass-card) — `components/glass-card.md` (7,071 bytes) — markdown: https://uiarc.dev/components/glass-card/markdown
+- [Glass menu](https://uiarc.dev/components/glass-menu) — `components/glass-menu.md` (9,276 bytes) — markdown: https://uiarc.dev/components/glass-menu/markdown
+- [Glass segmented](https://uiarc.dev/components/glass-segmented) — `components/glass-segmented.md` (6,448 bytes) — markdown: https://uiarc.dev/components/glass-segmented/markdown
+- [Glass tab bar](https://uiarc.dev/components/glass-tabbar) — `components/glass-tabbar.md` (9,751 bytes) — markdown: https://uiarc.dev/components/glass-tabbar/markdown
+- [Gravity well](https://uiarc.dev/components/gravity-well) — `components/gravity-well.md` (5,878 bytes) — markdown: https://uiarc.dev/components/gravity-well/markdown
+- [Holo card](https://uiarc.dev/components/holo-card) — `components/holo-card.md` (7,117 bytes) — markdown: https://uiarc.dev/components/holo-card/markdown
+- [Image generation](https://uiarc.dev/components/image-generation) — `components/image-generation.md` (28,992 bytes) — markdown: https://uiarc.dev/components/image-generation/markdown
+- [Image reveal](https://uiarc.dev/components/image-reveal) — `components/image-reveal.md` (27,448 bytes) — markdown: https://uiarc.dev/components/image-reveal/markdown
+- [Image trail](https://uiarc.dev/components/image-trail) — `components/image-trail.md` (6,552 bytes) — markdown: https://uiarc.dev/components/image-trail/markdown
+- [Ink fluid](https://uiarc.dev/components/ink-fluid) — `components/ink-fluid.md` (6,083 bytes) — markdown: https://uiarc.dev/components/ink-fluid/markdown
+- [Install snippet](https://uiarc.dev/components/install-snippet) — `components/install-snippet.md` (24,842 bytes) — markdown: https://uiarc.dev/components/install-snippet/markdown
+- [Keycap keyboard](https://uiarc.dev/components/keycap-keyboard) — `components/keycap-keyboard.md` (7,503 bytes) — markdown: https://uiarc.dev/components/keycap-keyboard/markdown
+- [Lightbox gallery](https://uiarc.dev/components/lightbox-gallery) — `components/lightbox-gallery.md` (6,959 bytes) — markdown: https://uiarc.dev/components/lightbox-gallery/markdown
+- [Link unfurl](https://uiarc.dev/components/link-unfurl) — `components/link-unfurl.md` (10,935 bytes) — markdown: https://uiarc.dev/components/link-unfurl/markdown
+- [Liquid tab bar](https://uiarc.dev/components/liquid-tab-bar) — `components/liquid-tab-bar.md` (7,457 bytes) — markdown: https://uiarc.dev/components/liquid-tab-bar/markdown
+- [Live visitors](https://uiarc.dev/components/live-visitors) — `components/live-visitors.md` (25,810 bytes) — markdown: https://uiarc.dev/components/live-visitors/markdown
+- [LLM cost calculator](https://uiarc.dev/components/llm-cost-calculator) — `components/llm-cost-calculator.md` (28,526 bytes) — markdown: https://uiarc.dev/components/llm-cost-calculator/markdown
+- [Meeting summary](https://uiarc.dev/components/meeting-summary) — `components/meeting-summary.md` (25,470 bytes) — markdown: https://uiarc.dev/components/meeting-summary/markdown
+- [Mega menu morph](https://uiarc.dev/components/mega-menu-morph) — `components/mega-menu-morph.md` (14,835 bytes) — markdown: https://uiarc.dev/components/mega-menu-morph/markdown
+- [Metric ticker](https://uiarc.dev/components/metric-ticker) — `components/metric-ticker.md` (11,589 bytes) — markdown: https://uiarc.dev/components/metric-ticker/markdown
+- [Mixture of experts](https://uiarc.dev/components/mixture-of-experts) — `components/mixture-of-experts.md` (16,096 bytes) — markdown: https://uiarc.dev/components/mixture-of-experts/markdown
+- [Model card](https://uiarc.dev/components/model-card) — `components/model-card.md` (31,724 bytes) — markdown: https://uiarc.dev/components/model-card/markdown
+- [Model training](https://uiarc.dev/components/model-training) — `components/model-training.md` (13,076 bytes) — markdown: https://uiarc.dev/components/model-training/markdown
+- [Morph loader](https://uiarc.dev/components/morph-loader) — `components/morph-loader.md` (6,459 bytes) — markdown: https://uiarc.dev/components/morph-loader/markdown
+- [Morph nav](https://uiarc.dev/components/morph-nav) — `components/morph-nav.md` (9,428 bytes) — markdown: https://uiarc.dev/components/morph-nav/markdown
+- [Multi-region failover](https://uiarc.dev/components/multi-region-failover) — `components/multi-region-failover.md` (12,930 bytes) — markdown: https://uiarc.dev/components/multi-region-failover/markdown
+- [Now playing](https://uiarc.dev/components/now-playing) — `components/now-playing.md` (8,191 bytes) — markdown: https://uiarc.dev/components/now-playing/markdown
+- [Orbit logos](https://uiarc.dev/components/orbit-logos) — `components/orbit-logos.md` (10,113 bytes) — markdown: https://uiarc.dev/components/orbit-logos/markdown
+- [Orbit menu](https://uiarc.dev/components/orbit-menu) — `components/orbit-menu.md` (7,567 bytes) — markdown: https://uiarc.dev/components/orbit-menu/markdown
+- [Page curl](https://uiarc.dev/components/page-curl) — `components/page-curl.md` (7,828 bytes) — markdown: https://uiarc.dev/components/page-curl/markdown
+- [Payment flow](https://uiarc.dev/components/payment-flow) — `components/payment-flow.md` (11,618 bytes) — markdown: https://uiarc.dev/components/payment-flow/markdown
+- [Photo grid](https://uiarc.dev/components/photo-grid) — `components/photo-grid.md` (6,632 bytes) — markdown: https://uiarc.dev/components/photo-grid/markdown
+- [PII redaction](https://uiarc.dev/components/pii-redaction) — `components/pii-redaction.md` (29,525 bytes) — markdown: https://uiarc.dev/components/pii-redaction/markdown
+- [Pixel mascot](https://uiarc.dev/components/pixel-mascot) — `components/pixel-mascot.md` (24,280 bytes) — markdown: https://uiarc.dev/components/pixel-mascot/markdown
+- [Presence stack](https://uiarc.dev/components/presence-stack) — `components/presence-stack.md` (10,776 bytes) — markdown: https://uiarc.dev/components/presence-stack/markdown
+- [Prize wheel](https://uiarc.dev/components/prize-wheel) — `components/prize-wheel.md` (10,679 bytes) — markdown: https://uiarc.dev/components/prize-wheel/markdown
+- [Product gallery](https://uiarc.dev/components/product-gallery) — `components/product-gallery.md` (9,131 bytes) — markdown: https://uiarc.dev/components/product-gallery/markdown
+- [Prompt cache](https://uiarc.dev/components/prompt-cache) — `components/prompt-cache.md` (15,939 bytes) — markdown: https://uiarc.dev/components/prompt-cache/markdown
+- [Provider keys](https://uiarc.dev/components/provider-keys) — `components/provider-keys.md` (25,628 bytes) — markdown: https://uiarc.dev/components/provider-keys/markdown
+- [Provider status](https://uiarc.dev/components/provider-status) — `components/provider-status.md` (27,576 bytes) — markdown: https://uiarc.dev/components/provider-status/markdown
+- [Race bar chart](https://uiarc.dev/components/race-bar-chart) — `components/race-bar-chart.md` (9,475 bytes) — markdown: https://uiarc.dev/components/race-bar-chart/markdown
+- [Radar chart](https://uiarc.dev/components/radar-chart) — `components/radar-chart.md` (7,807 bytes) — markdown: https://uiarc.dev/components/radar-chart/markdown
+- [Realtime stream](https://uiarc.dev/components/realtime-stream) — `components/realtime-stream.md` (8,623 bytes) — markdown: https://uiarc.dev/components/realtime-stream/markdown
+- [Reasoning block](https://uiarc.dev/components/reasoning-block) — `components/reasoning-block.md` (25,591 bytes) — markdown: https://uiarc.dev/components/reasoning-block/markdown
+- [Reasoning tree](https://uiarc.dev/components/reasoning-tree) — `components/reasoning-tree.md` (14,497 bytes) — markdown: https://uiarc.dev/components/reasoning-tree/markdown
+- [Referral card](https://uiarc.dev/components/referral-card) — `components/referral-card.md` (25,780 bytes) — markdown: https://uiarc.dev/components/referral-card/markdown
+- [Reply draft](https://uiarc.dev/components/reply-draft) — `components/reply-draft.md` (25,990 bytes) — markdown: https://uiarc.dev/components/reply-draft/markdown
+- [Response feedback](https://uiarc.dev/components/response-feedback) — `components/response-feedback.md` (28,742 bytes) — markdown: https://uiarc.dev/components/response-feedback/markdown
+- [Sand text](https://uiarc.dev/components/sand-text) — `components/sand-text.md` (5,170 bytes) — markdown: https://uiarc.dev/components/sand-text/markdown
+- [Sankey flow](https://uiarc.dev/components/sankey-flow) — `components/sankey-flow.md` (9,128 bytes) — markdown: https://uiarc.dev/components/sankey-flow/markdown
+- [Share access](https://uiarc.dev/components/share-access) — `components/share-access.md` (12,713 bytes) — markdown: https://uiarc.dev/components/share-access/markdown
+- [Share sheet](https://uiarc.dev/components/share-sheet) — `components/share-sheet.md` (9,737 bytes) — markdown: https://uiarc.dev/components/share-sheet/markdown
+- [Sheet stack](https://uiarc.dev/components/sheet-stack) — `components/sheet-stack.md` (9,256 bytes) — markdown: https://uiarc.dev/components/sheet-stack/markdown
+- [Skeleton morph](https://uiarc.dev/components/skeleton-morph) — `components/skeleton-morph.md` (7,598 bytes) — markdown: https://uiarc.dev/components/skeleton-morph/markdown
+- [Smart form fill](https://uiarc.dev/components/smart-form-fill) — `components/smart-form-fill.md` (25,121 bytes) — markdown: https://uiarc.dev/components/smart-form-fill/markdown
+- [Social proof toast](https://uiarc.dev/components/social-proof-toast) — `components/social-proof-toast.md` (25,802 bytes) — markdown: https://uiarc.dev/components/social-proof-toast/markdown
+- [Source cards](https://uiarc.dev/components/source-cards) — `components/source-cards.md` (27,991 bytes) — markdown: https://uiarc.dev/components/source-cards/markdown
+- [Speculative decoding](https://uiarc.dev/components/speculative-decoding) — `components/speculative-decoding.md` (14,578 bytes) — markdown: https://uiarc.dev/components/speculative-decoding/markdown
+- [Speech player](https://uiarc.dev/components/speech-player) — `components/speech-player.md` (29,880 bytes) — markdown: https://uiarc.dev/components/speech-player/markdown
+- [Split bar](https://uiarc.dev/components/split-bar) — `components/split-bar.md` (12,253 bytes) — markdown: https://uiarc.dev/components/split-bar/markdown
+- [Starter prompts](https://uiarc.dev/components/starter-prompts) — `components/starter-prompts.md` (24,751 bytes) — markdown: https://uiarc.dev/components/starter-prompts/markdown
+- [Sticker peel](https://uiarc.dev/components/sticker-peel) — `components/sticker-peel.md` (9,014 bytes) — markdown: https://uiarc.dev/components/sticker-peel/markdown
+- [Stretch refresh](https://uiarc.dev/components/stretch-refresh) — `components/stretch-refresh.md` (6,884 bytes) — markdown: https://uiarc.dev/components/stretch-refresh/markdown
+- [Sunburst](https://uiarc.dev/components/sunburst) — `components/sunburst.md` (8,102 bytes) — markdown: https://uiarc.dev/components/sunburst/markdown
+- [Team switcher](https://uiarc.dev/components/team-switcher) — `components/team-switcher.md` (26,113 bytes) — markdown: https://uiarc.dev/components/team-switcher/markdown
+- [Ticket router](https://uiarc.dev/components/ticket-router) — `components/ticket-router.md` (25,048 bytes) — markdown: https://uiarc.dev/components/ticket-router/markdown
+- [Time dial](https://uiarc.dev/components/time-dial) — `components/time-dial.md` (7,268 bytes) — markdown: https://uiarc.dev/components/time-dial/markdown
+- [TL;DR toggle](https://uiarc.dev/components/tldr-toggle) — `components/tldr-toggle.md` (29,287 bytes) — markdown: https://uiarc.dev/components/tldr-toggle/markdown
+- [Table of contents progress](https://uiarc.dev/components/toc-progress) — `components/toc-progress.md` (11,220 bytes) — markdown: https://uiarc.dev/components/toc-progress/markdown
+- [Tone tuner](https://uiarc.dev/components/tone-tuner) — `components/tone-tuner.md` (25,042 bytes) — markdown: https://uiarc.dev/components/tone-tuner/markdown
+- [Tool call](https://uiarc.dev/components/tool-call) — `components/tool-call.md` (33,519 bytes) — markdown: https://uiarc.dev/components/tool-call/markdown
+- [Training run](https://uiarc.dev/components/training-run) — `components/training-run.md` (27,269 bytes) — markdown: https://uiarc.dev/components/training-run/markdown
+- [Trial banner](https://uiarc.dev/components/trial-banner) — `components/trial-banner.md` (24,693 bytes) — markdown: https://uiarc.dev/components/trial-banner/markdown
+- [Typewriter terminal](https://uiarc.dev/components/typewriter-terminal) — `components/typewriter-terminal.md` (10,565 bytes) — markdown: https://uiarc.dev/components/typewriter-terminal/markdown
+- [Undo toast](https://uiarc.dev/components/undo-toast) — `components/undo-toast.md` (15,036 bytes) — markdown: https://uiarc.dev/components/undo-toast/markdown
+- [Upgrade prompt](https://uiarc.dev/components/upgrade-prompt) — `components/upgrade-prompt.md` (25,859 bytes) — markdown: https://uiarc.dev/components/upgrade-prompt/markdown
+- [Vector search](https://uiarc.dev/components/vector-search) — `components/vector-search.md` (13,513 bytes) — markdown: https://uiarc.dev/components/vector-search/markdown
+- [Voice orb](https://uiarc.dev/components/voice-orb) — `components/voice-orb.md` (10,173 bytes) — markdown: https://uiarc.dev/components/voice-orb/markdown
+- [Voice recorder](https://uiarc.dev/components/voice-recorder) — `components/voice-recorder.md` (6,168 bytes) — markdown: https://uiarc.dev/components/voice-recorder/markdown
+- [Wallet stack](https://uiarc.dev/components/wallet-stack) — `components/wallet-stack.md` (9,776 bytes) — markdown: https://uiarc.dev/components/wallet-stack/markdown
+
+## Blocks (Pro) — 114 unique pages
+
+- [Account health](https://uiarc.dev/components/blocks/account-health) — `blocks/account-health.md` (11,087 bytes) — markdown: https://uiarc.dev/components/blocks/account-health/markdown
+- [Activity feed](https://uiarc.dev/components/blocks/activity-feed) — `blocks/activity-feed.md` (6,529 bytes) — markdown: https://uiarc.dev/components/blocks/activity-feed/markdown
+- [Activity terrain](https://uiarc.dev/components/blocks/activity-terrain) — `blocks/activity-terrain.md` (5,062 bytes) — markdown: https://uiarc.dev/components/blocks/activity-terrain/markdown
+- [Agent approvals](https://uiarc.dev/components/blocks/agent-approvals) — `blocks/agent-approvals.md` (14,928 bytes) — markdown: https://uiarc.dev/components/blocks/agent-approvals/markdown
+- [Agent builder](https://uiarc.dev/components/blocks/agent-builder) — `blocks/agent-builder.md` (13,399 bytes) — markdown: https://uiarc.dev/components/blocks/agent-builder/markdown
+- [Agent gallery](https://uiarc.dev/components/blocks/agent-gallery) — `blocks/agent-gallery.md` (11,438 bytes) — markdown: https://uiarc.dev/components/blocks/agent-gallery/markdown
+- [Agent memory](https://uiarc.dev/components/blocks/agent-memory) — `blocks/agent-memory.md` (15,384 bytes) — markdown: https://uiarc.dev/components/blocks/agent-memory/markdown
+- [Agent orchestrator](https://uiarc.dev/components/blocks/agent-orchestrator) — `blocks/agent-orchestrator.md` (15,745 bytes) — markdown: https://uiarc.dev/components/blocks/agent-orchestrator/markdown
+- [Agent routines](https://uiarc.dev/components/blocks/agent-routines) — `blocks/agent-routines.md` (15,737 bytes) — markdown: https://uiarc.dev/components/blocks/agent-routines/markdown
+- [Agent run](https://uiarc.dev/components/blocks/agent-run) — `blocks/agent-run.md` (12,703 bytes) — markdown: https://uiarc.dev/components/blocks/agent-run/markdown
+- [Agent tasks](https://uiarc.dev/components/blocks/agent-tasks) — `blocks/agent-tasks.md` (14,498 bytes) — markdown: https://uiarc.dev/components/blocks/agent-tasks/markdown
+- [AI answer](https://uiarc.dev/components/blocks/ai-answer) — `blocks/ai-answer.md` (15,758 bytes) — markdown: https://uiarc.dev/components/blocks/ai-answer/markdown
+- [AI chat](https://uiarc.dev/components/blocks/ai-chat) — `blocks/ai-chat.md` (15,060 bytes) — markdown: https://uiarc.dev/components/blocks/ai-chat/markdown
+- [AI composer](https://uiarc.dev/components/blocks/ai-composer) — `blocks/ai-composer.md` (13,895 bytes) — markdown: https://uiarc.dev/components/blocks/ai-composer/markdown
+- [AI feature launch](https://uiarc.dev/components/blocks/ai-feature-launch) — `blocks/ai-feature-launch.md` (12,860 bytes) — markdown: https://uiarc.dev/components/blocks/ai-feature-launch/markdown
+- [AI inline edit](https://uiarc.dev/components/blocks/ai-inline-edit) — `blocks/ai-inline-edit.md` (10,543 bytes) — markdown: https://uiarc.dev/components/blocks/ai-inline-edit/markdown
+- [AI insight card](https://uiarc.dev/components/blocks/ai-insight-card) — `blocks/ai-insight-card.md` (10,072 bytes) — markdown: https://uiarc.dev/components/blocks/ai-insight-card/markdown
+- [AI search bar](https://uiarc.dev/components/blocks/ai-search-bar) — `blocks/ai-search-bar.md` (13,090 bytes) — markdown: https://uiarc.dev/components/blocks/ai-search-bar/markdown
+- [AI setup wizard](https://uiarc.dev/components/blocks/ai-setup-wizard) — `blocks/ai-setup-wizard.md` (12,604 bytes) — markdown: https://uiarc.dev/components/blocks/ai-setup-wizard/markdown
+- [AI side panel](https://uiarc.dev/components/blocks/ai-side-panel) — `blocks/ai-side-panel.md` (11,007 bytes) — markdown: https://uiarc.dev/components/blocks/ai-side-panel/markdown
+- [API keys](https://uiarc.dev/components/blocks/api-keys) — `blocks/api-keys.md` (4,840 bytes) — markdown: https://uiarc.dev/components/blocks/api-keys/markdown
+- [Availability picker](https://uiarc.dev/components/blocks/availability-picker) — `blocks/availability-picker.md` (4,452 bytes) — markdown: https://uiarc.dev/components/blocks/availability-picker/markdown
+- [Billing overview](https://uiarc.dev/components/blocks/billing-overview) — `blocks/billing-overview.md` (5,484 bytes) — markdown: https://uiarc.dev/components/blocks/billing-overview/markdown
+- [Budget variance](https://uiarc.dev/components/blocks/budget-variance) — `blocks/budget-variance.md` (9,965 bytes) — markdown: https://uiarc.dev/components/blocks/budget-variance/markdown
+- [Call insights](https://uiarc.dev/components/blocks/call-insights) — `blocks/call-insights.md` (11,568 bytes) — markdown: https://uiarc.dev/components/blocks/call-insights/markdown
+- [Cancel flow](https://uiarc.dev/components/blocks/cancel-flow) — `blocks/cancel-flow.md` (5,120 bytes) — markdown: https://uiarc.dev/components/blocks/cancel-flow/markdown
+- [Cart drawer](https://uiarc.dev/components/blocks/cart-drawer) — `blocks/cart-drawer.md` (6,296 bytes) — markdown: https://uiarc.dev/components/blocks/cart-drawer/markdown
+- [Catch up](https://uiarc.dev/components/blocks/catch-up) — `blocks/catch-up.md` (10,978 bytes) — markdown: https://uiarc.dev/components/blocks/catch-up/markdown
+- [Live checkout](https://uiarc.dev/components/blocks/checkout-live) — `blocks/checkout-live.md` (7,437 bytes) — markdown: https://uiarc.dev/components/blocks/checkout-live/markdown
+- [Checkout summary](https://uiarc.dev/components/blocks/checkout-summary) — `blocks/checkout-summary.md` (9,259 bytes) — markdown: https://uiarc.dev/components/blocks/checkout-summary/markdown
+- [Choropleth explorer](https://uiarc.dev/components/blocks/choropleth-explorer) — `blocks/choropleth-explorer.md` (10,677 bytes) — markdown: https://uiarc.dev/components/blocks/choropleth-explorer/markdown
+- [Cohort retention](https://uiarc.dev/components/blocks/cohort-retention) — `blocks/cohort-retention.md` (5,282 bytes) — markdown: https://uiarc.dev/components/blocks/cohort-retention/markdown
+- [Connected scatter](https://uiarc.dev/components/blocks/connected-scatter) — `blocks/connected-scatter.md` (10,065 bytes) — markdown: https://uiarc.dev/components/blocks/connected-scatter/markdown
+- [Credit top-up](https://uiarc.dev/components/blocks/credit-topup) — `blocks/credit-topup.md` (11,082 bytes) — markdown: https://uiarc.dev/components/blocks/credit-topup/markdown
+- [Customer galaxy](https://uiarc.dev/components/blocks/customer-galaxy) — `blocks/customer-galaxy.md` (5,181 bytes) — markdown: https://uiarc.dev/components/blocks/customer-galaxy/markdown
+- [Delivery tracker](https://uiarc.dev/components/blocks/delivery-tracker) — `blocks/delivery-tracker.md` (4,118 bytes) — markdown: https://uiarc.dev/components/blocks/delivery-tracker/markdown
+- [Document extraction](https://uiarc.dev/components/blocks/document-extract) — `blocks/document-extract.md` (16,674 bytes) — markdown: https://uiarc.dev/components/blocks/document-extract/markdown
+- [Domain verify](https://uiarc.dev/components/blocks/domain-verify) — `blocks/domain-verify.md` (10,805 bytes) — markdown: https://uiarc.dev/components/blocks/domain-verify/markdown
+- [Environment variables](https://uiarc.dev/components/blocks/env-variables) — `blocks/env-variables.md` (9,167 bytes) — markdown: https://uiarc.dev/components/blocks/env-variables/markdown
+- [Eval suite](https://uiarc.dev/components/blocks/eval-suite) — `blocks/eval-suite.md` (13,341 bytes) — markdown: https://uiarc.dev/components/blocks/eval-suite/markdown
+- [Exploded view](https://uiarc.dev/components/blocks/exploded-view) — `blocks/exploded-view.md` (9,516 bytes) — markdown: https://uiarc.dev/components/blocks/exploded-view/markdown
+- [Feature bento](https://uiarc.dev/components/blocks/feature-bento) — `blocks/feature-bento.md` (7,388 bytes) — markdown: https://uiarc.dev/components/blocks/feature-bento/markdown
+- [Feature voting](https://uiarc.dev/components/blocks/feature-voting) — `blocks/feature-voting.md` (11,446 bytes) — markdown: https://uiarc.dev/components/blocks/feature-voting/markdown
+- [Feedback board](https://uiarc.dev/components/blocks/feedback-board) — `blocks/feedback-board.md` (7,771 bytes) — markdown: https://uiarc.dev/components/blocks/feedback-board/markdown
+- [Gantt timeline](https://uiarc.dev/components/blocks/gantt-timeline) — `blocks/gantt-timeline.md` (9,811 bytes) — markdown: https://uiarc.dev/components/blocks/gantt-timeline/markdown
+- [Goal tracker](https://uiarc.dev/components/blocks/goal-tracker) — `blocks/goal-tracker.md` (10,998 bytes) — markdown: https://uiarc.dev/components/blocks/goal-tracker/markdown
+- [Help center](https://uiarc.dev/components/blocks/help-center) — `blocks/help-center.md` (7,451 bytes) — markdown: https://uiarc.dev/components/blocks/help-center/markdown
+- [Hero signup](https://uiarc.dev/components/blocks/hero-signup) — `blocks/hero-signup.md` (8,396 bytes) — markdown: https://uiarc.dev/components/blocks/hero-signup/markdown
+- [Horizon chart](https://uiarc.dev/components/blocks/horizon-chart) — `blocks/horizon-chart.md` (10,240 bytes) — markdown: https://uiarc.dev/components/blocks/horizon-chart/markdown
+- [Inbox triage](https://uiarc.dev/components/blocks/inbox-triage) — `blocks/inbox-triage.md` (5,154 bytes) — markdown: https://uiarc.dev/components/blocks/inbox-triage/markdown
+- [Integrations](https://uiarc.dev/components/blocks/integrations) — `blocks/integrations.md` (4,880 bytes) — markdown: https://uiarc.dev/components/blocks/integrations/markdown
+- [Invite people](https://uiarc.dev/components/blocks/invite-people) — `blocks/invite-people.md` (6,636 bytes) — markdown: https://uiarc.dev/components/blocks/invite-people/markdown
+- [Invoice studio](https://uiarc.dev/components/blocks/invoice-studio) — `blocks/invoice-studio.md` (4,793 bytes) — markdown: https://uiarc.dev/components/blocks/invoice-studio/markdown
+- [Journey flow](https://uiarc.dev/components/blocks/journey-flow) — `blocks/journey-flow.md` (5,773 bytes) — markdown: https://uiarc.dev/components/blocks/journey-flow/markdown
+- [Kanban board](https://uiarc.dev/components/blocks/kanban-board) — `blocks/kanban-board.md` (6,943 bytes) — markdown: https://uiarc.dev/components/blocks/kanban-board/markdown
+- [Knowledge base](https://uiarc.dev/components/blocks/knowledge-base) — `blocks/knowledge-base.md` (14,056 bytes) — markdown: https://uiarc.dev/components/blocks/knowledge-base/markdown
+- [KPI drilldown](https://uiarc.dev/components/blocks/kpi-drilldown) — `blocks/kpi-drilldown.md` (6,552 bytes) — markdown: https://uiarc.dev/components/blocks/kpi-drilldown/markdown
+- [Layout morph](https://uiarc.dev/components/blocks/layout-morph) — `blocks/layout-morph.md` (4,875 bytes) — markdown: https://uiarc.dev/components/blocks/layout-morph/markdown
+- [Lead scoring](https://uiarc.dev/components/blocks/lead-scoring) — `blocks/lead-scoring.md` (10,589 bytes) — markdown: https://uiarc.dev/components/blocks/lead-scoring/markdown
+- [Line replay](https://uiarc.dev/components/blocks/line-replay) — `blocks/line-replay.md` (11,445 bytes) — markdown: https://uiarc.dev/components/blocks/line-replay/markdown
+- [Login and sign up](https://uiarc.dev/components/blocks/login) — `blocks/login.md` (27,841 bytes) — markdown: https://uiarc.dev/components/blocks/login/markdown
+- [Magic link](https://uiarc.dev/components/blocks/magic-link) — `blocks/magic-link.md` (10,910 bytes) — markdown: https://uiarc.dev/components/blocks/magic-link/markdown
+- [Market terminal](https://uiarc.dev/components/blocks/market-terminal) — `blocks/market-terminal.md` (10,485 bytes) — markdown: https://uiarc.dev/components/blocks/market-terminal/markdown
+- [MCP servers](https://uiarc.dev/components/blocks/mcp-servers) — `blocks/mcp-servers.md` (15,798 bytes) — markdown: https://uiarc.dev/components/blocks/mcp-servers/markdown
+- [Media player](https://uiarc.dev/components/blocks/media-player) — `blocks/media-player.md` (4,681 bytes) — markdown: https://uiarc.dev/components/blocks/media-player/markdown
+- [Metric explorer](https://uiarc.dev/components/blocks/metric-explorer) — `blocks/metric-explorer.md` (4,951 bytes) — markdown: https://uiarc.dev/components/blocks/metric-explorer/markdown
+- [Metrics dashboard](https://uiarc.dev/components/blocks/metrics-dashboard) — `blocks/metrics-dashboard.md` (5,197 bytes) — markdown: https://uiarc.dev/components/blocks/metrics-dashboard/markdown
+- [Model arena](https://uiarc.dev/components/blocks/model-arena) — `blocks/model-arena.md` (14,272 bytes) — markdown: https://uiarc.dev/components/blocks/model-arena/markdown
+- [Model picker](https://uiarc.dev/components/blocks/model-picker) — `blocks/model-picker.md` (10,190 bytes) — markdown: https://uiarc.dev/components/blocks/model-picker/markdown
+- [MRR waterfall](https://uiarc.dev/components/blocks/mrr-waterfall) — `blocks/mrr-waterfall.md` (5,018 bytes) — markdown: https://uiarc.dev/components/blocks/mrr-waterfall/markdown
+- [Multi-step form](https://uiarc.dev/components/blocks/multi-step-form) — `blocks/multi-step-form.md` (5,381 bytes) — markdown: https://uiarc.dev/components/blocks/multi-step-form/markdown
+- [Onboarding illustration](https://uiarc.dev/components/blocks/onboarding-illustration) — `blocks/onboarding-illustration.md` (4,393 bytes) — markdown: https://uiarc.dev/components/blocks/onboarding-illustration/markdown
+- [Onboarding survey](https://uiarc.dev/components/blocks/onboarding-survey) — `blocks/onboarding-survey.md` (9,752 bytes) — markdown: https://uiarc.dev/components/blocks/onboarding-survey/markdown
+- [Pricing calculator](https://uiarc.dev/components/blocks/pricing-calculator) — `blocks/pricing-calculator.md` (5,783 bytes) — markdown: https://uiarc.dev/components/blocks/pricing-calculator/markdown
+- [Product detail](https://uiarc.dev/components/blocks/product-detail) — `blocks/product-detail.md` (7,695 bytes) — markdown: https://uiarc.dev/components/blocks/product-detail/markdown
+- [Product listing](https://uiarc.dev/components/blocks/product-listing) — `blocks/product-listing.md` (7,935 bytes) — markdown: https://uiarc.dev/components/blocks/product-listing/markdown
+- [Profile page](https://uiarc.dev/components/blocks/profile-page) — `blocks/profile-page.md` (7,735 bytes) — markdown: https://uiarc.dev/components/blocks/profile-page/markdown
+- [Project board](https://uiarc.dev/components/blocks/project-board) — `blocks/project-board.md` (4,978 bytes) — markdown: https://uiarc.dev/components/blocks/project-board/markdown
+- [Prompt studio](https://uiarc.dev/components/blocks/prompt-studio) — `blocks/prompt-studio.md` (16,228 bytes) — markdown: https://uiarc.dev/components/blocks/prompt-studio/markdown
+- [Release readiness](https://uiarc.dev/components/blocks/release-readiness) — `blocks/release-readiness.md` (4,239 bytes) — markdown: https://uiarc.dev/components/blocks/release-readiness/markdown
+- [Research run](https://uiarc.dev/components/blocks/research-run) — `blocks/research-run.md` (10,476 bytes) — markdown: https://uiarc.dev/components/blocks/research-run/markdown
+- [Revenue explorer](https://uiarc.dev/components/blocks/revenue-explorer) — `blocks/revenue-explorer.md` (5,606 bytes) — markdown: https://uiarc.dev/components/blocks/revenue-explorer/markdown
+- [Revenue globe](https://uiarc.dev/components/blocks/revenue-globe) — `blocks/revenue-globe.md` (5,167 bytes) — markdown: https://uiarc.dev/components/blocks/revenue-globe/markdown
+- [Roles and permissions](https://uiarc.dev/components/blocks/roles-permissions) — `blocks/roles-permissions.md` (5,370 bytes) — markdown: https://uiarc.dev/components/blocks/roles-permissions/markdown
+- [Scroll story](https://uiarc.dev/components/blocks/scroll-story) — `blocks/scroll-story.md` (4,642 bytes) — markdown: https://uiarc.dev/components/blocks/scroll-story/markdown
+- [Search results](https://uiarc.dev/components/blocks/search-results) — `blocks/search-results.md` (9,325 bytes) — markdown: https://uiarc.dev/components/blocks/search-results/markdown
+- [Seat manager](https://uiarc.dev/components/blocks/seat-manager) — `blocks/seat-manager.md` (12,914 bytes) — markdown: https://uiarc.dev/components/blocks/seat-manager/markdown
+- [Seat map](https://uiarc.dev/components/blocks/seat-map) — `blocks/seat-map.md` (9,933 bytes) — markdown: https://uiarc.dev/components/blocks/seat-map/markdown
+- [Security settings](https://uiarc.dev/components/blocks/security-settings) — `blocks/security-settings.md` (5,055 bytes) — markdown: https://uiarc.dev/components/blocks/security-settings/markdown
+- [Selection toolbar](https://uiarc.dev/components/blocks/selection-toolbar) — `blocks/selection-toolbar.md` (4,999 bytes) — markdown: https://uiarc.dev/components/blocks/selection-toolbar/markdown
+- [Semantic zoom](https://uiarc.dev/components/blocks/semantic-zoom) — `blocks/semantic-zoom.md` (5,077 bytes) — markdown: https://uiarc.dev/components/blocks/semantic-zoom/markdown
+- [Settings command](https://uiarc.dev/components/blocks/settings-command) — `blocks/settings-command.md` (7,972 bytes) — markdown: https://uiarc.dev/components/blocks/settings-command/markdown
+- [Settings page](https://uiarc.dev/components/blocks/settings-page) — `blocks/settings-page.md` (5,049 bytes) — markdown: https://uiarc.dev/components/blocks/settings-page/markdown
+- [Sidebar](https://uiarc.dev/components/blocks/sidebar) — `blocks/sidebar.md` (20,978 bytes) — markdown: https://uiarc.dev/components/blocks/sidebar/markdown
+- [Small multiples](https://uiarc.dev/components/blocks/small-multiples) — `blocks/small-multiples.md` (10,813 bytes) — markdown: https://uiarc.dev/components/blocks/small-multiples/markdown
+- [Smart scheduler](https://uiarc.dev/components/blocks/smart-scheduler) — `blocks/smart-scheduler.md` (12,342 bytes) — markdown: https://uiarc.dev/components/blocks/smart-scheduler/markdown
+- [Spend alert](https://uiarc.dev/components/blocks/spend-alert) — `blocks/spend-alert.md` (9,485 bytes) — markdown: https://uiarc.dev/components/blocks/spend-alert/markdown
+- [Spotlight grid](https://uiarc.dev/components/blocks/spotlight-grid) — `blocks/spotlight-grid.md` (6,414 bytes) — markdown: https://uiarc.dev/components/blocks/spotlight-grid/markdown
+- [Support conversation](https://uiarc.dev/components/blocks/support-conversation) — `blocks/support-conversation.md` (4,960 bytes) — markdown: https://uiarc.dev/components/blocks/support-conversation/markdown
+- [Support widget](https://uiarc.dev/components/blocks/support-widget) — `blocks/support-widget.md` (5,925 bytes) — markdown: https://uiarc.dev/components/blocks/support-widget/markdown
+- [Task breakdown](https://uiarc.dev/components/blocks/task-breakdown) — `blocks/task-breakdown.md` (11,155 bytes) — markdown: https://uiarc.dev/components/blocks/task-breakdown/markdown
+- [Team directory](https://uiarc.dev/components/blocks/team-directory) — `blocks/team-directory.md` (4,889 bytes) — markdown: https://uiarc.dev/components/blocks/team-directory/markdown
+- [Team members](https://uiarc.dev/components/blocks/team-members) — `blocks/team-members.md` (4,997 bytes) — markdown: https://uiarc.dev/components/blocks/team-members/markdown
+- [Team showcase](https://uiarc.dev/components/blocks/team-showcase) — `blocks/team-showcase.md` (5,089 bytes) — markdown: https://uiarc.dev/components/blocks/team-showcase/markdown
+- [Studio perspectives](https://uiarc.dev/components/blocks/testimonial-stage) — `blocks/testimonial-stage.md` (4,467 bytes) — markdown: https://uiarc.dev/components/blocks/testimonial-stage/markdown
+- [Two-factor setup](https://uiarc.dev/components/blocks/two-factor-setup) — `blocks/two-factor-setup.md` (9,482 bytes) — markdown: https://uiarc.dev/components/blocks/two-factor-setup/markdown
+- [Uptime status](https://uiarc.dev/components/blocks/uptime-status) — `blocks/uptime-status.md` (5,204 bytes) — markdown: https://uiarc.dev/components/blocks/uptime-status/markdown
+- [Usage billing](https://uiarc.dev/components/blocks/usage-billing) — `blocks/usage-billing.md` (8,364 bytes) — markdown: https://uiarc.dev/components/blocks/usage-billing/markdown
+- [Usage forecast](https://uiarc.dev/components/blocks/usage-forecast) — `blocks/usage-forecast.md` (5,446 bytes) — markdown: https://uiarc.dev/components/blocks/usage-forecast/markdown
+- [Usage pricing](https://uiarc.dev/components/blocks/usage-pricing) — `blocks/usage-pricing.md` (4,836 bytes) — markdown: https://uiarc.dev/components/blocks/usage-pricing/markdown
+- [Wallet card](https://uiarc.dev/components/blocks/wallet-card) — `blocks/wallet-card.md` (4,923 bytes) — markdown: https://uiarc.dev/components/blocks/wallet-card/markdown
+- [Webhook tester](https://uiarc.dev/components/blocks/webhook-tester) — `blocks/webhook-tester.md` (11,166 bytes) — markdown: https://uiarc.dev/components/blocks/webhook-tester/markdown
+- [Webhooks](https://uiarc.dev/components/blocks/webhooks) — `blocks/webhooks.md` (5,252 bytes) — markdown: https://uiarc.dev/components/blocks/webhooks/markdown
+- [Week calendar](https://uiarc.dev/components/blocks/week-calendar) — `blocks/week-calendar.md` (10,339 bytes) — markdown: https://uiarc.dev/components/blocks/week-calendar/markdown

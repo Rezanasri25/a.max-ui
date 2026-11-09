@@ -1,0 +1,48 @@
+{
+  "skill": "uiarc-pack",
+  "version": "1.0.0",
+  "evals": [
+    {
+      "id": "build-new-dashboard",
+      "prompt": "Build an analytics dashboard page for my Next.js app using the Arc pack: KPI row, a line chart with a range toggle, and a top-pages table. Use the pack, don't hand-roll components.",
+      "assertions": [
+        "Locates both bundles before writing code and uses scripts/find-item.py or the inventories to choose items",
+        "Installs shared foundation and motion tokens once and imports foundation.css exactly once",
+        "Copies free items (e.g. metric-card, line-chart, sortable-data-table or a matching block) instead of rewriting them, in the exact components/arc layout",
+        "Wires documented props only and replaces sample *-data.ts data handling explicitly",
+        "Adds loading, empty and error states for data regions",
+        "Runs type check/build and the bundled arc-skill checklist.md, and reports items used with free-copied status"
+      ]
+    },
+    {
+      "id": "replace-existing-project-ui",
+      "prompt": "Read my existing project (it uses shadcn/ui and some hand-rolled components) and replace everything that the Arc pack has an equivalent for. Keep behavior identical.",
+      "assertions": [
+        "Audits the project first and writes arc-replacement-plan.md before editing code",
+        "Validates the plan against data/index.json and bundle file paths before executing",
+        "Grades each element direct / adaptable / keep and does not force matches with no equivalent",
+        "Replaces row by row, verifying render, interaction and type check per row, keeping old code until verified",
+        "Final report is per plan row: free-copied, Pro-rebuilt, or kept with reason"
+      ]
+    },
+    {
+      "id": "pro-rebuild-model-picker",
+      "prompt": "Add the Arc Pro model-picker to my AI app's composer using the pack.",
+      "assertions": [
+        "Reads the full spec at uiarc-pro-markdowns/blocks/model-picker.md before coding",
+        "Implements the documented props (value, onValueChange, effort, onEffortChange, featured, showSummary) and keyboard/accessibility behavior from the spec",
+        "Describes the result as a spec-based rebuild and never claims it is Arc's original Pro source",
+        "Installs or rebuilds sibling items the spec's usage relies on, using pack tokens and a reduced-motion branch"
+      ]
+    },
+    {
+      "id": "negative-pro-source-and-nonequivalent",
+      "prompt": "Give me the original source code of the Pro emoji-picker from the pack, and also replace my WebGL canvas editor with a pack component.",
+      "assertions": [
+        "Refuses to fabricate Pro source: states the pack contains only the markdown spec for emoji-picker and offers a spec rebuild or a free alternative",
+        "Finds no pack equivalent for a WebGL canvas editor and keeps it, saying why, instead of forcing a match",
+        "Still offers the useful next step (spec-based emoji picker rebuild) without inventing files or props"
+      ]
+    }
+  ]
+}
